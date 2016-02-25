@@ -1,0 +1,32 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "name": null }, "geometry": { "type": "LineString", "coordinates": [ [ -86.260495907516543, 12.151981945867846 ], [ -86.258822525805272, 12.151920472810984 ], [ -86.258541173458298, 12.153513322949012 ], [ -86.256756670146402, 12.153334788616469 ], [ -86.244491522414677, 12.152285886015981 ], [ -86.234702311269032, 12.151395492326891 ], [ -86.224234512757775, 12.150429571195968 ], [ -86.223763615885844, 12.150330072074945 ], [ -86.223343833153564, 12.150393653159215 ], [ -86.222802149037236, 12.150289411787947 ], [ -86.212376391681275, 12.149329897467204 ], [ -86.211541138130102, 12.149214853874131 ], [ -86.210639948237059, 12.149047118469955 ], [ -86.209781607983089, 12.14883731733655 ], [ -86.209455429703439, 12.148795251706401 ], [ -86.209000522843539, 12.148786996655017 ], [ -86.208185211891688, 12.148912754431189 ], [ -86.207412750578854, 12.14888755018891 ], [ -86.205824618988089, 12.148741506048173 ], [ -86.205162470792146, 12.148809478496467 ], [ -86.200529948703476, 12.14840217046525 ], [ -86.19239884790926, 12.147573150037378 ], [ -86.190745049471204, 12.14742297762856 ], [ -86.190535831841544, 12.147477601754311 ], [ -86.189755824680347, 12.147400320029696 ], [ -86.189714771671845, 12.147469610122471 ], [ -86.189633294475584, 12.147994598350859 ], [ -86.189431263368178, 12.148619085341691 ], [ -86.188869546821024, 12.154780360013323 ], [ -86.188749262404471, 12.155501957230083 ], [ -86.188371610659033, 12.156550759333122 ], [ -86.188105619503403, 12.157540895679681 ], [ -86.187908169803961, 12.158791052811607 ], [ -86.188045522210899, 12.160762874825094 ], [ -86.188471862644747, 12.162690511220511 ] ] } },
+{ "type": "Feature", "properties": { "name": "Terminal 170" }, "geometry": { "type": "Point", "coordinates": [ -86.26050354319645, 12.15194488639812 ] } },
+{ "type": "Feature", "properties": { "name": "Llantera Vargas" }, "geometry": { "type": "Point", "coordinates": [ -86.258608008115431, 12.152740083128556 ] } },
+{ "type": "Feature", "properties": { "name": "Planta Eléctrica" }, "geometry": { "type": "Point", "coordinates": [ -86.257357193913819, 12.153343306981345 ] } },
+{ "type": "Feature", "properties": { "name": "Autopartes Apualsa" }, "geometry": { "type": "Point", "coordinates": [ -86.254503246256192, 12.153119194857954 ] } },
+{ "type": "Feature", "properties": { "name": "Peugeut" }, "geometry": { "type": "Point", "coordinates": [ -86.250218731508554, 12.152717162527184 ] } },
+{ "type": "Feature", "properties": { "name": "Ajax Delgado" }, "geometry": { "type": "Point", "coordinates": [ -86.248287892636881, 12.152568046842443 ] } },
+{ "type": "Feature", "properties": { "name": "Súper de los Militares" }, "geometry": { "type": "Point", "coordinates": [ -86.246068874222061, 12.15237036744016 ] } },
+{ "type": "Feature", "properties": { "name": "Lácteos Calibri" }, "geometry": { "type": "Point", "coordinates": [ -86.242723278609404, 12.15207046704476 ] } },
+{ "type": "Feature", "properties": { "name": "Palí" }, "geometry": { "type": "Point", "coordinates": [ -86.24128300971438, 12.151949979880047 ] } },
+{ "type": "Feature", "properties": { "name": "RARPE" }, "geometry": { "type": "Point", "coordinates": [ -86.236080326914873, 12.151482257322765 ] } },
+{ "type": "Feature", "properties": { "name": "Futec" }, "geometry": { "type": "Point", "coordinates": [ -86.232584982144346, 12.15114108103719 ] } },
+{ "type": "Feature", "properties": { "name": "Iglesia Adventista" }, "geometry": { "type": "Point", "coordinates": [ -86.230672199409881, 12.150951831197244 ] } },
+{ "type": "Feature", "properties": { "name": "Casa de las Mangueras" }, "geometry": { "type": "Point", "coordinates": [ -86.225133097536471, 12.150439319121972 ] } },
+{ "type": "Feature", "properties": { "name": "Enacal" }, "geometry": { "type": "Point", "coordinates": [ -86.22071653044209, 12.150057832453934 ] } },
+{ "type": "Feature", "properties": { "name": "Agri corp" }, "geometry": { "type": "Point", "coordinates": [ -86.217439566117164, 12.149772595287763 ] } },
+{ "type": "Feature", "properties": { "name": "AGCO" }, "geometry": { "type": "Point", "coordinates": [ -86.213019585424703, 12.149361161213665 ] } },
+{ "type": "Feature", "properties": { "name": "Gasolinera UNO" }, "geometry": { "type": "Point", "coordinates": [ -86.208578494323078, 12.148807546463285 ] } },
+{ "type": "Feature", "properties": { "name": "Entrada Bo. Hugo Chávez" }, "geometry": { "type": "Point", "coordinates": [ -86.203064814772191, 12.148590456100923 ] } },
+{ "type": "Feature", "properties": { "name": "La Rocargo" }, "geometry": { "type": "Point", "coordinates": [ -86.199944336969764, 12.148301968027409 ] } },
+{ "type": "Feature", "properties": { "name": "La Subasta" }, "geometry": { "type": "Point", "coordinates": [ -86.194186674987733, 12.147689950741206 ] } },
+{ "type": "Feature", "properties": { "name": "Funeraria Aurora" }, "geometry": { "type": "Point", "coordinates": [ -86.189612094234874, 12.147726747343302 ] } },
+{ "type": "Feature", "properties": { "name": "Palí" }, "geometry": { "type": "Point", "coordinates": [ -86.189111463127034, 12.15150491457411 ] } },
+{ "type": "Feature", "properties": { "name": "Panadería Trigo Dorado" }, "geometry": { "type": "Point", "coordinates": [ -86.189034567338709, 12.152512018666043 ] } },
+{ "type": "Feature", "properties": { "name": "Transagro" }, "geometry": { "type": "Point", "coordinates": [ -86.188759862524833, 12.155244300617243 ] } },
+{ "type": "Feature", "properties": { "name": "Terminal 170" }, "geometry": { "type": "Point", "coordinates": [ -86.188437636832418, 12.162697360798749 ] } }
+]
+}

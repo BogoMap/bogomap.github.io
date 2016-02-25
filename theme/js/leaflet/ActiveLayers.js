@@ -57,41 +57,40 @@ L.Control.ActiveLayers = L.Control.Layers.extend({
     return result
   },
 
-  _onLayerChange: function () {
-    L.Control.Layers.prototype._onLayerChange.apply(this, arguments)
-    this._recountLayers()
-  },
-
   _onInputClick: function () {
-    this._handlingClick = true
-
-    this._recountLayers()
-    L.Control.Layers.prototype._onInputClick.call(this)
-
-    this._handlingClick = false
-  },
-
-  _recountLayers: function () {
     var i, input, obj,
-      inputs = this._form.getElementsByTagName('input'),
-      inputsLen = inputs.length;
+        inputs = this._form.getElementsByTagName('input'),
+        inputsLen = inputs.length,
+        baseLayer
+
+    this._handlingClick = true
 
     for (i = 0; i < inputsLen; i++) {
       input = inputs[i]
       obj = this._layers[input.layerId]
 
       if (input.checked && !this._map.hasLayer(obj.layer)) {
-        if (obj.overlay) {
-          this._activeOverlayLayers[input.layerId] = obj
-        } else {
+        this._map.addLayer(obj.layer)
+        if (!obj.overlay) {
+          baseLayer = obj.layer
           this._activeBaseLayer = obj
+        } else {
+          this._activeOverlayLayers[input.layerId] = obj
         }
       } else if (!input.checked && this._map.hasLayer(obj.layer)) {
+        this._map.removeLayer(obj.layer)
         if (obj.overlay) {
           delete this._activeOverlayLayers[input.layerId]
         }
       }
     }
+
+    if (baseLayer) {
+      this._map.setZoom(this._map.getZoom())
+      this._map.fire('baselayerchange', {layer: baseLayer})
+    }
+
+    this._handlingClick = false
   }
 
 })

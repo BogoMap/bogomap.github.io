@@ -1,7 +1,7 @@
 <?php
 if(isset($_POST['url']) && $_POST['url'] == ''){
   // The form was submitted
-  $ouremail = 'contacto@bogomap.co';
+  $ouremail = 'contacto@mapanica.net';
 
   // Important: if we add any form fields to the HTML,
   // and want them included in the email, we will need to add them here also
@@ -19,12 +19,11 @@ if(isset($_POST['url']) && $_POST['url'] == ''){
     else {
       $headers = "From: $ouremail";
     }
-    // Finally, send the message
-    mail($ouremail, 'Reporte de rutas.bogomap.co', $body, $headers );
-    header('Location: ../../index.html?message="Gracias por tu reporte"');
+    // finally, send the message
+    mail($ouremail, 'Reporte de rutas.mapanica.net', $body, $headers );
+    header('Location: ../../index.html?message="Gracias por su reporte"');
   }
   else {
     header('Location: ../../index.html?message="Mensaje no enviado"');
   }
 ?>
-

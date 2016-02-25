@@ -1,0 +1,33 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "name": null }, "geometry": { "type": "LineString", "coordinates": [ [ -86.257584647343776, 12.151841875096171 ], [ -86.258822525805272, 12.151920472810984 ], [ -86.258541173458298, 12.153513322949012 ], [ -86.256756670146402, 12.153334788616469 ], [ -86.244491522414677, 12.152285886015981 ], [ -86.234702311269032, 12.151395492326891 ], [ -86.224234512757775, 12.150429571195968 ], [ -86.223763615885844, 12.150330072074945 ], [ -86.223343833153564, 12.150393653159215 ], [ -86.222802149037236, 12.150289411787947 ], [ -86.212376391681275, 12.149329897467204 ], [ -86.211541138130102, 12.149214853874131 ], [ -86.210639948237059, 12.149047118469955 ], [ -86.209781607983089, 12.14883731733655 ], [ -86.209455429703439, 12.148795251706401 ], [ -86.209000522843539, 12.148786996655017 ], [ -86.208185211891688, 12.148912754431189 ], [ -86.207412750578854, 12.14888755018891 ], [ -86.205824618988089, 12.148741506048173 ], [ -86.205162470792146, 12.148809478496467 ], [ -86.200529948703476, 12.14840217046525 ], [ -86.19239884790926, 12.147573150037378 ], [ -86.188917966014841, 12.147255680196166 ], [ -86.18177662900068, 12.146512720249756 ], [ -86.180953233211241, 12.146361581217242 ], [ -86.180463202223763, 12.146172503619955 ], [ -86.179732692234722, 12.146262519678142 ], [ -86.169903685722005, 12.145219561024129 ], [ -86.167553962433317, 12.144996671553185 ], [ -86.167160051181241, 12.14500887866458 ], [ -86.166269910566186, 12.1451388536289 ], [ -86.165816800336884, 12.145247312418793 ], [ -86.165300179216985, 12.145428398980059 ], [ -86.159066949123556, 12.148337183787687 ], [ -86.157964806101461, 12.148891502073749 ], [ -86.157748671444111, 12.148965621858462 ] ] } },
+{ "type": "Feature", "properties": { "name": "Vidriera" }, "geometry": { "type": "Point", "coordinates": [ -86.25758141340873, 12.151879812767003 ] } },
+{ "type": "Feature", "properties": { "name": "Llantera Vargas" }, "geometry": { "type": "Point", "coordinates": [ -86.258608008115431, 12.152740083128556 ] } },
+{ "type": "Feature", "properties": { "name": "Planta Eléctrica" }, "geometry": { "type": "Point", "coordinates": [ -86.257357193913819, 12.153343306981345 ] } },
+{ "type": "Feature", "properties": { "name": "Autopartes Apualsa" }, "geometry": { "type": "Point", "coordinates": [ -86.254503246256192, 12.153119194857954 ] } },
+{ "type": "Feature", "properties": { "name": "Peugeut" }, "geometry": { "type": "Point", "coordinates": [ -86.250218731508554, 12.152717162527184 ] } },
+{ "type": "Feature", "properties": { "name": "Ajax Delgado" }, "geometry": { "type": "Point", "coordinates": [ -86.248287892636881, 12.152568046842443 ] } },
+{ "type": "Feature", "properties": { "name": "Súper de los Militares" }, "geometry": { "type": "Point", "coordinates": [ -86.246068874222061, 12.15237036744016 ] } },
+{ "type": "Feature", "properties": { "name": "Lácteos Calibri" }, "geometry": { "type": "Point", "coordinates": [ -86.242723278609404, 12.15207046704476 ] } },
+{ "type": "Feature", "properties": { "name": "Palí" }, "geometry": { "type": "Point", "coordinates": [ -86.24128300971438, 12.151949979880047 ] } },
+{ "type": "Feature", "properties": { "name": "RARPE" }, "geometry": { "type": "Point", "coordinates": [ -86.236080326914873, 12.151482257322765 ] } },
+{ "type": "Feature", "properties": { "name": "Futec" }, "geometry": { "type": "Point", "coordinates": [ -86.232584982144346, 12.15114108103719 ] } },
+{ "type": "Feature", "properties": { "name": "Iglesia Adventista" }, "geometry": { "type": "Point", "coordinates": [ -86.230672199409881, 12.150951831197244 ] } },
+{ "type": "Feature", "properties": { "name": "Casa de las Mangueras" }, "geometry": { "type": "Point", "coordinates": [ -86.225133097536471, 12.150439319121972 ] } },
+{ "type": "Feature", "properties": { "name": "Enacal" }, "geometry": { "type": "Point", "coordinates": [ -86.22071653044209, 12.150057832453934 ] } },
+{ "type": "Feature", "properties": { "name": "Agri corp" }, "geometry": { "type": "Point", "coordinates": [ -86.217439566117164, 12.149772595287763 ] } },
+{ "type": "Feature", "properties": { "name": "AGCO" }, "geometry": { "type": "Point", "coordinates": [ -86.213019585424703, 12.149361161213665 ] } },
+{ "type": "Feature", "properties": { "name": "Gasolinera UNO" }, "geometry": { "type": "Point", "coordinates": [ -86.208578494323078, 12.148807546463285 ] } },
+{ "type": "Feature", "properties": { "name": "Entrada Bo. Hugo Chávez" }, "geometry": { "type": "Point", "coordinates": [ -86.203064814772191, 12.148590456100923 ] } },
+{ "type": "Feature", "properties": { "name": "La Rocargo" }, "geometry": { "type": "Point", "coordinates": [ -86.199944336969764, 12.148301968027409 ] } },
+{ "type": "Feature", "properties": { "name": "La Subasta" }, "geometry": { "type": "Point", "coordinates": [ -86.194186674987733, 12.147689950741206 ] } },
+{ "type": "Feature", "properties": { "name": "Las Mercedes" }, "geometry": { "type": "Point", "coordinates": [ -86.190111288038267, 12.147272453854233 ] } },
+{ "type": "Feature", "properties": { "name": "APENN" }, "geometry": { "type": "Point", "coordinates": [ -86.177070804384812, 12.145915013615204 ] } },
+{ "type": "Feature", "properties": { "name": "Aeropuerto" }, "geometry": { "type": "Point", "coordinates": [ -86.171368029466635, 12.145318710772161 ] } },
+{ "type": "Feature", "properties": { "name": "INAC" }, "geometry": { "type": "Point", "coordinates": [ -86.167153403648143, 12.14492685389094 ] } },
+{ "type": "Feature", "properties": { "name": "UNA" }, "geometry": { "type": "Point", "coordinates": [ -86.162119963448163, 12.146808850632958 ] } },
+{ "type": "Feature", "properties": { "name": "Zona Franca Las Mercedes" }, "geometry": { "type": "Point", "coordinates": [ -86.157735645872478, 12.148903621186879 ] } }
+]
+}

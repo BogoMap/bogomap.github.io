@@ -11,7 +11,7 @@
 }
 
 
-#bogomap-logo {
+#mapanica-logo {
   position: absolute;
   z-index: 2;
   top: 10px;
@@ -22,11 +22,11 @@
   padding-top: 5px;
 }
 
-#bogomap-logo img {
+#mapanica-logo img {
   width: 48px;
 }
 
-#bogomap-logo span {
+#mapanica-logo span {
   font-size: 9px;
   font-weight: bold;
   background-color: #000;
@@ -43,11 +43,11 @@
   opacity: 0.5;
 }
 
-#bogomap-logo a span {
+#mapanica-logo a span {
   color: #fff;
 }
 
-#bogomap-logo a:hover {
+#mapanica-logo a:hover {
   color: #fff;
   text-decoration: none;
 }
