@@ -18,7 +18,7 @@ along with BogoMap-rutas.  If not, see http://www.gnu.org/licenses/.
 $(document).ready(function (){
 
   var search = function(){
-    var inp = document.getElementById("search-string") + ", Managua, Nicaragua";
+    var inp = document.getElementById("search-string") + ", Bogota, Colombia";
     $.getJSON('http://nominatim.openstreetmap.org/search?format=json&limit=5&q=' + inp.value, function(data) {
     var items = [];
     $.each(data, function(key, val) {
