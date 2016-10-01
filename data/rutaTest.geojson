@@ -1,0 +1,2310 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-09-27T15:12:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/29650394",
+      "properties": {
+        "@id": "way/29650394",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0326266,
+            5.8279547
+          ],
+          [
+            -73.0330368,
+            5.8286603
+          ],
+          [
+            -73.0334418,
+            5.8294244
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439380438",
+      "properties": {
+        "@id": "way/439380438",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0371043,
+            5.8359689
+          ],
+          [
+            -73.0364273,
+            5.8361004
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695717",
+      "properties": {
+        "@id": "way/440695717",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0334418,
+            5.8294244
+          ],
+          [
+            -73.0337728,
+            5.8300077
+          ],
+          [
+            -73.0339381,
+            5.8302632
+          ],
+          [
+            -73.0343668,
+            5.8309903
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/37290049",
+      "properties": {
+        "@id": "way/37290049",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0367998,
+            5.8340708
+          ],
+          [
+            -73.0368309,
+            5.8343588
+          ],
+          [
+            -73.0368763,
+            5.8345781
+          ],
+          [
+            -73.0368963,
+            5.8347593
+          ],
+          [
+            -73.0369648,
+            5.8351215
+          ],
+          [
+            -73.0369726,
+            5.8351627
+          ],
+          [
+            -73.0370398,
+            5.8355201
+          ],
+          [
+            -73.0371043,
+            5.8359689
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/129692184",
+      "properties": {
+        "@id": "way/129692184",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0358148,
+            5.8335175
+          ],
+          [
+            -73.0358333,
+            5.8335579
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700887",
+      "properties": {
+        "@id": "way/438700887",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0358573,
+            5.8336103
+          ],
+          [
+            -73.0365509,
+            5.8332129
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700900",
+      "properties": {
+        "@id": "way/438700900",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0358333,
+            5.8335579
+          ],
+          [
+            -73.0358573,
+            5.8336103
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439534438",
+      "properties": {
+        "@id": "way/439534438",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0365509,
+            5.8332129
+          ],
+          [
+            -73.0366461,
+            5.8335187
+          ],
+          [
+            -73.0367439,
+            5.8338948
+          ],
+          [
+            -73.0367591,
+            5.8339573
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439534442",
+      "properties": {
+        "@id": "way/439534442",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.03517,
+            5.832389
+          ],
+          [
+            -73.0353824,
+            5.832757
+          ],
+          [
+            -73.035434,
+            5.8328262
+          ],
+          [
+            -73.0358148,
+            5.8335175
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440526942",
+      "properties": {
+        "@id": "way/440526942",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0367591,
+            5.8339573
+          ],
+          [
+            -73.0367998,
+            5.8340708
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442960908",
+      "properties": {
+        "@id": "way/442960908",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0343668,
+            5.8309903
+          ],
+          [
+            -73.0348009,
+            5.831741
+          ],
+          [
+            -73.03517,
+            5.832389
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440693389",
+      "properties": {
+        "@id": "way/440693389",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0158626,
+            5.8095373
+          ],
+          [
+            -73.0158852,
+            5.8096883
+          ],
+          [
+            -73.0160692,
+            5.8099905
+          ],
+          [
+            -73.0161486,
+            5.8101308
+          ],
+          [
+            -73.0163615,
+            5.8105805
+          ],
+          [
+            -73.0167462,
+            5.8113181
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42726566",
+      "properties": {
+        "@id": "way/42726566",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0181399,
+            5.8091295
+          ],
+          [
+            -73.0180388,
+            5.8089561
+          ],
+          [
+            -73.0179174,
+            5.8087759
+          ],
+          [
+            -73.0177341,
+            5.808503
+          ],
+          [
+            -73.0176926,
+            5.8084427
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700881",
+      "properties": {
+        "@id": "way/438700881",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.016764,
+            5.8094795
+          ],
+          [
+            -73.0166895,
+            5.809496
+          ],
+          [
+            -73.016488,
+            5.8095292
+          ],
+          [
+            -73.0158626,
+            5.8095373
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700929",
+      "properties": {
+        "@id": "way/438700929",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0172278,
+            5.8077533
+          ],
+          [
+            -73.0179828,
+            5.8072693
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439378286",
+      "properties": {
+        "@id": "way/439378286",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0179828,
+            5.8072693
+          ],
+          [
+            -73.0175367,
+            5.80659
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439378290",
+      "properties": {
+        "@id": "way/439378290",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0181185,
+            5.8062142
+          ],
+          [
+            -73.0175367,
+            5.80659
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439534445",
+      "properties": {
+        "@id": "way/439534445",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0176926,
+            5.8084427
+          ],
+          [
+            -73.0172278,
+            5.8077533
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828185",
+      "properties": {
+        "@id": "way/441828185",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0181399,
+            5.8091295
+          ],
+          [
+            -73.0175859,
+            5.8092638
+          ],
+          [
+            -73.016764,
+            5.8094795
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29675286",
+      "properties": {
+        "@id": "way/29675286",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0197178,
+            5.816514
+          ],
+          [
+            -73.0200265,
+            5.8167215
+          ],
+          [
+            -73.0204069,
+            5.8168742
+          ],
+          [
+            -73.0207054,
+            5.8169607
+          ],
+          [
+            -73.0213204,
+            5.817127
+          ],
+          [
+            -73.0215072,
+            5.8171749
+          ],
+          [
+            -73.0217555,
+            5.8173321
+          ],
+          [
+            -73.0218147,
+            5.8173753
+          ],
+          [
+            -73.0226735,
+            5.8180337
+          ],
+          [
+            -73.0230221,
+            5.8183594
+          ],
+          [
+            -73.0232504,
+            5.8186162
+          ],
+          [
+            -73.0239675,
+            5.8197262
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/444195846",
+      "properties": {
+        "@id": "way/444195846",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0257534,
+            5.8221409
+          ],
+          [
+            -73.0259786,
+            5.8225314
+          ],
+          [
+            -73.0265418,
+            5.8231964
+          ],
+          [
+            -73.0267421,
+            5.8233915
+          ],
+          [
+            -73.0269442,
+            5.8237208
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850406",
+      "properties": {
+        "@id": "way/441850406",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0239675,
+            5.8197262
+          ],
+          [
+            -73.0243274,
+            5.8202775
+          ],
+          [
+            -73.0246303,
+            5.8206101
+          ],
+          [
+            -73.0249424,
+            5.820945
+          ],
+          [
+            -73.0253069,
+            5.8213801
+          ],
+          [
+            -73.0257534,
+            5.8221409
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828188",
+      "properties": {
+        "@id": "way/441828188",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0167462,
+            5.8113181
+          ],
+          [
+            -73.0170104,
+            5.8118056
+          ],
+          [
+            -73.0183776,
+            5.8143297
+          ],
+          [
+            -73.0189504,
+            5.815361
+          ],
+          [
+            -73.0195801,
+            5.8163785
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440693391",
+      "properties": {
+        "@id": "way/440693391",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0195801,
+            5.8163785
+          ],
+          [
+            -73.0197178,
+            5.816514
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29643136",
+      "properties": {
+        "@id": "way/29643136",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0291955,
+            5.8272507
+          ],
+          [
+            -73.0300866,
+            5.8271537
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/156467499",
+      "properties": {
+        "@id": "way/156467499",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0271519,
+            5.8240339
+          ],
+          [
+            -73.0272745,
+            5.8241418
+          ],
+          [
+            -73.0273521,
+            5.8242082
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/156467521",
+      "properties": {
+        "@id": "way/156467521",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0291955,
+            5.8272507
+          ],
+          [
+            -73.0288542,
+            5.826599
+          ],
+          [
+            -73.0287008,
+            5.8263187
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/398593297",
+      "properties": {
+        "@id": "way/398593297",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0284064,
+            5.8256701
+          ],
+          [
+            -73.0280625,
+            5.8249709
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/398593298",
+      "properties": {
+        "@id": "way/398593298",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0280625,
+            5.8249709
+          ],
+          [
+            -73.0278041,
+            5.8246899
+          ],
+          [
+            -73.0274506,
+            5.8243309
+          ],
+          [
+            -73.0273521,
+            5.8242082
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700918",
+      "properties": {
+        "@id": "way/438700918",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0309814,
+            5.8269106
+          ],
+          [
+            -73.0318139,
+            5.8264591
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700933",
+      "properties": {
+        "@id": "way/438700933",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.02696,
+            5.8239743
+          ],
+          [
+            -73.0269887,
+            5.8240071
+          ],
+          [
+            -73.0270253,
+            5.8240308
+          ],
+          [
+            -73.0270671,
+            5.8240436
+          ],
+          [
+            -73.0271108,
+            5.8240445
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440693929",
+      "properties": {
+        "@id": "way/440693929",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0269437,
+            5.8238366
+          ],
+          [
+            -73.0269347,
+            5.8238835
+          ],
+          [
+            -73.0269403,
+            5.8239308
+          ],
+          [
+            -73.02696,
+            5.8239743
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695716",
+      "properties": {
+        "@id": "way/440695716",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0318139,
+            5.8264591
+          ],
+          [
+            -73.0322052,
+            5.827182
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441846060",
+      "properties": {
+        "@id": "way/441846060",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0287008,
+            5.8263187
+          ],
+          [
+            -73.0284064,
+            5.8256701
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441846062",
+      "properties": {
+        "@id": "way/441846062",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0269625,
+            5.8238
+          ],
+          [
+            -73.0269437,
+            5.8238366
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441847935",
+      "properties": {
+        "@id": "way/441847935",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0271108,
+            5.8240445
+          ],
+          [
+            -73.0271519,
+            5.8240339
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850409",
+      "properties": {
+        "@id": "way/441850409",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0322052,
+            5.827182
+          ],
+          [
+            -73.0326266,
+            5.8279547
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442225423",
+      "properties": {
+        "@id": "way/442225423",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0300866,
+            5.8271537
+          ],
+          [
+            -73.0309814,
+            5.8269106
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/444195845",
+      "properties": {
+        "@id": "way/444195845",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0269442,
+            5.8237208
+          ],
+          [
+            -73.0269625,
+            5.8238
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/62229856",
+      "properties": {
+        "@id": "way/62229856",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0363589,
+            5.838106
+          ],
+          [
+            -73.0365133,
+            5.8388818
+          ],
+          [
+            -73.036565,
+            5.8392394
+          ],
+          [
+            -73.0366393,
+            5.8395775
+          ],
+          [
+            -73.0366265,
+            5.839701
+          ],
+          [
+            -73.0367142,
+            5.8408663
+          ],
+          [
+            -73.0367979,
+            5.8415394
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/62229857",
+      "properties": {
+        "@id": "way/62229857",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0345996,
+            5.8380617
+          ],
+          [
+            -73.0352939,
+            5.8379836
+          ],
+          [
+            -73.0356053,
+            5.837933
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341917202",
+      "properties": {
+        "@id": "way/341917202",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0356053,
+            5.837933
+          ],
+          [
+            -73.0360256,
+            5.8380876
+          ],
+          [
+            -73.0363589,
+            5.838106
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341917210",
+      "properties": {
+        "@id": "way/341917210",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0364273,
+            5.8361004
+          ],
+          [
+            -73.0361449,
+            5.836151
+          ],
+          [
+            -73.0357489,
+            5.8362235
+          ],
+          [
+            -73.0354405,
+            5.8362738
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439380544",
+      "properties": {
+        "@id": "way/439380544",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0354405,
+            5.8362738
+          ],
+          [
+            -73.0354226,
+            5.8361735
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439380545",
+      "properties": {
+        "@id": "way/439380545",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0345553,
+            5.8377912
+          ],
+          [
+            -73.0345304,
+            5.837616
+          ],
+          [
+            -73.0343674,
+            5.8364705
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439380546",
+      "properties": {
+        "@id": "way/439380546",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0354226,
+            5.8361735
+          ],
+          [
+            -73.0343674,
+            5.8364705
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439381424",
+      "properties": {
+        "@id": "way/439381424",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.036124,
+            5.842281
+          ],
+          [
+            -73.0360632,
+            5.8415768
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439381425",
+      "properties": {
+        "@id": "way/439381425",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0367979,
+            5.8415394
+          ],
+          [
+            -73.0360632,
+            5.8415768
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442964279",
+      "properties": {
+        "@id": "way/442964279",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0345996,
+            5.8380617
+          ],
+          [
+            -73.0345553,
+            5.8377912
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700921",
+      "properties": {
+        "@id": "way/438700921",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.036124,
+            5.842281
+          ],
+          [
+            -73.0366924,
+            5.8425699
+          ],
+          [
+            -73.0369031,
+            5.8426083
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/160164888",
+      "properties": {
+        "@id": "way/160164888",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0378219,
+            5.8473202
+          ],
+          [
+            -73.0375508,
+            5.847479
+          ],
+          [
+            -73.0367867,
+            5.8478869
+          ],
+          [
+            -73.0359778,
+            5.848147
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/160164905",
+      "properties": {
+        "@id": "way/160164905",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0381663,
+            5.8448449
+          ],
+          [
+            -73.0377046,
+            5.844973
+          ],
+          [
+            -73.0375617,
+            5.8450966
+          ],
+          [
+            -73.0375617,
+            5.8454551
+          ],
+          [
+            -73.0377481,
+            5.8464501
+          ],
+          [
+            -73.0378413,
+            5.8467467
+          ],
+          [
+            -73.0378219,
+            5.8473202
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/171127337",
+      "properties": {
+        "@id": "way/171127337",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0371424,
+            5.8430848
+          ],
+          [
+            -73.0373325,
+            5.8433837
+          ],
+          [
+            -73.0374494,
+            5.8436307
+          ],
+          [
+            -73.0376959,
+            5.8440932
+          ],
+          [
+            -73.0380241,
+            5.8446142
+          ],
+          [
+            -73.0381663,
+            5.8448449
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/444202395",
+      "properties": {
+        "@id": "way/444202395",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525438",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "A1 - Juan Grande - Once de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "11 de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0369031,
+            5.8426083
+          ],
+          [
+            -73.0370346,
+            5.8428702
+          ],
+          [
+            -73.0371424,
+            5.8430848
+          ]
+        ]
+      }
+    }
+  ]
+}

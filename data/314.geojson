@@ -1,0 +1,8478 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-09-27T16:09:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/88880195",
+      "properties": {
+        "@id": "way/88880195",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0761272,
+            4.6086957
+          ],
+          [
+            -74.0761768,
+            4.6087372
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/88880208",
+      "properties": {
+        "@id": "way/88880208",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0757622,
+            4.6084185
+          ],
+          [
+            -74.0761272,
+            4.6086957
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89578898",
+      "properties": {
+        "@id": "way/89578898",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.076303,
+            4.6088441
+          ],
+          [
+            -74.0770358,
+            4.6093371
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89578906",
+      "properties": {
+        "@id": "way/89578906",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.07624,
+            4.6087936
+          ],
+          [
+            -74.076303,
+            4.6088441
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89578931",
+      "properties": {
+        "@id": "way/89578931",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0761768,
+            4.6087372
+          ],
+          [
+            -74.07624,
+            4.6087936
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89578935",
+      "properties": {
+        "@id": "way/89578935",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0770358,
+            4.6093371
+          ],
+          [
+            -74.0775835,
+            4.6097354
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/88861010",
+      "properties": {
+        "@id": "way/88861010",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0715429,
+            4.6053487
+          ],
+          [
+            -74.0715962,
+            4.605395
+          ],
+          [
+            -74.0719235,
+            4.6056045
+          ],
+          [
+            -74.0722257,
+            4.605798
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/88880173",
+      "properties": {
+        "@id": "way/88880173",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0737339,
+            4.6068332
+          ],
+          [
+            -74.0737911,
+            4.606874
+          ],
+          [
+            -74.0738507,
+            4.6069223
+          ],
+          [
+            -74.0738945,
+            4.6069666
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/88880178",
+      "properties": {
+        "@id": "way/88880178",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0738945,
+            4.6069666
+          ],
+          [
+            -74.0744147,
+            4.6073775
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/88880205",
+      "properties": {
+        "@id": "way/88880205",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0744147,
+            4.6073775
+          ],
+          [
+            -74.0748852,
+            4.6077418
+          ],
+          [
+            -74.0752701,
+            4.6080398
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/88893426",
+      "properties": {
+        "@id": "way/88893426",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0722257,
+            4.605798
+          ],
+          [
+            -74.0726917,
+            4.6061029
+          ],
+          [
+            -74.0730976,
+            4.6063684
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/88893435",
+      "properties": {
+        "@id": "way/88893435",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0730976,
+            4.6063684
+          ],
+          [
+            -74.0733285,
+            4.6065435
+          ],
+          [
+            -74.0736755,
+            4.606791
+          ],
+          [
+            -74.0737339,
+            4.6068332
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/200760766",
+      "properties": {
+        "@id": "way/200760766",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0705976,
+            4.6047493
+          ],
+          [
+            -74.0708381,
+            4.6049009
+          ],
+          [
+            -74.0715429,
+            4.6053487
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/49501318",
+      "properties": {
+        "@id": "way/49501318",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0771744,
+            4.6167972
+          ],
+          [
+            -74.0754594,
+            4.6180013
+          ],
+          [
+            -74.0750628,
+            4.6182749
+          ],
+          [
+            -74.0750165,
+            4.6183261
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/88880200",
+      "properties": {
+        "@id": "way/88880200",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0752701,
+            4.6080398
+          ],
+          [
+            -74.0757622,
+            4.6084185
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89578934",
+      "properties": {
+        "@id": "way/89578934",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0775835,
+            4.6097354
+          ],
+          [
+            -74.0786133,
+            4.610431
+          ],
+          [
+            -74.079009,
+            4.6107149
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24251960",
+      "properties": {
+        "@id": "way/24251960",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0783331,
+            4.616315
+          ],
+          [
+            -74.0778723,
+            4.6155906
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24421531",
+      "properties": {
+        "@id": "way/24421531",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.080417,
+            4.6117645
+          ],
+          [
+            -74.0797491,
+            4.6126583
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89574359",
+      "properties": {
+        "@id": "way/89574359",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0772347,
+            4.6167548
+          ],
+          [
+            -74.0771744,
+            4.6167972
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89574372",
+      "properties": {
+        "@id": "way/89574372",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0783331,
+            4.616315
+          ],
+          [
+            -74.0781724,
+            4.6163247
+          ],
+          [
+            -74.078049,
+            4.6163422
+          ],
+          [
+            -74.0779292,
+            4.6163704
+          ],
+          [
+            -74.077894,
+            4.6163834
+          ],
+          [
+            -74.0777725,
+            4.6164268
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89574396",
+      "properties": {
+        "@id": "way/89574396",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0782812,
+            4.6146138
+          ],
+          [
+            -74.0782134,
+            4.614059
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89575508",
+      "properties": {
+        "@id": "way/89575508",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0778723,
+            4.6155906
+          ],
+          [
+            -74.0772878,
+            4.6147078
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89578893",
+      "properties": {
+        "@id": "way/89578893",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0790034,
+            4.6136667
+          ],
+          [
+            -74.0784465,
+            4.6144143
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89578900",
+      "properties": {
+        "@id": "way/89578900",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.079009,
+            4.6107149
+          ],
+          [
+            -74.079451,
+            4.6110183
+          ],
+          [
+            -74.0797359,
+            4.6112139
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89578922",
+      "properties": {
+        "@id": "way/89578922",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0797359,
+            4.6112139
+          ],
+          [
+            -74.0799137,
+            4.6113577
+          ],
+          [
+            -74.080417,
+            4.6117645
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89578925",
+      "properties": {
+        "@id": "way/89578925",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0777577,
+            4.6143761
+          ],
+          [
+            -74.0782134,
+            4.614059
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89578936",
+      "properties": {
+        "@id": "way/89578936",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0797491,
+            4.6126583
+          ],
+          [
+            -74.0794005,
+            4.6131353
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89578939",
+      "properties": {
+        "@id": "way/89578939",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0784465,
+            4.6144143
+          ],
+          [
+            -74.0782812,
+            4.6146138
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89578947",
+      "properties": {
+        "@id": "way/89578947",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0794005,
+            4.6131353
+          ],
+          [
+            -74.0790034,
+            4.6136667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89578951",
+      "properties": {
+        "@id": "way/89578951",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0772878,
+            4.6147078
+          ],
+          [
+            -74.0777577,
+            4.6143761
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24313803",
+      "properties": {
+        "@id": "way/24313803",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0726705,
+            4.6207951
+          ],
+          [
+            -74.0726618,
+            4.6209513
+          ],
+          [
+            -74.0726331,
+            4.6210991
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24324769",
+      "properties": {
+        "@id": "way/24324769",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0746578,
+            4.6191131
+          ],
+          [
+            -74.0746094,
+            4.6192092
+          ],
+          [
+            -74.0745372,
+            4.619372
+          ],
+          [
+            -74.0743691,
+            4.6197684
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24680808",
+      "properties": {
+        "@id": "way/24680808",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0750165,
+            4.6183261
+          ],
+          [
+            -74.0749655,
+            4.6184139
+          ],
+          [
+            -74.0749188,
+            4.6185091
+          ],
+          [
+            -74.0748747,
+            4.6186027
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89527077",
+      "properties": {
+        "@id": "way/89527077",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0726331,
+            4.6210991
+          ],
+          [
+            -74.0725198,
+            4.6217198
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89527091",
+      "properties": {
+        "@id": "way/89527091",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0722213,
+            4.6233969
+          ],
+          [
+            -74.0722132,
+            4.6234793
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89527103",
+      "properties": {
+        "@id": "way/89527103",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0725198,
+            4.6217198
+          ],
+          [
+            -74.0723685,
+            4.6225644
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89527109",
+      "properties": {
+        "@id": "way/89527109",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0722729,
+            4.6231139
+          ],
+          [
+            -74.0722213,
+            4.6233969
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89527145",
+      "properties": {
+        "@id": "way/89527145",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0723685,
+            4.6225644
+          ],
+          [
+            -74.0722729,
+            4.6231139
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89574072",
+      "properties": {
+        "@id": "way/89574072",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0735594,
+            4.6204973
+          ],
+          [
+            -74.0734005,
+            4.6205359
+          ],
+          [
+            -74.072676,
+            4.620712
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89574281",
+      "properties": {
+        "@id": "way/89574281",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0748747,
+            4.6186027
+          ],
+          [
+            -74.0747158,
+            4.6189386
+          ],
+          [
+            -74.0746578,
+            4.6191131
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89574310",
+      "properties": {
+        "@id": "way/89574310",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.072676,
+            4.620712
+          ],
+          [
+            -74.0726705,
+            4.6207951
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89574350",
+      "properties": {
+        "@id": "way/89574350",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0743691,
+            4.6197684
+          ],
+          [
+            -74.0743122,
+            4.6202218
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89527097",
+      "properties": {
+        "@id": "way/89527097",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0722132,
+            4.6234793
+          ],
+          [
+            -74.0721071,
+            4.6240437
+          ],
+          [
+            -74.0720707,
+            4.6242373
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89725099",
+      "properties": {
+        "@id": "way/89725099",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0724934,
+            4.6299921
+          ],
+          [
+            -74.0723805,
+            4.6307111
+          ],
+          [
+            -74.0723012,
+            4.6311081
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24324764",
+      "properties": {
+        "@id": "way/24324764",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0727924,
+            4.6269786
+          ],
+          [
+            -74.0727813,
+            4.6270534
+          ],
+          [
+            -74.072776,
+            4.6270894
+          ],
+          [
+            -74.0728068,
+            4.6273738
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24324765",
+      "properties": {
+        "@id": "way/24324765",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0728702,
+            4.6279348
+          ],
+          [
+            -74.0728091,
+            4.6283558
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24324768",
+      "properties": {
+        "@id": "way/24324768",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0720306,
+            4.6245727
+          ],
+          [
+            -74.072226,
+            4.6251479
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89720055",
+      "properties": {
+        "@id": "way/89720055",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0720707,
+            4.6242373
+          ],
+          [
+            -74.0720155,
+            4.6244912
+          ],
+          [
+            -74.0720306,
+            4.6245727
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89724978",
+      "properties": {
+        "@id": "way/89724978",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0728068,
+            4.6273738
+          ],
+          [
+            -74.0728702,
+            4.6279348
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89725156",
+      "properties": {
+        "@id": "way/89725156",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0726694,
+            4.6291092
+          ],
+          [
+            -74.0726097,
+            4.6294084
+          ],
+          [
+            -74.0724934,
+            4.6299921
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89725165",
+      "properties": {
+        "@id": "way/89725165",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0728091,
+            4.6283558
+          ],
+          [
+            -74.0727492,
+            4.6286993
+          ],
+          [
+            -74.0726694,
+            4.6291092
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89725173",
+      "properties": {
+        "@id": "way/89725173",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0725582,
+            4.6260697
+          ],
+          [
+            -74.0725771,
+            4.6261266
+          ],
+          [
+            -74.0726352,
+            4.6262931
+          ],
+          [
+            -74.0726809,
+            4.626457
+          ],
+          [
+            -74.0727585,
+            4.6267816
+          ],
+          [
+            -74.0727924,
+            4.6269786
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89725302",
+      "properties": {
+        "@id": "way/89725302",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.072226,
+            4.6251479
+          ],
+          [
+            -74.0723512,
+            4.6255301
+          ],
+          [
+            -74.0724949,
+            4.6259916
+          ],
+          [
+            -74.0725582,
+            4.6260697
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89748802",
+      "properties": {
+        "@id": "way/89748802",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0718659,
+            4.6333201
+          ],
+          [
+            -74.0717776,
+            4.6337651
+          ],
+          [
+            -74.0717311,
+            4.6340373
+          ],
+          [
+            -74.0717039,
+            4.634196
+          ],
+          [
+            -74.0716848,
+            4.6343003
+          ],
+          [
+            -74.0716525,
+            4.6343625
+          ],
+          [
+            -74.0716238,
+            4.6343949
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89748836",
+      "properties": {
+        "@id": "way/89748836",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0716238,
+            4.6343949
+          ],
+          [
+            -74.0715403,
+            4.6344713
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89748891",
+      "properties": {
+        "@id": "way/89748891",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0719886,
+            4.6326322
+          ],
+          [
+            -74.0719527,
+            4.6328328
+          ],
+          [
+            -74.0718815,
+            4.6332307
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89748896",
+      "properties": {
+        "@id": "way/89748896",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0722444,
+            4.6313445
+          ],
+          [
+            -74.0721828,
+            4.6315793
+          ],
+          [
+            -74.0721537,
+            4.6316888
+          ],
+          [
+            -74.072067,
+            4.6321677
+          ],
+          [
+            -74.0719886,
+            4.6326322
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89748954",
+      "properties": {
+        "@id": "way/89748954",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0723012,
+            4.6311081
+          ],
+          [
+            -74.0722444,
+            4.6313445
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89748979",
+      "properties": {
+        "@id": "way/89748979",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0718815,
+            4.6332307
+          ],
+          [
+            -74.0718659,
+            4.6333201
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89753636",
+      "properties": {
+        "@id": "way/89753636",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0715403,
+            4.6344713
+          ],
+          [
+            -74.0719071,
+            4.6349463
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89760005",
+      "properties": {
+        "@id": "way/89760005",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0719071,
+            4.6349463
+          ],
+          [
+            -74.0723448,
+            4.6354952
+          ],
+          [
+            -74.0724349,
+            4.6356073
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89759596",
+      "properties": {
+        "@id": "way/89759596",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0724349,
+            4.6356073
+          ],
+          [
+            -74.0730172,
+            4.6363511
+          ],
+          [
+            -74.0732939,
+            4.6367048
+          ],
+          [
+            -74.0733598,
+            4.6367765
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24313804",
+      "properties": {
+        "@id": "way/24313804",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0739635,
+            4.6418132
+          ],
+          [
+            -74.073978,
+            4.6417316
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89753658",
+      "properties": {
+        "@id": "way/89753658",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0741673,
+            4.6407349
+          ],
+          [
+            -74.0743241,
+            4.6397572
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89759563",
+      "properties": {
+        "@id": "way/89759563",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0736374,
+            4.6396387
+          ],
+          [
+            -74.0739121,
+            4.6396861
+          ],
+          [
+            -74.0743241,
+            4.6397572
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89759607",
+      "properties": {
+        "@id": "way/89759607",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.073919,
+            4.6376212
+          ],
+          [
+            -74.0739467,
+            4.6376527
+          ],
+          [
+            -74.0739713,
+            4.6376925
+          ],
+          [
+            -74.073997,
+            4.637754
+          ],
+          [
+            -74.0740039,
+            4.6378088
+          ],
+          [
+            -74.0739816,
+            4.6378703
+          ],
+          [
+            -74.073961,
+            4.6379353
+          ],
+          [
+            -74.0739216,
+            4.6380071
+          ],
+          [
+            -74.0738281,
+            4.6386501
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89759721",
+      "properties": {
+        "@id": "way/89759721",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0733598,
+            4.6367765
+          ],
+          [
+            -74.0736997,
+            4.6372405
+          ],
+          [
+            -74.0738456,
+            4.6374095
+          ],
+          [
+            -74.073875,
+            4.6374687
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89759782",
+      "properties": {
+        "@id": "way/89759782",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0738281,
+            4.6386501
+          ],
+          [
+            -74.0736374,
+            4.6396387
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24313798",
+      "properties": {
+        "@id": "way/24313798",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0734535,
+            4.6479608
+          ],
+          [
+            -74.0732771,
+            4.648235
+          ],
+          [
+            -74.0731463,
+            4.648453
+          ],
+          [
+            -74.0730324,
+            4.648669
+          ],
+          [
+            -74.0729003,
+            4.6489412
+          ],
+          [
+            -74.0727223,
+            4.6494358
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24313800",
+      "properties": {
+        "@id": "way/24313800",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.072479,
+            4.645177
+          ],
+          [
+            -74.0724696,
+            4.6452666
+          ],
+          [
+            -74.0724617,
+            4.6453402
+          ],
+          [
+            -74.0724465,
+            4.6455639
+          ],
+          [
+            -74.0724405,
+            4.6458125
+          ],
+          [
+            -74.0724514,
+            4.6459288
+          ],
+          [
+            -74.0724606,
+            4.6460264
+          ],
+          [
+            -74.072463,
+            4.6460877
+          ],
+          [
+            -74.0725335,
+            4.6464311
+          ],
+          [
+            -74.0726446,
+            4.6467814
+          ],
+          [
+            -74.0726655,
+            4.646826
+          ],
+          [
+            -74.0726812,
+            4.6468735
+          ],
+          [
+            -74.072854,
+            4.6472202
+          ],
+          [
+            -74.0731249,
+            4.6475888
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89759527",
+      "properties": {
+        "@id": "way/89759527",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0731249,
+            4.6475888
+          ],
+          [
+            -74.0731864,
+            4.6476536
+          ],
+          [
+            -74.0734535,
+            4.6479608
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89759635",
+      "properties": {
+        "@id": "way/89759635",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0727223,
+            4.6494358
+          ],
+          [
+            -74.072649,
+            4.649714
+          ],
+          [
+            -74.0726336,
+            4.6497722
+          ],
+          [
+            -74.0725694,
+            4.6500481
+          ],
+          [
+            -74.0725523,
+            4.6501204
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89875301",
+      "properties": {
+        "@id": "way/89875301",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0714081,
+            4.6561397
+          ],
+          [
+            -74.0713299,
+            4.656333
+          ],
+          [
+            -74.0711842,
+            4.6565868
+          ],
+          [
+            -74.0710565,
+            4.6567683
+          ],
+          [
+            -74.0709299,
+            4.6569615
+          ],
+          [
+            -74.0707425,
+            4.6572476
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24671237",
+      "properties": {
+        "@id": "way/24671237",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0715862,
+            4.6554952
+          ],
+          [
+            -74.0714444,
+            4.6560029
+          ],
+          [
+            -74.0714081,
+            4.6561397
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/84830317",
+      "properties": {
+        "@id": "way/84830317",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0723913,
+            4.6510487
+          ],
+          [
+            -74.0722506,
+            4.6518409
+          ],
+          [
+            -74.0722048,
+            4.6521006
+          ],
+          [
+            -74.072135,
+            4.6524686
+          ],
+          [
+            -74.0720657,
+            4.6528542
+          ],
+          [
+            -74.0719334,
+            4.653547
+          ],
+          [
+            -74.0718127,
+            4.6542622
+          ],
+          [
+            -74.071771,
+            4.654507
+          ],
+          [
+            -74.0715862,
+            4.6554952
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89759920",
+      "properties": {
+        "@id": "way/89759920",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0725523,
+            4.6501204
+          ],
+          [
+            -74.0723839,
+            4.6509425
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89878185",
+      "properties": {
+        "@id": "way/89878185",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0700313,
+            4.6583363
+          ],
+          [
+            -74.0698273,
+            4.6586494
+          ],
+          [
+            -74.0696029,
+            4.6589999
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89878210",
+      "properties": {
+        "@id": "way/89878210",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0707425,
+            4.6572476
+          ],
+          [
+            -74.0704257,
+            4.6577463
+          ],
+          [
+            -74.0700313,
+            4.6583363
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89890836",
+      "properties": {
+        "@id": "way/89890836",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0696029,
+            4.6589999
+          ],
+          [
+            -74.0691202,
+            4.6597342
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28459534",
+      "properties": {
+        "@id": "way/28459534",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0700761,
+            4.6653142
+          ],
+          [
+            -74.0692506,
+            4.6664173
+          ],
+          [
+            -74.0689816,
+            4.6665453
+          ],
+          [
+            -74.0685588,
+            4.667046
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89891028",
+      "properties": {
+        "@id": "way/89891028",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0691202,
+            4.6597342
+          ],
+          [
+            -74.0688397,
+            4.6601824
+          ],
+          [
+            -74.0685615,
+            4.6606306
+          ],
+          [
+            -74.0682992,
+            4.661055
+          ],
+          [
+            -74.0680051,
+            4.6615089
+          ],
+          [
+            -74.0678466,
+            4.6617693
+          ],
+          [
+            -74.0675475,
+            4.6622604
+          ],
+          [
+            -74.0674846,
+            4.6623614
+          ],
+          [
+            -74.067114,
+            4.6629551
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/200746938",
+      "properties": {
+        "@id": "way/200746938",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0696662,
+            4.6650144
+          ],
+          [
+            -74.0700761,
+            4.6653142
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89901854",
+      "properties": {
+        "@id": "way/89901854",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0669075,
+            4.6689707
+          ],
+          [
+            -74.0663652,
+            4.6696323
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28459664",
+      "properties": {
+        "@id": "way/28459664",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0685588,
+            4.667046
+          ],
+          [
+            -74.0683655,
+            4.6672649
+          ],
+          [
+            -74.0681996,
+            4.6674645
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89901694",
+      "properties": {
+        "@id": "way/89901694",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0681996,
+            4.6674645
+          ],
+          [
+            -74.0677862,
+            4.6679363
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89901765",
+      "properties": {
+        "@id": "way/89901765",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0677862,
+            4.6679363
+          ],
+          [
+            -74.06736,
+            4.6684371
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89901934",
+      "properties": {
+        "@id": "way/89901934",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.06736,
+            4.6684371
+          ],
+          [
+            -74.0669075,
+            4.6689707
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24018409",
+      "properties": {
+        "@id": "way/24018409",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0666638,
+            4.6730943
+          ],
+          [
+            -74.067133,
+            4.6736139
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24234025",
+      "properties": {
+        "@id": "way/24234025",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0679687,
+            4.674848
+          ],
+          [
+            -74.0679968,
+            4.6749426
+          ],
+          [
+            -74.0679944,
+            4.6750225
+          ],
+          [
+            -74.0679691,
+            4.6751116
+          ],
+          [
+            -74.067929,
+            4.675201
+          ],
+          [
+            -74.0677112,
+            4.675422
+          ],
+          [
+            -74.0675667,
+            4.675589
+          ],
+          [
+            -74.0673623,
+            4.6758466
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24234026",
+      "properties": {
+        "@id": "way/24234026",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.067133,
+            4.6736139
+          ],
+          [
+            -74.0673801,
+            4.6740302
+          ],
+          [
+            -74.0675626,
+            4.6743352
+          ],
+          [
+            -74.0676999,
+            4.6745226
+          ],
+          [
+            -74.0678696,
+            4.6747045
+          ],
+          [
+            -74.0679687,
+            4.674848
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28596285",
+      "properties": {
+        "@id": "way/28596285",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0651393,
+            4.6710723
+          ],
+          [
+            -74.0650837,
+            4.6711783
+          ],
+          [
+            -74.0650394,
+            4.6712536
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89901696",
+      "properties": {
+        "@id": "way/89901696",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0650394,
+            4.6712536
+          ],
+          [
+            -74.0655096,
+            4.6718285
+          ],
+          [
+            -74.0657938,
+            4.67219
+          ],
+          [
+            -74.066295,
+            4.6727141
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89901728",
+      "properties": {
+        "@id": "way/89901728",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.066295,
+            4.6727141
+          ],
+          [
+            -74.0666638,
+            4.6730943
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89901764",
+      "properties": {
+        "@id": "way/89901764",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0651862,
+            4.6709986
+          ],
+          [
+            -74.0651393,
+            4.6710723
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89901912",
+      "properties": {
+        "@id": "way/89901912",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0663652,
+            4.6696323
+          ],
+          [
+            -74.065978,
+            4.6700772
+          ],
+          [
+            -74.0655897,
+            4.6705227
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89976876",
+      "properties": {
+        "@id": "way/89976876",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0673623,
+            4.6758466
+          ],
+          [
+            -74.0672977,
+            4.6759525
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89976828",
+      "properties": {
+        "@id": "way/89976828",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0672977,
+            4.6759525
+          ],
+          [
+            -74.06717,
+            4.6761641
+          ],
+          [
+            -74.0670375,
+            4.6763838
+          ],
+          [
+            -74.0669649,
+            4.6765019
+          ],
+          [
+            -74.066734,
+            4.67688
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89978430",
+      "properties": {
+        "@id": "way/89978430",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0631229,
+            4.6825453
+          ],
+          [
+            -74.062873,
+            4.6829569
+          ],
+          [
+            -74.0628006,
+            4.6831017
+          ],
+          [
+            -74.0627699,
+            4.6831764
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89976761",
+      "properties": {
+        "@id": "way/89976761",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0658093,
+            4.6784057
+          ],
+          [
+            -74.0657505,
+            4.6785188
+          ],
+          [
+            -74.0656684,
+            4.6786592
+          ],
+          [
+            -74.0655967,
+            4.6787905
+          ],
+          [
+            -74.0654707,
+            4.6790553
+          ],
+          [
+            -74.0648863,
+            4.6800057
+          ],
+          [
+            -74.0644014,
+            4.6807721
+          ],
+          [
+            -74.0641848,
+            4.6811144
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89976765",
+      "properties": {
+        "@id": "way/89976765",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0659856,
+            4.6781392
+          ],
+          [
+            -74.0658093,
+            4.6784057
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89976779",
+      "properties": {
+        "@id": "way/89976779",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0664589,
+            4.6773643
+          ],
+          [
+            -74.0663109,
+            4.677612
+          ],
+          [
+            -74.0662201,
+            4.6777621
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89976801",
+      "properties": {
+        "@id": "way/89976801",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0662201,
+            4.6777621
+          ],
+          [
+            -74.0659856,
+            4.6781392
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89976856",
+      "properties": {
+        "@id": "way/89976856",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0666775,
+            4.6769699
+          ],
+          [
+            -74.0664589,
+            4.6773643
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89976860",
+      "properties": {
+        "@id": "way/89976860",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0640811,
+            4.6812138
+          ],
+          [
+            -74.0638579,
+            4.681462
+          ],
+          [
+            -74.0637127,
+            4.6816312
+          ],
+          [
+            -74.0635642,
+            4.6818372
+          ],
+          [
+            -74.0633334,
+            4.6822003
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89978427",
+      "properties": {
+        "@id": "way/89978427",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0633334,
+            4.6822003
+          ],
+          [
+            -74.0631229,
+            4.6825453
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90710038",
+      "properties": {
+        "@id": "way/90710038",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0691604,
+            4.6867626
+          ],
+          [
+            -74.0696691,
+            4.6870213
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90710115",
+      "properties": {
+        "@id": "way/90710115",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0692256,
+            4.6879443
+          ],
+          [
+            -74.0694291,
+            4.687514
+          ],
+          [
+            -74.0696691,
+            4.6870213
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90709988",
+      "properties": {
+        "@id": "way/90709988",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0686412,
+            4.6865104
+          ],
+          [
+            -74.0691604,
+            4.6867626
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90710098",
+      "properties": {
+        "@id": "way/90710098",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0687716,
+            4.6887972
+          ],
+          [
+            -74.0692256,
+            4.6879443
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28159674",
+      "properties": {
+        "@id": "way/28159674",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0627699,
+            4.6831764
+          ],
+          [
+            -74.062665,
+            4.6833326
+          ],
+          [
+            -74.0625671,
+            4.6836303
+          ],
+          [
+            -74.0625084,
+            4.6837733
+          ],
+          [
+            -74.0624373,
+            4.6839094
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/73081572",
+      "properties": {
+        "@id": "way/73081572",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0624373,
+            4.6839094
+          ],
+          [
+            -74.0624016,
+            4.6840146
+          ],
+          [
+            -74.0624051,
+            4.684089
+          ],
+          [
+            -74.062431,
+            4.6841297
+          ],
+          [
+            -74.0624704,
+            4.6841486
+          ],
+          [
+            -74.0625441,
+            4.6841475
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/73081585",
+      "properties": {
+        "@id": "way/73081585",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0632326,
+            4.6838299
+          ],
+          [
+            -74.0634771,
+            4.6839493
+          ],
+          [
+            -74.0638785,
+            4.6842025
+          ],
+          [
+            -74.0641214,
+            4.6843546
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89978412",
+      "properties": {
+        "@id": "way/89978412",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0641214,
+            4.6843546
+          ],
+          [
+            -74.0645048,
+            4.6846162
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90708767",
+      "properties": {
+        "@id": "way/90708767",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0657545,
+            4.6854976
+          ],
+          [
+            -74.0661863,
+            4.6855808
+          ],
+          [
+            -74.0664328,
+            4.685612
+          ],
+          [
+            -74.0667146,
+            4.6856549
+          ],
+          [
+            -74.0671594,
+            4.6857797
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90708788",
+      "properties": {
+        "@id": "way/90708788",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0681886,
+            4.6862855
+          ],
+          [
+            -74.0686412,
+            4.6865104
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90708790",
+      "properties": {
+        "@id": "way/90708790",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0648518,
+            4.6853743
+          ],
+          [
+            -74.0657545,
+            4.6854976
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90708794",
+      "properties": {
+        "@id": "way/90708794",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0649588,
+            4.6848671
+          ],
+          [
+            -74.0648518,
+            4.6853743
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90708841",
+      "properties": {
+        "@id": "way/90708841",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0671594,
+            4.6857797
+          ],
+          [
+            -74.0676824,
+            4.6860072
+          ],
+          [
+            -74.0681886,
+            4.6862855
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/200746027",
+      "properties": {
+        "@id": "way/200746027",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0625441,
+            4.6841475
+          ],
+          [
+            -74.0626399,
+            4.6841124
+          ],
+          [
+            -74.0627876,
+            4.6840415
+          ],
+          [
+            -74.0628288,
+            4.6840223
+          ],
+          [
+            -74.0628777,
+            4.6839938
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/383220912",
+      "properties": {
+        "@id": "way/383220912",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0645048,
+            4.6846162
+          ],
+          [
+            -74.0649588,
+            4.6848671
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/384742348",
+      "properties": {
+        "@id": "way/384742348",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0628777,
+            4.6839938
+          ],
+          [
+            -74.0629339,
+            4.683963
+          ],
+          [
+            -74.0629839,
+            4.6839336
+          ],
+          [
+            -74.063099,
+            4.6838735
+          ],
+          [
+            -74.0632326,
+            4.6838299
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89987087",
+      "properties": {
+        "@id": "way/89987087",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0626167,
+            4.6949301
+          ],
+          [
+            -74.0626302,
+            4.6964238
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90710118",
+      "properties": {
+        "@id": "way/90710118",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0684534,
+            4.689468
+          ],
+          [
+            -74.0684847,
+            4.6893913
+          ],
+          [
+            -74.0687716,
+            4.6887972
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25312502",
+      "properties": {
+        "@id": "way/25312502",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0669371,
+            4.6931894
+          ],
+          [
+            -74.0668846,
+            4.6932707
+          ],
+          [
+            -74.0664625,
+            4.6934657
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89986405",
+      "properties": {
+        "@id": "way/89986405",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0667279,
+            4.6928375
+          ],
+          [
+            -74.0667705,
+            4.6929038
+          ],
+          [
+            -74.0669371,
+            4.6931894
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89986485",
+      "properties": {
+        "@id": "way/89986485",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0664625,
+            4.6934657
+          ],
+          [
+            -74.0659593,
+            4.6937647
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89986502",
+      "properties": {
+        "@id": "way/89986502",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0626302,
+            4.6947663
+          ],
+          [
+            -74.0626167,
+            4.6949301
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89986548",
+      "properties": {
+        "@id": "way/89986548",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0654266,
+            4.6940596
+          ],
+          [
+            -74.0650276,
+            4.6942586
+          ],
+          [
+            -74.0648508,
+            4.6943415
+          ],
+          [
+            -74.0646304,
+            4.6944262
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89986631",
+      "properties": {
+        "@id": "way/89986631",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.066767,
+            4.6927705
+          ],
+          [
+            -74.0667279,
+            4.6928375
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89986649",
+      "properties": {
+        "@id": "way/89986649",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0659593,
+            4.6937647
+          ],
+          [
+            -74.0654266,
+            4.6940596
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89986697",
+      "properties": {
+        "@id": "way/89986697",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0668245,
+            4.6926539
+          ],
+          [
+            -74.066767,
+            4.6927705
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89986705",
+      "properties": {
+        "@id": "way/89986705",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0626961,
+            4.6946796
+          ],
+          [
+            -74.0626302,
+            4.6947663
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89986732",
+      "properties": {
+        "@id": "way/89986732",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0668633,
+            4.6925931
+          ],
+          [
+            -74.0668245,
+            4.6926539
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89987061",
+      "properties": {
+        "@id": "way/89987061",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0646304,
+            4.6944262
+          ],
+          [
+            -74.0642078,
+            4.6945718
+          ],
+          [
+            -74.0638341,
+            4.694654
+          ],
+          [
+            -74.0634089,
+            4.6946783
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90709991",
+      "properties": {
+        "@id": "way/90709991",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0683817,
+            4.6895998
+          ],
+          [
+            -74.0684534,
+            4.689468
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90710033",
+      "properties": {
+        "@id": "way/90710033",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0682917,
+            4.6897265
+          ],
+          [
+            -74.0683817,
+            4.6895998
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90710094",
+      "properties": {
+        "@id": "way/90710094",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0682357,
+            4.6898428
+          ],
+          [
+            -74.0682917,
+            4.6897265
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90939814",
+      "properties": {
+        "@id": "way/90939814",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.067639,
+            4.6909632
+          ],
+          [
+            -74.0675152,
+            4.6911985
+          ],
+          [
+            -74.0673522,
+            4.6916112
+          ],
+          [
+            -74.0668633,
+            4.6925931
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90939909",
+      "properties": {
+        "@id": "way/90939909",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0682357,
+            4.6898428
+          ],
+          [
+            -74.067639,
+            4.6909632
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39854747",
+      "properties": {
+        "@id": "way/39854747",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0670253,
+            4.7017504
+          ],
+          [
+            -74.0670755,
+            4.7018726
+          ],
+          [
+            -74.0670527,
+            4.7020265
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/58644331",
+      "properties": {
+        "@id": "way/58644331",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0661128,
+            4.7015385
+          ],
+          [
+            -74.0663374,
+            4.7015875
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/68313602",
+      "properties": {
+        "@id": "way/68313602",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0626082,
+            4.6976287
+          ],
+          [
+            -74.0625823,
+            4.697829
+          ],
+          [
+            -74.0625733,
+            4.6980853
+          ],
+          [
+            -74.0625365,
+            4.6983794
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89986411",
+      "properties": {
+        "@id": "way/89986411",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0626302,
+            4.6964238
+          ],
+          [
+            -74.062633,
+            4.6964696
+          ],
+          [
+            -74.0626209,
+            4.6971836
+          ],
+          [
+            -74.0626131,
+            4.6972942
+          ],
+          [
+            -74.0626088,
+            4.6973994
+          ],
+          [
+            -74.0626105,
+            4.6974382
+          ],
+          [
+            -74.0626134,
+            4.6975544
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89986468",
+      "properties": {
+        "@id": "way/89986468",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0630645,
+            4.7009107
+          ],
+          [
+            -74.0640097,
+            4.7010908
+          ],
+          [
+            -74.0651365,
+            4.7013106
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89986511",
+      "properties": {
+        "@id": "way/89986511",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0654552,
+            4.7013884
+          ],
+          [
+            -74.0658194,
+            4.7014757
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89986530",
+      "properties": {
+        "@id": "way/89986530",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.062266,
+            4.700765
+          ],
+          [
+            -74.0630645,
+            4.7009107
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89986531",
+      "properties": {
+        "@id": "way/89986531",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0623544,
+            4.6994553
+          ],
+          [
+            -74.0622735,
+            4.700017
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89986532",
+      "properties": {
+        "@id": "way/89986532",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0663374,
+            4.7015875
+          ],
+          [
+            -74.0670253,
+            4.7017504
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89986536",
+      "properties": {
+        "@id": "way/89986536",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0658194,
+            4.7014757
+          ],
+          [
+            -74.0660533,
+            4.7015268
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89986660",
+      "properties": {
+        "@id": "way/89986660",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0651365,
+            4.7013106
+          ],
+          [
+            -74.0654552,
+            4.7013884
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89986946",
+      "properties": {
+        "@id": "way/89986946",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0625365,
+            4.6983794
+          ],
+          [
+            -74.0624368,
+            4.6989061
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89987000",
+      "properties": {
+        "@id": "way/89987000",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0624368,
+            4.6989061
+          ],
+          [
+            -74.0623544,
+            4.6994553
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89986599",
+      "properties": {
+        "@id": "way/89986599",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0621807,
+            4.7006266
+          ],
+          [
+            -74.0621605,
+            4.7007428
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25103313",
+      "properties": {
+        "@id": "way/25103313",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0670527,
+            4.7020265
+          ],
+          [
+            -74.0667656,
+            4.7022086
+          ],
+          [
+            -74.0666633,
+            4.7022878
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89986755",
+      "properties": {
+        "@id": "way/89986755",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0622735,
+            4.700017
+          ],
+          [
+            -74.0621807,
+            4.7006266
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89987032",
+      "properties": {
+        "@id": "way/89987032",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0621605,
+            4.7007428
+          ],
+          [
+            -74.062266,
+            4.700765
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90000257",
+      "properties": {
+        "@id": "way/90000257",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0644121,
+            4.7085783
+          ],
+          [
+            -74.0643619,
+            4.7088677
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/58644332",
+      "properties": {
+        "@id": "way/58644332",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0665473,
+            4.702374
+          ],
+          [
+            -74.0663894,
+            4.7024797
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/58644339",
+      "properties": {
+        "@id": "way/58644339",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0666633,
+            4.7022878
+          ],
+          [
+            -74.0665473,
+            4.702374
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89986884",
+      "properties": {
+        "@id": "way/89986884",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0655039,
+            4.7034419
+          ],
+          [
+            -74.0652996,
+            4.7038984
+          ],
+          [
+            -74.0651688,
+            4.7043136
+          ],
+          [
+            -74.0650672,
+            4.7047321
+          ],
+          [
+            -74.0648981,
+            4.7055884
+          ],
+          [
+            -74.0647758,
+            4.7063066
+          ],
+          [
+            -74.0646503,
+            4.7070443
+          ],
+          [
+            -74.064548,
+            4.7077393
+          ],
+          [
+            -74.0644121,
+            4.7085783
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89987008",
+      "properties": {
+        "@id": "way/89987008",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0663894,
+            4.7024797
+          ],
+          [
+            -74.0659651,
+            4.7028161
+          ],
+          [
+            -74.065631,
+            4.7031919
+          ],
+          [
+            -74.0655039,
+            4.7034419
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24437165",
+      "properties": {
+        "@id": "way/24437165",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0699877,
+            4.7114892
+          ],
+          [
+            -74.0700527,
+            4.7115222
+          ],
+          [
+            -74.0701729,
+            4.7116148
+          ],
+          [
+            -74.0702666,
+            4.7117773
+          ],
+          [
+            -74.0703095,
+            4.7119997
+          ],
+          [
+            -74.0702845,
+            4.7123015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90032662",
+      "properties": {
+        "@id": "way/90032662",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0702845,
+            4.7123015
+          ],
+          [
+            -74.0702141,
+            4.7131503
+          ],
+          [
+            -74.0702046,
+            4.7132653
+          ],
+          [
+            -74.0701557,
+            4.7136815
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90032734",
+      "properties": {
+        "@id": "way/90032734",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0701557,
+            4.7136815
+          ],
+          [
+            -74.0701231,
+            4.7140739
+          ],
+          [
+            -74.0700256,
+            4.7148857
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90000869",
+      "properties": {
+        "@id": "way/90000869",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0686164,
+            4.711141
+          ],
+          [
+            -74.0687592,
+            4.7112161
+          ],
+          [
+            -74.068952,
+            4.711291
+          ],
+          [
+            -74.0692272,
+            4.711398
+          ],
+          [
+            -74.0696049,
+            4.7115006
+          ],
+          [
+            -74.0699877,
+            4.7114892
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90032499",
+      "properties": {
+        "@id": "way/90032499",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0690244,
+            4.7173915
+          ],
+          [
+            -74.0687527,
+            4.7180068
+          ],
+          [
+            -74.0687474,
+            4.7180217
+          ],
+          [
+            -74.0687318,
+            4.7180584
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90032692",
+      "properties": {
+        "@id": "way/90032692",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0700256,
+            4.7148857
+          ],
+          [
+            -74.0700091,
+            4.7151732
+          ],
+          [
+            -74.0698375,
+            4.7155411
+          ],
+          [
+            -74.0695769,
+            4.7161342
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90032595",
+      "properties": {
+        "@id": "way/90032595",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0695769,
+            4.7161342
+          ],
+          [
+            -74.0690244,
+            4.7173915
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90000433",
+      "properties": {
+        "@id": "way/90000433",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.064421,
+            4.7093369
+          ],
+          [
+            -74.06479,
+            4.7095016
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90000488",
+      "properties": {
+        "@id": "way/90000488",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0643619,
+            4.7088677
+          ],
+          [
+            -74.064291,
+            4.7092097
+          ],
+          [
+            -74.0642738,
+            4.7092742
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90000703",
+      "properties": {
+        "@id": "way/90000703",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.06479,
+            4.7095016
+          ],
+          [
+            -74.0650657,
+            4.7096125
+          ],
+          [
+            -74.0658471,
+            4.7099021
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90000717",
+      "properties": {
+        "@id": "way/90000717",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0665997,
+            4.7102343
+          ],
+          [
+            -74.067042,
+            4.7104652
+          ],
+          [
+            -74.0678409,
+            4.7107861
+          ],
+          [
+            -74.0682399,
+            4.7109687
+          ],
+          [
+            -74.0686164,
+            4.711141
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90000837",
+      "properties": {
+        "@id": "way/90000837",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0658471,
+            4.7099021
+          ],
+          [
+            -74.0659421,
+            4.7099441
+          ],
+          [
+            -74.0665997,
+            4.7102343
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90037602",
+      "properties": {
+        "@id": "way/90037602",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0670621,
+            4.7218191
+          ],
+          [
+            -74.0668457,
+            4.7223876
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90037530",
+      "properties": {
+        "@id": "way/90037530",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0680154,
+            4.7197455
+          ],
+          [
+            -74.0679664,
+            4.7198608
+          ],
+          [
+            -74.0677766,
+            4.7202888
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90037583",
+      "properties": {
+        "@id": "way/90037583",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0677766,
+            4.7202888
+          ],
+          [
+            -74.0673919,
+            4.721156
+          ],
+          [
+            -74.0673664,
+            4.7212135
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90037729",
+      "properties": {
+        "@id": "way/90037729",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0687318,
+            4.7180584
+          ],
+          [
+            -74.0684713,
+            4.7186719
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90037731",
+      "properties": {
+        "@id": "way/90037731",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0682502,
+            4.7191565
+          ],
+          [
+            -74.0680154,
+            4.7197455
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90037754",
+      "properties": {
+        "@id": "way/90037754",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0684713,
+            4.7186719
+          ],
+          [
+            -74.0682502,
+            4.7191565
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90037896",
+      "properties": {
+        "@id": "way/90037896",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0673664,
+            4.7212135
+          ],
+          [
+            -74.0670621,
+            4.7218191
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28290322",
+      "properties": {
+        "@id": "way/28290322",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0709003,
+            4.7260088
+          ],
+          [
+            -74.0705327,
+            4.7258657
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/65157881",
+      "properties": {
+        "@id": "way/65157881",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.073528,
+            4.7234193
+          ],
+          [
+            -74.0738183,
+            4.7232214
+          ],
+          [
+            -74.0743686,
+            4.7232503
+          ],
+          [
+            -74.0744552,
+            4.7232838
+          ],
+          [
+            -74.0745222,
+            4.7233218
+          ],
+          [
+            -74.0745891,
+            4.7234182
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90044747",
+      "properties": {
+        "@id": "way/90044747",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0691797,
+            4.7253485
+          ],
+          [
+            -74.0694856,
+            4.7254722
+          ],
+          [
+            -74.0705327,
+            4.7258657
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90044794",
+      "properties": {
+        "@id": "way/90044794",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0746941,
+            4.7245685
+          ],
+          [
+            -74.0746936,
+            4.7250407
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90044833",
+      "properties": {
+        "@id": "way/90044833",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0746936,
+            4.7250407
+          ],
+          [
+            -74.0746936,
+            4.7251534
+          ],
+          [
+            -74.0746768,
+            4.7256178
+          ],
+          [
+            -74.0746698,
+            4.7260154
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90044884",
+      "properties": {
+        "@id": "way/90044884",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0713456,
+            4.7260211
+          ],
+          [
+            -74.0720962,
+            4.7251084
+          ],
+          [
+            -74.0728944,
+            4.724159
+          ],
+          [
+            -74.073528,
+            4.7234193
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90044910",
+      "properties": {
+        "@id": "way/90044910",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0745612,
+            4.7236075
+          ],
+          [
+            -74.0745285,
+            4.72377
+          ],
+          [
+            -74.0745297,
+            4.7239294
+          ],
+          [
+            -74.0745502,
+            4.7240501
+          ],
+          [
+            -74.0746138,
+            4.724312
+          ],
+          [
+            -74.0746941,
+            4.7245685
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90044927",
+      "properties": {
+        "@id": "way/90044927",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0709744,
+            4.7260376
+          ],
+          [
+            -74.0713456,
+            4.7260211
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/252447691",
+      "properties": {
+        "@id": "way/252447691",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0746698,
+            4.7260154
+          ],
+          [
+            -74.0746557,
+            4.7265775
+          ],
+          [
+            -74.0746185,
+            4.7272978
+          ],
+          [
+            -74.0746113,
+            4.7274299
+          ],
+          [
+            -74.074607,
+            4.7277579
+          ],
+          [
+            -74.0746063,
+            4.7278152
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90044866",
+      "properties": {
+        "@id": "way/90044866",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0679813,
+            4.7249036
+          ],
+          [
+            -74.0691797,
+            4.7253485
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90059025",
+      "properties": {
+        "@id": "way/90059025",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0746063,
+            4.7278152
+          ],
+          [
+            -74.0745825,
+            4.7294893
+          ],
+          [
+            -74.0746396,
+            4.7302796
+          ],
+          [
+            -74.0746933,
+            4.7306984
+          ],
+          [
+            -74.0747734,
+            4.7310675
+          ],
+          [
+            -74.0749162,
+            4.7317986
+          ],
+          [
+            -74.0749346,
+            4.7319113
+          ],
+          [
+            -74.0750146,
+            4.7323279
+          ],
+          [
+            -74.0750552,
+            4.7324844
+          ],
+          [
+            -74.0752237,
+            4.7327752
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90037853",
+      "properties": {
+        "@id": "way/90037853",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0668457,
+            4.7223876
+          ],
+          [
+            -74.0663994,
+            4.7234055
+          ],
+          [
+            -74.0662277,
+            4.7236193
+          ],
+          [
+            -74.0659216,
+            4.7238252
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90044660",
+      "properties": {
+        "@id": "way/90044660",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0667164,
+            4.7244156
+          ],
+          [
+            -74.0679813,
+            4.7249036
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90044876",
+      "properties": {
+        "@id": "way/90044876",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0662456,
+            4.7244636
+          ],
+          [
+            -74.0665744,
+            4.7244307
+          ],
+          [
+            -74.0667164,
+            4.7244156
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/190376947",
+      "properties": {
+        "@id": "way/190376947",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0660701,
+            4.7244749
+          ],
+          [
+            -74.0661427,
+            4.7244752
+          ],
+          [
+            -74.0662456,
+            4.7244636
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/200673516",
+      "properties": {
+        "@id": "way/200673516",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0659216,
+            4.7238252
+          ],
+          [
+            -74.0658287,
+            4.723896
+          ],
+          [
+            -74.06581,
+            4.7239412
+          ],
+          [
+            -74.0657635,
+            4.7240445
+          ],
+          [
+            -74.0657704,
+            4.7241416
+          ],
+          [
+            -74.0657816,
+            4.7242366
+          ],
+          [
+            -74.0658028,
+            4.7243048
+          ],
+          [
+            -74.0658154,
+            4.7243275
+          ],
+          [
+            -74.0658834,
+            4.7243816
+          ],
+          [
+            -74.0659253,
+            4.724424
+          ],
+          [
+            -74.065984,
+            4.7244626
+          ],
+          [
+            -74.0660701,
+            4.7244749
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3879141389",
+      "properties": {
+        "@id": "node/3879141389",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0748852,
+          4.6077418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3879141392",
+      "properties": {
+        "@id": "node/3879141392",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0708381,
+          4.6049009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3879153904",
+      "properties": {
+        "@id": "node/3879153904",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0799137,
+          4.6113577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2107248711",
+      "properties": {
+        "@id": "node/2107248711",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0729746,
+          4.636373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2107248709",
+      "properties": {
+        "@id": "node/2107248709",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0738845,
+          4.6397346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2107248714",
+      "properties": {
+        "@id": "node/2107248714",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.074065,
+          4.64129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2107248708",
+      "properties": {
+        "@id": "node/2107248708",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0724405,
+          4.6458125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2107206380",
+      "properties": {
+        "@id": "node/2107206380",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0674846,
+          4.6623614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2107175848",
+      "properties": {
+        "@id": "node/2107175848",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0673078,
+          4.6859261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2107165699",
+      "properties": {
+        "@id": "node/2107165699",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0625254,
+          4.6952958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2107165701",
+      "properties": {
+        "@id": "node/2107165701",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0667592,
+          4.6932628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2107165696",
+      "properties": {
+        "@id": "node/2107165696",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0638129,
+          4.701118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2107165698",
+      "properties": {
+        "@id": "node/2107165698",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0622304,
+          4.6996745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2107158466",
+      "properties": {
+        "@id": "node/2107158466",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0654624,
+          4.7033154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2107158468",
+      "properties": {
+        "@id": "node/2107158468",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0644342,
+          4.7081524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2107150156",
+      "properties": {
+        "@id": "node/2107150156",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0690003,
+          4.71732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3864369066",
+      "properties": {
+        "@id": "node/3864369066",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0682399,
+          4.7109687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3864369073",
+      "properties": {
+        "@id": "node/3864369073",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0659421,
+          4.7099441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2107150159",
+      "properties": {
+        "@id": "node/2107150159",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0675867,
+          4.7205491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2107206376",
+      "properties": {
+        "@id": "node/2107206376",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0700839,
+          4.7257724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2107206379",
+      "properties": {
+        "@id": "node/2107206379",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0731282,
+          4.7240001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2107206377",
+      "properties": {
+        "@id": "node/2107206377",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2696349",
+            "reltags": {
+              "name": "Germania-Villa Cindy",
+              "network": "SITP-Urbano",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 V. Cindy",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0671281,
+          4.7246684
+        ]
+      }
+    }
+  ]
+}
