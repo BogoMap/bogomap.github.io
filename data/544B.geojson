@@ -1,0 +1,8179 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-10-01T20:21:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/24576893",
+      "properties": {
+        "@id": "way/24576893",
+        "highway": "primary",
+        "name": "Rampa Calle 100",
+        "oneway": "yes",
+        "@timestamp": "2015-12-20T17:31:36Z",
+        "@version": "10",
+        "@changeset": "36069600",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0380082,
+            4.6804085
+          ],
+          [
+            -74.03812,
+            4.6802842
+          ],
+          [
+            -74.0381656,
+            4.680249
+          ],
+          [
+            -74.0382169,
+            4.6802224
+          ],
+          [
+            -74.0382948,
+            4.6802114
+          ],
+          [
+            -74.038373,
+            4.6802222
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24576894",
+      "properties": {
+        "@id": "way/24576894",
+        "highway": "primary",
+        "name": "Calle 100",
+        "oneway": "yes",
+        "@timestamp": "2012-07-19T20:58:29Z",
+        "@version": "13",
+        "@changeset": "12347179",
+        "@user": "OSMF Redaction Account",
+        "@uid": "722137",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0405874,
+            4.6813387
+          ],
+          [
+            -74.0414482,
+            4.6818035
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24644242",
+      "properties": {
+        "@id": "way/24644242",
+        "highway": "secondary",
+        "name": "Carrera 11",
+        "oneway": "yes",
+        "@timestamp": "2014-04-21T23:58:31Z",
+        "@version": "18",
+        "@changeset": "21852163",
+        "@user": "vanessalaro",
+        "@uid": "1806395",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0529872,
+            4.665629
+          ],
+          [
+            -74.0533823,
+            4.665004
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24714636",
+      "properties": {
+        "@id": "way/24714636",
+        "addr:country": "CO",
+        "addr:street": "KR 7",
+        "highway": "primary",
+        "lanes": "3",
+        "name": "Carrera 7",
+        "oneway": "yes",
+        "ref": "AV Alberto Lleras Camargo",
+        "@timestamp": "2013-06-09T17:42:19Z",
+        "@version": "45",
+        "@changeset": "16485589",
+        "@user": "Davio",
+        "@uid": "217070",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0286486,
+            4.707706
+          ],
+          [
+            -74.0286364,
+            4.7075041
+          ],
+          [
+            -74.0286189,
+            4.7070817
+          ],
+          [
+            -74.0285919,
+            4.7061474
+          ],
+          [
+            -74.028663,
+            4.7055159
+          ],
+          [
+            -74.0287296,
+            4.7046307
+          ],
+          [
+            -74.028765,
+            4.7040545
+          ],
+          [
+            -74.0287841,
+            4.7035495
+          ],
+          [
+            -74.0287283,
+            4.7025068
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39729390",
+      "properties": {
+        "@id": "way/39729390",
+        "highway": "primary",
+        "lanes": "2",
+        "name": "Carrera 7",
+        "oneway": "yes",
+        "ref": "KR 7",
+        "@timestamp": "2016-07-31T08:16:47Z",
+        "@version": "22",
+        "@changeset": "41139454",
+        "@user": "rza31",
+        "@uid": "2137840",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0333222,
+            4.6937581
+          ],
+          [
+            -74.0333545,
+            4.6936712
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39742446",
+      "properties": {
+        "@id": "way/39742446",
+        "addr:country": "CO",
+        "addr:street": "KR 7",
+        "highway": "primary",
+        "name": "Carrera 7",
+        "oneway": "yes",
+        "ref": "AV Alberto Lleras Camargo",
+        "@timestamp": "2013-06-09T17:42:18Z",
+        "@version": "18",
+        "@changeset": "16485589",
+        "@user": "Davio",
+        "@uid": "217070",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0350698,
+            4.6880382
+          ],
+          [
+            -74.0350898,
+            4.6879265
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/88911077",
+      "properties": {
+        "@id": "way/88911077",
+        "addr:city": "Bogotá D.C.",
+        "addr:country": "CO",
+        "addr:street": "KR 7",
+        "highway": "primary",
+        "lanes": "3",
+        "name": "Carrera 7",
+        "oneway": "yes",
+        "ref": "AV Alberto Lleras Camargo",
+        "@timestamp": "2011-03-10T22:46:42Z",
+        "@version": "3",
+        "@changeset": "7518152",
+        "@user": "oscarjm",
+        "@uid": "397279",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0288801,
+            4.7148817
+          ],
+          [
+            -74.028916,
+            4.7147454
+          ],
+          [
+            -74.0292454,
+            4.7136177
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/88911085",
+      "properties": {
+        "@id": "way/88911085",
+        "highway": "primary",
+        "lanes": "3",
+        "name": "Carrera 7;Avenida Alberto Lleras Camargo",
+        "oneway": "yes",
+        "@timestamp": "2015-05-16T20:07:59Z",
+        "@version": "4",
+        "@changeset": "31211117",
+        "@user": "carciofo",
+        "@uid": "2533093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0294551,
+            4.7125922
+          ],
+          [
+            -74.0293932,
+            4.7122076
+          ],
+          [
+            -74.0292813,
+            4.7117418
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/88911105",
+      "properties": {
+        "@id": "way/88911105",
+        "addr:city": "Bogotá D.C.",
+        "addr:country": "CO",
+        "addr:street": "KR 7",
+        "highway": "primary",
+        "lanes": "3",
+        "name": "Carrera 7",
+        "oneway": "yes",
+        "ref": "AV Alberto Lleras Camargo",
+        "@timestamp": "2011-03-10T22:46:42Z",
+        "@version": "3",
+        "@changeset": "7518152",
+        "@user": "oscarjm",
+        "@uid": "397279",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0293901,
+            4.7131612
+          ],
+          [
+            -74.0294551,
+            4.7125922
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/88911130",
+      "properties": {
+        "@id": "way/88911130",
+        "highway": "primary",
+        "lanes": "3",
+        "name": "Carrera 7;Avenida Alberto Lleras Camargo",
+        "oneway": "yes",
+        "@timestamp": "2015-05-16T20:08:00Z",
+        "@version": "4",
+        "@changeset": "31211117",
+        "@user": "carciofo",
+        "@uid": "2533093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0292813,
+            4.7117418
+          ],
+          [
+            -74.0292321,
+            4.7115822
+          ],
+          [
+            -74.0291939,
+            4.7114717
+          ],
+          [
+            -74.0288798,
+            4.7100959
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/88911166",
+      "properties": {
+        "@id": "way/88911166",
+        "addr:city": "Bogotá D.C.",
+        "addr:country": "CO",
+        "addr:street": "KR 7",
+        "highway": "primary",
+        "lanes": "3",
+        "name": "Carrera 7",
+        "oneway": "yes",
+        "ref": "AV Alberto Lleras Camargo",
+        "@timestamp": "2011-03-10T22:46:43Z",
+        "@version": "4",
+        "@changeset": "7518152",
+        "@user": "oscarjm",
+        "@uid": "397279",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0288798,
+            4.7100959
+          ],
+          [
+            -74.0288219,
+            4.70988
+          ],
+          [
+            -74.0286858,
+            4.7083091
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/88911206",
+      "properties": {
+        "@id": "way/88911206",
+        "addr:city": "Bogotá D.C.",
+        "addr:country": "CO",
+        "addr:street": "KR 7",
+        "highway": "primary",
+        "lanes": "3",
+        "name": "Carrera 7",
+        "oneway": "yes",
+        "ref": "AV Alberto Lleras Camargo",
+        "@timestamp": "2011-03-10T22:46:41Z",
+        "@version": "3",
+        "@changeset": "7518152",
+        "@user": "oscarjm",
+        "@uid": "397279",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0292454,
+            4.7136177
+          ],
+          [
+            -74.0293901,
+            4.7131612
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/88958156",
+      "properties": {
+        "@id": "way/88958156",
+        "addr:city": "Bogotá D.C.",
+        "addr:country": "CO",
+        "addr:street": "KR 7",
+        "highway": "primary",
+        "name": "Carrera 7",
+        "oneway": "yes",
+        "ref": "AV Alberto Lleras Camargo",
+        "@timestamp": "2012-11-17T20:03:00Z",
+        "@version": "7",
+        "@changeset": "13910339",
+        "@user": "rcastib",
+        "@uid": "133835",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0351131,
+            4.687702
+          ],
+          [
+            -74.0352196,
+            4.687072
+          ],
+          [
+            -74.0352579,
+            4.6868479
+          ],
+          [
+            -74.035316,
+            4.6865548
+          ],
+          [
+            -74.0353534,
+            4.6864071
+          ],
+          [
+            -74.0355403,
+            4.6858026
+          ],
+          [
+            -74.0357139,
+            4.6853269
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89131496",
+      "properties": {
+        "@id": "way/89131496",
+        "addr:city": "Bogotá D.C.",
+        "addr:country": "CO",
+        "addr:street": "KR 7",
+        "highway": "primary",
+        "lanes": "3",
+        "name": "Carrera 7",
+        "oneway": "yes",
+        "ref": "AV Alberto Lleras Camargo",
+        "@timestamp": "2012-11-12T04:58:49Z",
+        "@version": "5",
+        "@changeset": "13842488",
+        "@user": "karensofiaangel",
+        "@uid": "1020789",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0286618,
+            4.7015759
+          ],
+          [
+            -74.0286618,
+            4.7012691
+          ],
+          [
+            -74.0287865,
+            4.7006962
+          ],
+          [
+            -74.0290047,
+            4.6995702
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89131646",
+      "properties": {
+        "@id": "way/89131646",
+        "addr:city": "Bogotá D.C.",
+        "addr:country": "CO",
+        "addr:street": "KR 7",
+        "highway": "primary",
+        "lanes": "3",
+        "name": "Carrera 7",
+        "oneway": "yes",
+        "ref": "AV Alberto Lleras Camargo",
+        "@timestamp": "2011-03-10T22:36:09Z",
+        "@version": "3",
+        "@changeset": "7518152",
+        "@user": "oscarjm",
+        "@uid": "397279",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0287283,
+            4.7025068
+          ],
+          [
+            -74.0286931,
+            4.7022302
+          ],
+          [
+            -74.0286769,
+            4.7021514
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89131679",
+      "properties": {
+        "@id": "way/89131679",
+        "addr:city": "Bogotá D.C.",
+        "addr:country": "CO",
+        "addr:street": "KR 7",
+        "highway": "primary",
+        "lanes": "3",
+        "name": "Carrera 7",
+        "oneway": "yes",
+        "ref": "AV Alberto Lleras Camargo",
+        "@timestamp": "2011-03-10T22:46:45Z",
+        "@version": "3",
+        "@changeset": "7518152",
+        "@user": "oscarjm",
+        "@uid": "397279",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0286858,
+            4.7083091
+          ],
+          [
+            -74.0286582,
+            4.707963
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89131699",
+      "properties": {
+        "@id": "way/89131699",
+        "addr:city": "Bogotá D.C.",
+        "addr:country": "CO",
+        "addr:street": "KR 7",
+        "highway": "primary",
+        "lanes": "3",
+        "name": "Carrera 7",
+        "oneway": "yes",
+        "ref": "AV Alberto Lleras Camargo",
+        "@timestamp": "2011-03-10T22:36:10Z",
+        "@version": "3",
+        "@changeset": "7518152",
+        "@user": "oscarjm",
+        "@uid": "397279",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0286769,
+            4.7021514
+          ],
+          [
+            -74.0286588,
+            4.7018369
+          ],
+          [
+            -74.0286618,
+            4.7015759
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89438670",
+      "properties": {
+        "@id": "way/89438670",
+        "addr:city": "Bogotá D.C.",
+        "addr:country": "CO",
+        "addr:street": "KR 7",
+        "highway": "primary",
+        "lanes": "3",
+        "name": "Carrera 7",
+        "oneway": "yes",
+        "ref": "AV Alberto Lleras Camargo",
+        "@timestamp": "2011-03-10T22:36:12Z",
+        "@version": "3",
+        "@changeset": "7518152",
+        "@user": "oscarjm",
+        "@uid": "397279",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0290047,
+            4.6995702
+          ],
+          [
+            -74.0290483,
+            4.6994093
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89438768",
+      "properties": {
+        "@id": "way/89438768",
+        "addr:city": "Bogotá D.C.",
+        "addr:country": "CO",
+        "addr:street": "KR 7",
+        "highway": "primary",
+        "lanes": "3",
+        "name": "Carrera 7",
+        "oneway": "yes",
+        "ref": "AV Alberto Lleras Camargo",
+        "@timestamp": "2011-03-10T22:36:17Z",
+        "@version": "3",
+        "@changeset": "7518152",
+        "@user": "oscarjm",
+        "@uid": "397279",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0308577,
+            4.6977978
+          ],
+          [
+            -74.0311644,
+            4.6974046
+          ],
+          [
+            -74.0312287,
+            4.6973036
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89438816",
+      "properties": {
+        "@id": "way/89438816",
+        "addr:city": "Bogotá D.C.",
+        "addr:country": "CO",
+        "addr:street": "KR 7",
+        "highway": "primary",
+        "lanes": "3",
+        "name": "Carrera 7",
+        "oneway": "yes",
+        "ref": "AV Alberto Lleras Camargo",
+        "@timestamp": "2016-05-07T20:43:45Z",
+        "@version": "5",
+        "@changeset": "39170847",
+        "@user": "matiuxd",
+        "@uid": "2006950",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0299835,
+            4.6984235
+          ],
+          [
+            -74.0305855,
+            4.698005
+          ],
+          [
+            -74.0306505,
+            4.6979705
+          ],
+          [
+            -74.0307175,
+            4.6979143
+          ],
+          [
+            -74.0308577,
+            4.6977978
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89438834",
+      "properties": {
+        "@id": "way/89438834",
+        "addr:city": "Bogotá D.C.",
+        "addr:country": "CO",
+        "addr:street": "KR 7",
+        "highway": "primary",
+        "lanes": "3",
+        "name": "Carrera 7",
+        "oneway": "yes",
+        "ref": "AV Alberto Lleras Camargo",
+        "@timestamp": "2011-03-10T22:36:15Z",
+        "@version": "3",
+        "@changeset": "7518152",
+        "@user": "oscarjm",
+        "@uid": "397279",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0290483,
+            4.6994093
+          ],
+          [
+            -74.0291704,
+            4.6991623
+          ],
+          [
+            -74.0293105,
+            4.6989122
+          ],
+          [
+            -74.029684,
+            4.6986264
+          ],
+          [
+            -74.0299835,
+            4.6984235
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89438994",
+      "properties": {
+        "@id": "way/89438994",
+        "addr:city": "Bogotá D.C.",
+        "addr:country": "CO",
+        "addr:street": "KR 7",
+        "highway": "primary",
+        "lanes": "3",
+        "name": "Carrera 7",
+        "oneway": "yes",
+        "ref": "AV Alberto Lleras Camargo",
+        "@timestamp": "2011-03-10T22:36:17Z",
+        "@version": "3",
+        "@changeset": "7518152",
+        "@user": "oscarjm",
+        "@uid": "397279",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0312287,
+            4.6973036
+          ],
+          [
+            -74.0314951,
+            4.6968505
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89439026",
+      "properties": {
+        "@id": "way/89439026",
+        "highway": "primary",
+        "lanes": "3",
+        "name": "Carrera 7",
+        "oneway": "yes",
+        "ref": "KR 7",
+        "@timestamp": "2016-07-31T08:16:47Z",
+        "@version": "4",
+        "@changeset": "41139454",
+        "@user": "rza31",
+        "@uid": "2137840",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0314951,
+            4.6968505
+          ],
+          [
+            -74.0317798,
+            4.6964048
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89439033",
+      "properties": {
+        "@id": "way/89439033",
+        "highway": "primary",
+        "lanes": "3",
+        "name": "Carrera 7",
+        "oneway": "yes",
+        "ref": "AV Alberto Lleras Camargo",
+        "@timestamp": "2016-07-31T08:16:48Z",
+        "@version": "7",
+        "@changeset": "41139454",
+        "@user": "rza31",
+        "@uid": "2137840",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0317798,
+            4.6964048
+          ],
+          [
+            -74.0320567,
+            4.6959702
+          ],
+          [
+            -74.0329156,
+            4.6946018
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89477172",
+      "properties": {
+        "@id": "way/89477172",
+        "addr:city": "Bogotá D.C.",
+        "addr:country": "CO",
+        "addr:street": "KR 7",
+        "highway": "primary",
+        "name": "Carrera 7",
+        "oneway": "yes",
+        "ref": "AV Alberto Lleras Camargo",
+        "@timestamp": "2011-03-10T22:06:06Z",
+        "@version": "3",
+        "@changeset": "7518152",
+        "@user": "oscarjm",
+        "@uid": "397279",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0350898,
+            4.6879265
+          ],
+          [
+            -74.0351131,
+            4.687702
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89480430",
+      "properties": {
+        "@id": "way/89480430",
+        "highway": "secondary",
+        "name": "Carrera 11",
+        "oneway": "yes",
+        "@timestamp": "2013-06-09T17:41:37Z",
+        "@version": "2",
+        "@changeset": "16485589",
+        "@user": "Davio",
+        "@uid": "217070",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0434264,
+            4.682589
+          ],
+          [
+            -74.043468,
+            4.6825159
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89480467",
+      "properties": {
+        "@id": "way/89480467",
+        "highway": "primary",
+        "name": "Avenida Carlos Lleras Restrepo - Calle 100",
+        "oneway": "yes",
+        "@timestamp": "2015-12-08T18:52:43Z",
+        "@version": "5",
+        "@changeset": "35832024",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0414482,
+            4.6818035
+          ],
+          [
+            -74.0419766,
+            4.6820871
+          ],
+          [
+            -74.0421177,
+            4.6821628
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89480478",
+      "properties": {
+        "@id": "way/89480478",
+        "alt_name": "Avenida Alberto Lleras Camargo",
+        "highway": "primary",
+        "name": "Carrera 7",
+        "oneway": "yes",
+        "ref": "AV Alberto Lleras Camargo",
+        "@timestamp": "2015-12-08T18:52:45Z",
+        "@version": "8",
+        "@changeset": "35832024",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0357844,
+            4.6851739
+          ],
+          [
+            -74.035917,
+            4.6848666
+          ],
+          [
+            -74.0360911,
+            4.6844916
+          ],
+          [
+            -74.0362056,
+            4.684245
+          ],
+          [
+            -74.0363384,
+            4.6839588
+          ],
+          [
+            -74.0368276,
+            4.6829093
+          ],
+          [
+            -74.0369315,
+            4.6827028
+          ],
+          [
+            -74.0373618,
+            4.6817266
+          ],
+          [
+            -74.0374273,
+            4.6815978
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89480556",
+      "properties": {
+        "@id": "way/89480556",
+        "addr:city": "Bogotá D.C.",
+        "addr:street": "AC 100",
+        "highway": "primary",
+        "name": "Avenida Carlos Lleras Restrepo - Calle 100",
+        "oneway": "yes",
+        "@timestamp": "2010-12-13T20:28:36Z",
+        "@version": "1",
+        "@changeset": "6650998",
+        "@user": "LGARS",
+        "@uid": "340352",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0399342,
+            4.680985
+          ],
+          [
+            -74.0405874,
+            4.6813387
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89480639",
+      "properties": {
+        "@id": "way/89480639",
+        "alt_name": "Avenida Alberto Lleras Camargo",
+        "highway": "primary",
+        "name": "Carrera 7",
+        "oneway": "yes",
+        "ref": "AV Alberto Lleras Camargo",
+        "@timestamp": "2015-12-08T18:52:45Z",
+        "@version": "5",
+        "@changeset": "35832024",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0374273,
+            4.6815978
+          ],
+          [
+            -74.0375635,
+            4.681287
+          ],
+          [
+            -74.0376298,
+            4.6811416
+          ],
+          [
+            -74.037769,
+            4.6808365
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89480666",
+      "properties": {
+        "@id": "way/89480666",
+        "addr:city": "Bogotá D.C.",
+        "addr:street": "AC 100",
+        "highway": "primary",
+        "name": "Avenida Carlos Lleras Restrepo - Calle 100",
+        "oneway": "yes",
+        "@timestamp": "2016-02-06T16:39:01Z",
+        "@version": "3",
+        "@changeset": "37043707",
+        "@user": "guayabo_negro",
+        "@uid": "2674064",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0432499,
+            4.6826806
+          ],
+          [
+            -74.0432872,
+            4.6826995
+          ],
+          [
+            -74.043361,
+            4.6827371
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89480670",
+      "properties": {
+        "@id": "way/89480670",
+        "addr:city": "Bogotá D.C.",
+        "addr:country": "CO",
+        "addr:street": "KR 7",
+        "highway": "primary",
+        "name": "Avenida Alberto Lleras Camargo;Carrera 7",
+        "oneway": "yes",
+        "ref": "AV Alberto Lleras Camargo",
+        "@timestamp": "2015-04-15T03:39:41Z",
+        "@version": "4",
+        "@changeset": "30226805",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.037769,
+            4.6808365
+          ],
+          [
+            -74.0380082,
+            4.6804085
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89480680",
+      "properties": {
+        "@id": "way/89480680",
+        "highway": "secondary",
+        "name": "Carrera 11",
+        "oneway": "yes",
+        "@timestamp": "2013-06-09T17:41:40Z",
+        "@version": "2",
+        "@changeset": "16485589",
+        "@user": "Davio",
+        "@uid": "217070",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.043361,
+            4.6827371
+          ],
+          [
+            -74.0434264,
+            4.682589
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89480681",
+      "properties": {
+        "@id": "way/89480681",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Carrera 11",
+        "oneway": "yes",
+        "@timestamp": "2016-02-06T16:24:51Z",
+        "@version": "5",
+        "@changeset": "37043707",
+        "@user": "guayabo_negro",
+        "@uid": "2674064",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.043468,
+            4.6825159
+          ],
+          [
+            -74.0436982,
+            4.6820813
+          ],
+          [
+            -74.0438925,
+            4.6817146
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89502452",
+      "properties": {
+        "@id": "way/89502452",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Carrera 11",
+        "oneway": "yes",
+        "@timestamp": "2016-02-06T16:24:48Z",
+        "@version": "6",
+        "@changeset": "37043707",
+        "@user": "guayabo_negro",
+        "@uid": "2674064",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0438925,
+            4.6817146
+          ],
+          [
+            -74.04424,
+            4.6810203
+          ],
+          [
+            -74.0443314,
+            4.6808499
+          ],
+          [
+            -74.0443953,
+            4.680738
+          ],
+          [
+            -74.0447416,
+            4.6800571
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89513111",
+      "properties": {
+        "@id": "way/89513111",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Carrera 11",
+        "oneway": "yes",
+        "@timestamp": "2016-02-06T16:24:50Z",
+        "@version": "11",
+        "@changeset": "37043707",
+        "@user": "guayabo_negro",
+        "@uid": "2674064",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0447416,
+            4.6800571
+          ],
+          [
+            -74.045027,
+            4.679527
+          ],
+          [
+            -74.0454778,
+            4.6786482
+          ],
+          [
+            -74.0456868,
+            4.6782498
+          ],
+          [
+            -74.0458363,
+            4.6779649
+          ],
+          [
+            -74.0462021,
+            4.6772474
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89526823",
+      "properties": {
+        "@id": "way/89526823",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Carrera 11",
+        "oneway": "yes",
+        "@timestamp": "2016-02-06T16:24:47Z",
+        "@version": "4",
+        "@changeset": "37043707",
+        "@user": "guayabo_negro",
+        "@uid": "2674064",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0462021,
+            4.6772474
+          ],
+          [
+            -74.0462717,
+            4.6771072
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89526832",
+      "properties": {
+        "@id": "way/89526832",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Carrera 11",
+        "oneway": "yes",
+        "@timestamp": "2016-02-06T16:24:47Z",
+        "@version": "6",
+        "@changeset": "37043707",
+        "@user": "guayabo_negro",
+        "@uid": "2674064",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0462717,
+            4.6771072
+          ],
+          [
+            -74.0468315,
+            4.6760263
+          ],
+          [
+            -74.0470318,
+            4.675634
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89526863",
+      "properties": {
+        "@id": "way/89526863",
+        "highway": "secondary",
+        "name": "Carrera 11",
+        "oneway": "yes",
+        "@timestamp": "2016-02-06T16:38:59Z",
+        "@version": "7",
+        "@changeset": "37043707",
+        "@user": "guayabo_negro",
+        "@uid": "2674064",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0453811,
+            4.6785972
+          ],
+          [
+            -74.0454176,
+            4.6786165
+          ],
+          [
+            -74.0454778,
+            4.6786482
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89527086",
+      "properties": {
+        "@id": "way/89527086",
+        "highway": "secondary",
+        "name": "Carrera 13",
+        "oneway": "yes",
+        "@timestamp": "2010-12-13T23:56:32Z",
+        "@version": "1",
+        "@changeset": "6654355",
+        "@user": "dmartinh",
+        "@uid": "314700",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0684515,
+            4.6200537
+          ],
+          [
+            -74.0685613,
+            4.6194871
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89527301",
+      "properties": {
+        "@id": "way/89527301",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Carrera 11",
+        "oneway": "yes",
+        "@timestamp": "2016-02-06T16:24:49Z",
+        "@version": "6",
+        "@changeset": "37043707",
+        "@user": "guayabo_negro",
+        "@uid": "2674064",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0470318,
+            4.675634
+          ],
+          [
+            -74.0474968,
+            4.6747348
+          ],
+          [
+            -74.0477139,
+            4.674315
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89572222",
+      "properties": {
+        "@id": "way/89572222",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Carrera 11",
+        "oneway": "yes",
+        "@timestamp": "2016-02-06T16:24:48Z",
+        "@version": "5",
+        "@changeset": "37043707",
+        "@user": "guayabo_negro",
+        "@uid": "2674064",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0477139,
+            4.674315
+          ],
+          [
+            -74.0478895,
+            4.6739863
+          ],
+          [
+            -74.0480409,
+            4.6737028
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89580860",
+      "properties": {
+        "@id": "way/89580860",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Carrera 11",
+        "oneway": "yes",
+        "@timestamp": "2016-02-06T16:24:50Z",
+        "@version": "3",
+        "@changeset": "37043707",
+        "@user": "guayabo_negro",
+        "@uid": "2674064",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0481293,
+            4.6735298
+          ],
+          [
+            -74.0484735,
+            4.6728632
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89580877",
+      "properties": {
+        "@id": "way/89580877",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Carrera 11",
+        "oneway": "yes",
+        "@timestamp": "2016-02-06T16:24:51Z",
+        "@version": "3",
+        "@changeset": "37043707",
+        "@user": "guayabo_negro",
+        "@uid": "2674064",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0480409,
+            4.6737028
+          ],
+          [
+            -74.0480804,
+            4.6736292
+          ],
+          [
+            -74.0481293,
+            4.6735298
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89580879",
+      "properties": {
+        "@id": "way/89580879",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Carrera 11",
+        "oneway": "yes",
+        "@timestamp": "2016-02-06T16:24:51Z",
+        "@version": "4",
+        "@changeset": "37043707",
+        "@user": "guayabo_negro",
+        "@uid": "2674064",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.049435,
+            4.6709816
+          ],
+          [
+            -74.0495145,
+            4.6708448
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89580897",
+      "properties": {
+        "@id": "way/89580897",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Carrera 11",
+        "oneway": "yes",
+        "@timestamp": "2016-02-06T16:24:51Z",
+        "@version": "6",
+        "@changeset": "37043707",
+        "@user": "guayabo_negro",
+        "@uid": "2674064",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.048814,
+            4.6722143
+          ],
+          [
+            -74.0491071,
+            4.6716439
+          ],
+          [
+            -74.0492101,
+            4.671433
+          ],
+          [
+            -74.0494029,
+            4.6710384
+          ],
+          [
+            -74.049435,
+            4.6709816
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89580959",
+      "properties": {
+        "@id": "way/89580959",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Carrera 11",
+        "oneway": "yes",
+        "@timestamp": "2016-02-06T16:24:51Z",
+        "@version": "4",
+        "@changeset": "37043707",
+        "@user": "guayabo_negro",
+        "@uid": "2674064",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0484735,
+            4.6728632
+          ],
+          [
+            -74.0486756,
+            4.6725037
+          ],
+          [
+            -74.048814,
+            4.6722143
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89582582",
+      "properties": {
+        "@id": "way/89582582",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Carrera 11",
+        "oneway": "yes",
+        "@timestamp": "2016-02-06T16:24:49Z",
+        "@version": "5",
+        "@changeset": "37043707",
+        "@user": "guayabo_negro",
+        "@uid": "2674064",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0498275,
+            4.67038
+          ],
+          [
+            -74.0500733,
+            4.6700017
+          ],
+          [
+            -74.0502786,
+            4.6696857
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89582590",
+      "properties": {
+        "@id": "way/89582590",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Carrera 11",
+        "oneway": "yes",
+        "@timestamp": "2016-02-06T16:24:49Z",
+        "@version": "5",
+        "@changeset": "37043707",
+        "@user": "guayabo_negro",
+        "@uid": "2674064",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0495145,
+            4.6708448
+          ],
+          [
+            -74.049541,
+            4.6707937
+          ],
+          [
+            -74.0498275,
+            4.67038
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89582600",
+      "properties": {
+        "@id": "way/89582600",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Carrera 11",
+        "oneway": "yes",
+        "@timestamp": "2016-02-06T16:24:49Z",
+        "@version": "5",
+        "@changeset": "37043707",
+        "@user": "guayabo_negro",
+        "@uid": "2674064",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0502786,
+            4.6696857
+          ],
+          [
+            -74.0508794,
+            4.6688241
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89600665",
+      "properties": {
+        "@id": "way/89600665",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Carrera 11",
+        "oneway": "yes",
+        "@timestamp": "2016-02-06T16:24:47Z",
+        "@version": "5",
+        "@changeset": "37043707",
+        "@user": "guayabo_negro",
+        "@uid": "2674064",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0508794,
+            4.6688241
+          ],
+          [
+            -74.0509465,
+            4.6687257
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89600733",
+      "properties": {
+        "@id": "way/89600733",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Carrera 11",
+        "oneway": "yes",
+        "@timestamp": "2016-02-06T16:24:48Z",
+        "@version": "9",
+        "@changeset": "37043707",
+        "@user": "guayabo_negro",
+        "@uid": "2674064",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0515173,
+            4.6678741
+          ],
+          [
+            -74.0518077,
+            4.6674828
+          ],
+          [
+            -74.0518359,
+            4.6674446
+          ],
+          [
+            -74.0521956,
+            4.6669022
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89600768",
+      "properties": {
+        "@id": "way/89600768",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Carrera 11",
+        "oneway": "yes",
+        "@timestamp": "2016-02-06T16:24:48Z",
+        "@version": "10",
+        "@changeset": "37043707",
+        "@user": "guayabo_negro",
+        "@uid": "2674064",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0509465,
+            4.6687257
+          ],
+          [
+            -74.0512923,
+            4.6682012
+          ],
+          [
+            -74.0514663,
+            4.6679372
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89607748",
+      "properties": {
+        "@id": "way/89607748",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Carrera 11",
+        "oneway": "yes",
+        "@timestamp": "2016-02-06T16:24:51Z",
+        "@version": "8",
+        "@changeset": "37043707",
+        "@user": "guayabo_negro",
+        "@uid": "2674064",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0528987,
+            4.665849
+          ],
+          [
+            -74.0529701,
+            4.6657107
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89607756",
+      "properties": {
+        "@id": "way/89607756",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Carrera 11",
+        "oneway": "yes",
+        "@timestamp": "2016-02-06T16:24:51Z",
+        "@version": "4",
+        "@changeset": "37043707",
+        "@user": "guayabo_negro",
+        "@uid": "2674064",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0521956,
+            4.6669022
+          ],
+          [
+            -74.0522603,
+            4.6668139
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89607783",
+      "properties": {
+        "@id": "way/89607783",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Carrera 11",
+        "oneway": "yes",
+        "@timestamp": "2016-02-06T16:24:52Z",
+        "@version": "4",
+        "@changeset": "37043707",
+        "@user": "guayabo_negro",
+        "@uid": "2674064",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0522603,
+            4.6668139
+          ],
+          [
+            -74.052436,
+            4.6665231
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89607801",
+      "properties": {
+        "@id": "way/89607801",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Carrera 11",
+        "oneway": "yes",
+        "@timestamp": "2016-02-06T16:24:52Z",
+        "@version": "5",
+        "@changeset": "37043707",
+        "@user": "guayabo_negro",
+        "@uid": "2674064",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.052436,
+            4.6665231
+          ],
+          [
+            -74.0525165,
+            4.666416
+          ],
+          [
+            -74.0525643,
+            4.6663526
+          ],
+          [
+            -74.0528987,
+            4.665849
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89615873",
+      "properties": {
+        "@id": "way/89615873",
+        "highway": "secondary",
+        "name": "Carrera 11",
+        "oneway": "no",
+        "@timestamp": "2016-01-10T04:23:52Z",
+        "@version": "4",
+        "@changeset": "36475123",
+        "@user": "ingnoel",
+        "@uid": "2905140",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0556157,
+            4.6618052
+          ],
+          [
+            -74.0557273,
+            4.6616395
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89615878",
+      "properties": {
+        "@id": "way/89615878",
+        "highway": "secondary",
+        "name": "Carrera 11",
+        "oneway": "yes",
+        "@timestamp": "2014-04-21T23:58:31Z",
+        "@version": "3",
+        "@changeset": "21852163",
+        "@user": "vanessalaro",
+        "@uid": "1806395",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0533823,
+            4.665004
+          ],
+          [
+            -74.0538902,
+            4.664267
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89615880",
+      "properties": {
+        "@id": "way/89615880",
+        "highway": "secondary",
+        "name": "Carrera 11",
+        "oneway": "yes",
+        "@timestamp": "2015-12-13T09:01:51Z",
+        "@version": "4",
+        "@changeset": "35922161",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0543993,
+            4.6635573
+          ],
+          [
+            -74.0545735,
+            4.6632923
+          ],
+          [
+            -74.0549675,
+            4.6627346
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89615904",
+      "properties": {
+        "@id": "way/89615904",
+        "highway": "secondary",
+        "name": "Carrera 11",
+        "oneway": "yes",
+        "@timestamp": "2015-12-13T09:01:51Z",
+        "@version": "4",
+        "@changeset": "35922161",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0538902,
+            4.664267
+          ],
+          [
+            -74.0540991,
+            4.6639881
+          ],
+          [
+            -74.0543993,
+            4.6635573
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89615967",
+      "properties": {
+        "@id": "way/89615967",
+        "highway": "secondary",
+        "name": "Carrera 11",
+        "oneway": "yes",
+        "@timestamp": "2014-04-21T23:58:27Z",
+        "@version": "3",
+        "@changeset": "21852163",
+        "@user": "vanessalaro",
+        "@uid": "1806395",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.055491,
+            4.6619816
+          ],
+          [
+            -74.0556157,
+            4.6618052
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89616095",
+      "properties": {
+        "@id": "way/89616095",
+        "highway": "secondary",
+        "name": "Carrera 11",
+        "oneway": "yes",
+        "@timestamp": "2014-04-21T23:58:28Z",
+        "@version": "3",
+        "@changeset": "21852163",
+        "@user": "vanessalaro",
+        "@uid": "1806395",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0549675,
+            4.6627346
+          ],
+          [
+            -74.055491,
+            4.6619816
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89616111",
+      "properties": {
+        "@id": "way/89616111",
+        "highway": "secondary",
+        "name": "Carrera 11",
+        "oneway": "yes",
+        "@timestamp": "2015-12-13T21:59:03Z",
+        "@version": "4",
+        "@changeset": "35934548",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0561856,
+            4.6609604
+          ],
+          [
+            -74.0564174,
+            4.6606142
+          ],
+          [
+            -74.0568528,
+            4.659964
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89617627",
+      "properties": {
+        "@id": "way/89617627",
+        "highway": "secondary",
+        "name": "Carrera 11",
+        "oneway": "yes",
+        "@timestamp": "2015-12-13T21:59:03Z",
+        "@version": "5",
+        "@changeset": "35934548",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0579993,
+            4.6583139
+          ],
+          [
+            -74.0583236,
+            4.6578323
+          ],
+          [
+            -74.0586839,
+            4.6572971
+          ],
+          [
+            -74.0587213,
+            4.6572542
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89617921",
+      "properties": {
+        "@id": "way/89617921",
+        "highway": "secondary",
+        "name": "Carrera 11",
+        "oneway": "yes",
+        "@timestamp": "2015-11-27T04:47:19Z",
+        "@version": "4",
+        "@changeset": "35604665",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0588337,
+            4.6570888
+          ],
+          [
+            -74.0593039,
+            4.6564173
+          ],
+          [
+            -74.0594359,
+            4.6562748
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89617952",
+      "properties": {
+        "@id": "way/89617952",
+        "highway": "secondary",
+        "name": "Carrera 11",
+        "oneway": "yes",
+        "@timestamp": "2015-12-13T21:59:03Z",
+        "@version": "3",
+        "@changeset": "35934548",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0568528,
+            4.659964
+          ],
+          [
+            -74.0571486,
+            4.6595333
+          ],
+          [
+            -74.0574868,
+            4.6590407
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89617996",
+      "properties": {
+        "@id": "way/89617996",
+        "highway": "secondary",
+        "name": "Carrera 11",
+        "oneway": "yes",
+        "@timestamp": "2015-11-27T04:47:19Z",
+        "@version": "6",
+        "@changeset": "35604665",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0594359,
+            4.6562748
+          ],
+          [
+            -74.0595743,
+            4.656027
+          ],
+          [
+            -74.0598173,
+            4.6556897
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89618004",
+      "properties": {
+        "@id": "way/89618004",
+        "highway": "secondary",
+        "name": "Carrera 11",
+        "oneway": "yes",
+        "@timestamp": "2015-11-27T05:03:13Z",
+        "@version": "5",
+        "@changeset": "35604761",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0587213,
+            4.6572542
+          ],
+          [
+            -74.0588337,
+            4.6570888
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89618028",
+      "properties": {
+        "@id": "way/89618028",
+        "highway": "secondary",
+        "name": "Carrera 11",
+        "oneway": "yes",
+        "@timestamp": "2013-06-09T17:41:35Z",
+        "@version": "2",
+        "@changeset": "16485589",
+        "@user": "Davio",
+        "@uid": "217070",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0574868,
+            4.6590407
+          ],
+          [
+            -74.0579993,
+            4.6583139
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89619138",
+      "properties": {
+        "@id": "way/89619138",
+        "highway": "secondary",
+        "name": "Carrera 11",
+        "oneway": "yes",
+        "@timestamp": "2014-04-21T23:25:23Z",
+        "@version": "3",
+        "@changeset": "21851774",
+        "@user": "vanessalaro",
+        "@uid": "1806395",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0598173,
+            4.6556897
+          ],
+          [
+            -74.0601963,
+            4.655099
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89619188",
+      "properties": {
+        "@id": "way/89619188",
+        "highway": "secondary",
+        "name": "Carrera 11",
+        "oneway": "yes",
+        "@timestamp": "2015-11-27T04:47:19Z",
+        "@version": "4",
+        "@changeset": "35604665",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0601963,
+            4.655099
+          ],
+          [
+            -74.0603365,
+            4.6548984
+          ],
+          [
+            -74.0605725,
+            4.654471
+          ],
+          [
+            -74.060659,
+            4.654325
+          ],
+          [
+            -74.0608201,
+            4.6540529
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89623399",
+      "properties": {
+        "@id": "way/89623399",
+        "highway": "secondary",
+        "name": "Carrera 11",
+        "oneway": "yes",
+        "@timestamp": "2015-11-27T04:47:19Z",
+        "@version": "3",
+        "@changeset": "35604665",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0610588,
+            4.6534759
+          ],
+          [
+            -74.0612653,
+            4.6530622
+          ],
+          [
+            -74.0614305,
+            4.6527533
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89623458",
+      "properties": {
+        "@id": "way/89623458",
+        "highway": "secondary",
+        "name": "Carrera 11",
+        "oneway": "yes",
+        "@timestamp": "2013-06-09T17:41:38Z",
+        "@version": "2",
+        "@changeset": "16485589",
+        "@user": "Davio",
+        "@uid": "217070",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0614305,
+            4.6527533
+          ],
+          [
+            -74.061757,
+            4.6519816
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89623478",
+      "properties": {
+        "@id": "way/89623478",
+        "highway": "secondary",
+        "name": "Carrera 11",
+        "oneway": "yes",
+        "@timestamp": "2013-06-09T17:41:39Z",
+        "@version": "2",
+        "@changeset": "16485589",
+        "@user": "Davio",
+        "@uid": "217070",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0608201,
+            4.6540529
+          ],
+          [
+            -74.0610588,
+            4.6534759
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89623528",
+      "properties": {
+        "@id": "way/89623528",
+        "highway": "secondary",
+        "name": "Carrera 11",
+        "oneway": "yes",
+        "@timestamp": "2015-11-27T04:47:19Z",
+        "@version": "4",
+        "@changeset": "35604665",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.061757,
+            4.6519816
+          ],
+          [
+            -74.0619432,
+            4.6516156
+          ],
+          [
+            -74.0621476,
+            4.6511669
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89626665",
+      "properties": {
+        "@id": "way/89626665",
+        "highway": "secondary",
+        "name": "Carrera 13",
+        "oneway": "yes",
+        "@timestamp": "2016-04-24T00:45:59Z",
+        "@version": "6",
+        "@changeset": "38823852",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0633121,
+            4.6507794
+          ],
+          [
+            -74.0633261,
+            4.6507141
+          ],
+          [
+            -74.0633988,
+            4.6502429
+          ],
+          [
+            -74.0635209,
+            4.6495293
+          ],
+          [
+            -74.0635349,
+            4.6494378
+          ],
+          [
+            -74.0636281,
+            4.648886
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89626691",
+      "properties": {
+        "@id": "way/89626691",
+        "highway": "secondary",
+        "name": "Carrera 11",
+        "oneway": "yes",
+        "@timestamp": "2016-03-22T02:16:50Z",
+        "@version": "3",
+        "@changeset": "37989937",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0621476,
+            4.6511669
+          ],
+          [
+            -74.0625201,
+            4.6503773
+          ],
+          [
+            -74.0625736,
+            4.6503351
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89626698",
+      "properties": {
+        "@id": "way/89626698",
+        "highway": "tertiary",
+        "name": "Calle 64",
+        "oneway": "yes",
+        "@timestamp": "2016-03-22T02:16:49Z",
+        "@version": "6",
+        "@changeset": "37989937",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0625736,
+            4.6503351
+          ],
+          [
+            -74.0626466,
+            4.6503804
+          ],
+          [
+            -74.063239,
+            4.6507382
+          ],
+          [
+            -74.0633121,
+            4.6507794
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89628276",
+      "properties": {
+        "@id": "way/89628276",
+        "highway": "secondary",
+        "name": "Carrera 13",
+        "oneway": "yes",
+        "@timestamp": "2016-01-24T19:37:27Z",
+        "@version": "3",
+        "@changeset": "36782938",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0637856,
+            4.6478935
+          ],
+          [
+            -74.0638146,
+            4.6477451
+          ],
+          [
+            -74.0639094,
+            4.6472594
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89628312",
+      "properties": {
+        "@id": "way/89628312",
+        "highway": "secondary",
+        "name": "Carrera 13",
+        "oneway": "yes",
+        "@timestamp": "2015-11-27T04:47:21Z",
+        "@version": "2",
+        "@changeset": "35604665",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0636693,
+            4.6486867
+          ],
+          [
+            -74.0637443,
+            4.6481958
+          ],
+          [
+            -74.0637856,
+            4.6478935
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89628314",
+      "properties": {
+        "@id": "way/89628314",
+        "highway": "secondary",
+        "name": "Carrera 13",
+        "oneway": "yes",
+        "@timestamp": "2010-12-14T23:32:51Z",
+        "@version": "1",
+        "@changeset": "6663206",
+        "@user": "LGARS",
+        "@uid": "340352",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0636281,
+            4.648886
+          ],
+          [
+            -74.0636693,
+            4.6486867
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89631930",
+      "properties": {
+        "@id": "way/89631930",
+        "highway": "secondary",
+        "name": "Carrera 13",
+        "oneway": "yes",
+        "@timestamp": "2015-11-27T04:47:20Z",
+        "@version": "3",
+        "@changeset": "35604665",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0643569,
+            4.6445095
+          ],
+          [
+            -74.0644016,
+            4.6441856
+          ],
+          [
+            -74.0644598,
+            4.6439238
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89631944",
+      "properties": {
+        "@id": "way/89631944",
+        "highway": "secondary",
+        "name": "Carrera 13",
+        "oneway": "yes",
+        "@timestamp": "2010-12-14T23:55:04Z",
+        "@version": "1",
+        "@changeset": "6663858",
+        "@user": "LGARS",
+        "@uid": "340352",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0641383,
+            4.6459721
+          ],
+          [
+            -74.0642873,
+            4.6449623
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89631950",
+      "properties": {
+        "@id": "way/89631950",
+        "highway": "secondary",
+        "name": "Carrera 13",
+        "oneway": "yes",
+        "@timestamp": "2010-12-14T23:55:06Z",
+        "@version": "1",
+        "@changeset": "6663858",
+        "@user": "LGARS",
+        "@uid": "340352",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0639094,
+            4.6472594
+          ],
+          [
+            -74.0639881,
+            4.6467936
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89631961",
+      "properties": {
+        "@id": "way/89631961",
+        "highway": "secondary",
+        "name": "Carrera 13",
+        "oneway": "yes",
+        "@timestamp": "2014-04-21T15:54:28Z",
+        "@version": "3",
+        "@changeset": "21841088",
+        "@user": "vanessalaro",
+        "@uid": "1806395",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0644831,
+            4.6437985
+          ],
+          [
+            -74.064568,
+            4.6432861
+          ],
+          [
+            -74.0645959,
+            4.6430719
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89631968",
+      "properties": {
+        "@id": "way/89631968",
+        "highway": "secondary",
+        "name": "Carrera 13",
+        "oneway": "yes",
+        "@timestamp": "2010-12-14T23:55:13Z",
+        "@version": "1",
+        "@changeset": "6663858",
+        "@user": "LGARS",
+        "@uid": "340352",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0644598,
+            4.6439238
+          ],
+          [
+            -74.0644831,
+            4.6437985
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89631977",
+      "properties": {
+        "@id": "way/89631977",
+        "highway": "secondary",
+        "name": "Carrera 13",
+        "oneway": "yes",
+        "@timestamp": "2010-12-14T23:55:15Z",
+        "@version": "1",
+        "@changeset": "6663858",
+        "@user": "LGARS",
+        "@uid": "340352",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0640746,
+            4.6462866
+          ],
+          [
+            -74.0641383,
+            4.6459721
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89631997",
+      "properties": {
+        "@id": "way/89631997",
+        "highway": "secondary",
+        "name": "Carrera 13",
+        "oneway": "yes",
+        "@timestamp": "2010-12-14T23:55:21Z",
+        "@version": "1",
+        "@changeset": "6663858",
+        "@user": "LGARS",
+        "@uid": "340352",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0642873,
+            4.6449623
+          ],
+          [
+            -74.0643569,
+            4.6445095
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89632009",
+      "properties": {
+        "@id": "way/89632009",
+        "highway": "secondary",
+        "name": "Carrera 13",
+        "oneway": "yes",
+        "@timestamp": "2010-12-14T23:55:25Z",
+        "@version": "1",
+        "@changeset": "6663858",
+        "@user": "LGARS",
+        "@uid": "340352",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0639881,
+            4.6467936
+          ],
+          [
+            -74.0640746,
+            4.6462866
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89700374",
+      "properties": {
+        "@id": "way/89700374",
+        "highway": "secondary",
+        "name": "Carrera 13",
+        "oneway": "yes",
+        "@timestamp": "2010-12-15T17:38:14Z",
+        "@version": "1",
+        "@changeset": "6669683",
+        "@user": "LGARS",
+        "@uid": "340352",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0650707,
+            4.6402229
+          ],
+          [
+            -74.0650886,
+            4.6401366
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89700383",
+      "properties": {
+        "@id": "way/89700383",
+        "highway": "secondary",
+        "name": "Carrera 13",
+        "oneway": "yes",
+        "@timestamp": "2010-12-15T17:38:16Z",
+        "@version": "1",
+        "@changeset": "6669683",
+        "@user": "LGARS",
+        "@uid": "340352",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0648895,
+            4.641284
+          ],
+          [
+            -74.0649584,
+            4.6408686
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89700430",
+      "properties": {
+        "@id": "way/89700430",
+        "highway": "secondary",
+        "name": "Carrera 13",
+        "oneway": "yes",
+        "@timestamp": "2014-04-21T15:54:25Z",
+        "@version": "3",
+        "@changeset": "21841088",
+        "@user": "vanessalaro",
+        "@uid": "1806395",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0650886,
+            4.6401366
+          ],
+          [
+            -74.0651376,
+            4.6398716
+          ],
+          [
+            -74.0651907,
+            4.6396369
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89700459",
+      "properties": {
+        "@id": "way/89700459",
+        "highway": "secondary",
+        "name": "Carrera 13",
+        "oneway": "yes",
+        "@timestamp": "2015-11-27T04:47:20Z",
+        "@version": "3",
+        "@changeset": "35604665",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0645959,
+            4.6430719
+          ],
+          [
+            -74.0646521,
+            4.6427221
+          ],
+          [
+            -74.0647365,
+            4.6422587
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89700462",
+      "properties": {
+        "@id": "way/89700462",
+        "highway": "secondary",
+        "name": "Carrera 13",
+        "oneway": "yes",
+        "@timestamp": "2010-12-15T17:38:53Z",
+        "@version": "1",
+        "@changeset": "6669683",
+        "@user": "LGARS",
+        "@uid": "340352",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0647365,
+            4.6422587
+          ],
+          [
+            -74.0647774,
+            4.6419908
+          ],
+          [
+            -74.0648895,
+            4.641284
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89700481",
+      "properties": {
+        "@id": "way/89700481",
+        "highway": "secondary",
+        "name": "Carrera 13",
+        "oneway": "yes",
+        "@timestamp": "2015-12-06T04:22:37Z",
+        "@version": "3",
+        "@changeset": "35780108",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0649584,
+            4.6408686
+          ],
+          [
+            -74.0649724,
+            4.6407828
+          ],
+          [
+            -74.0650633,
+            4.6402753
+          ],
+          [
+            -74.0650707,
+            4.6402229
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89702299",
+      "properties": {
+        "@id": "way/89702299",
+        "highway": "secondary",
+        "name": "Carrera 13",
+        "oneway": "yes",
+        "@timestamp": "2010-12-15T17:57:46Z",
+        "@version": "1",
+        "@changeset": "6669683",
+        "@user": "LGARS",
+        "@uid": "340352",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0651907,
+            4.6396369
+          ],
+          [
+            -74.0652387,
+            4.6391933
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89702306",
+      "properties": {
+        "@id": "way/89702306",
+        "highway": "secondary",
+        "name": "Carrera 13",
+        "oneway": "yes",
+        "@timestamp": "2016-04-16T22:29:03Z",
+        "@version": "4",
+        "@changeset": "38632100",
+        "@user": "LucyBM",
+        "@uid": "3786703",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0652387,
+            4.6391933
+          ],
+          [
+            -74.0652839,
+            4.6389417
+          ],
+          [
+            -74.0653214,
+            4.6387408
+          ],
+          [
+            -74.0653265,
+            4.6386875
+          ],
+          [
+            -74.0653364,
+            4.6386034
+          ],
+          [
+            -74.0653476,
+            4.638546
+          ],
+          [
+            -74.0653582,
+            4.6384652
+          ],
+          [
+            -74.0653648,
+            4.6384205
+          ],
+          [
+            -74.0653701,
+            4.6383952
+          ],
+          [
+            -74.0653901,
+            4.6382669
+          ],
+          [
+            -74.0653953,
+            4.6382403
+          ],
+          [
+            -74.0654004,
+            4.6382044
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89702308",
+      "properties": {
+        "@id": "way/89702308",
+        "highway": "secondary",
+        "name": "Carrera 13",
+        "oneway": "yes",
+        "@timestamp": "2016-04-07T04:58:03Z",
+        "@version": "4",
+        "@changeset": "38369642",
+        "@user": "LucyBM",
+        "@uid": "3786703",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0654004,
+            4.6382044
+          ],
+          [
+            -74.0654738,
+            4.6378483
+          ],
+          [
+            -74.0654905,
+            4.6377409
+          ],
+          [
+            -74.0655376,
+            4.6374225
+          ],
+          [
+            -74.0655584,
+            4.6372057
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89702325",
+      "properties": {
+        "@id": "way/89702325",
+        "highway": "secondary",
+        "name": "Carrera 13",
+        "oneway": "yes",
+        "@timestamp": "2015-11-27T04:47:20Z",
+        "@version": "3",
+        "@changeset": "35604665",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.066091,
+            4.6341844
+          ],
+          [
+            -74.0662165,
+            4.6334187
+          ],
+          [
+            -74.0662658,
+            4.6331506
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89702361",
+      "properties": {
+        "@id": "way/89702361",
+        "highway": "secondary",
+        "name": "Carrera 13",
+        "oneway": "yes",
+        "@timestamp": "2015-11-27T04:47:21Z",
+        "@version": "3",
+        "@changeset": "35604665",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0657479,
+            4.6362239
+          ],
+          [
+            -74.0658278,
+            4.6357211
+          ],
+          [
+            -74.0658528,
+            4.6355569
+          ],
+          [
+            -74.065912,
+            4.635232
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89702420",
+      "properties": {
+        "@id": "way/89702420",
+        "highway": "secondary",
+        "name": "Carrera 13",
+        "oneway": "yes",
+        "@timestamp": "2010-12-15T17:58:15Z",
+        "@version": "1",
+        "@changeset": "6669683",
+        "@user": "LGARS",
+        "@uid": "340352",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0655584,
+            4.6372057
+          ],
+          [
+            -74.0657479,
+            4.6362239
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89702452",
+      "properties": {
+        "@id": "way/89702452",
+        "highway": "secondary",
+        "name": "Carrera 13",
+        "oneway": "yes",
+        "@timestamp": "2010-12-15T17:58:21Z",
+        "@version": "1",
+        "@changeset": "6669683",
+        "@user": "LGARS",
+        "@uid": "340352",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.065912,
+            4.635232
+          ],
+          [
+            -74.066091,
+            4.6341844
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89704070",
+      "properties": {
+        "@id": "way/89704070",
+        "highway": "secondary",
+        "name": "Carrera 13",
+        "oneway": "yes",
+        "@timestamp": "2013-02-28T17:33:48Z",
+        "@version": "2",
+        "@changeset": "15199672",
+        "@user": "GrupoSIG1",
+        "@uid": "1243645",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0662658,
+            4.6331506
+          ],
+          [
+            -74.0663102,
+            4.6328711
+          ],
+          [
+            -74.0663582,
+            4.6326955
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89716857",
+      "properties": {
+        "@id": "way/89716857",
+        "highway": "secondary",
+        "name": "Carrera 13",
+        "oneway": "yes",
+        "@timestamp": "2010-12-15T19:39:41Z",
+        "@version": "1",
+        "@changeset": "6670794",
+        "@user": "LGARS",
+        "@uid": "340352",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0672517,
+            4.6272822
+          ],
+          [
+            -74.0672866,
+            4.6270973
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89716944",
+      "properties": {
+        "@id": "way/89716944",
+        "highway": "secondary",
+        "name": "Carrera 13",
+        "oneway": "yes",
+        "@timestamp": "2016-01-25T01:18:46Z",
+        "@version": "2",
+        "@changeset": "36787397",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0674743,
+            4.625936
+          ],
+          [
+            -74.0675136,
+            4.6256301
+          ],
+          [
+            -74.0676043,
+            4.6251075
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89717018",
+      "properties": {
+        "@id": "way/89717018",
+        "highway": "secondary",
+        "name": "Carrera 13",
+        "oneway": "yes",
+        "@timestamp": "2015-11-27T04:47:20Z",
+        "@version": "2",
+        "@changeset": "35604665",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0672866,
+            4.6270973
+          ],
+          [
+            -74.0673643,
+            4.6266249
+          ],
+          [
+            -74.0674743,
+            4.625936
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89717047",
+      "properties": {
+        "@id": "way/89717047",
+        "highway": "secondary",
+        "name": "Carrera 13",
+        "oneway": "yes",
+        "@timestamp": "2010-12-15T19:40:02Z",
+        "@version": "1",
+        "@changeset": "6670794",
+        "@user": "LGARS",
+        "@uid": "340352",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0677294,
+            4.6243502
+          ],
+          [
+            -74.067776,
+            4.6240509
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89717068",
+      "properties": {
+        "@id": "way/89717068",
+        "highway": "secondary",
+        "name": "Carrera 13",
+        "oneway": "yes",
+        "@timestamp": "2015-12-03T05:39:33Z",
+        "@version": "5",
+        "@changeset": "35719678",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.067776,
+            4.6240509
+          ],
+          [
+            -74.0679781,
+            4.6228874
+          ],
+          [
+            -74.0680658,
+            4.6223215
+          ],
+          [
+            -74.0681258,
+            4.6219584
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89717103",
+      "properties": {
+        "@id": "way/89717103",
+        "highway": "secondary",
+        "name": "Carrera 13",
+        "oneway": "yes",
+        "@timestamp": "2010-12-15T19:40:09Z",
+        "@version": "1",
+        "@changeset": "6670794",
+        "@user": "LGARS",
+        "@uid": "340352",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0676043,
+            4.6251075
+          ],
+          [
+            -74.0677294,
+            4.6243502
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89717114",
+      "properties": {
+        "@id": "way/89717114",
+        "highway": "secondary",
+        "name": "Carrera 13",
+        "oneway": "yes",
+        "@timestamp": "2016-02-14T00:47:36Z",
+        "@version": "10",
+        "@changeset": "37196892",
+        "@user": "SirWeigel",
+        "@uid": "1759764",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0663582,
+            4.6326955
+          ],
+          [
+            -74.066386,
+            4.6324688
+          ],
+          [
+            -74.0664087,
+            4.632307
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/199754924",
+      "properties": {
+        "@id": "way/199754924",
+        "highway": "primary_link",
+        "oneway": "yes",
+        "@timestamp": "2015-05-15T13:59:07Z",
+        "@version": "4",
+        "@changeset": "31175895",
+        "@user": "ingnoel",
+        "@uid": "2905140",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0421177,
+            4.6821628
+          ],
+          [
+            -74.0423303,
+            4.6821736
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/199811722",
+      "properties": {
+        "@id": "way/199811722",
+        "addr:city": "Bogotá D.C.",
+        "addr:street": "AC 100",
+        "highway": "primary",
+        "name": "Avenida Carlos Lleras Restrepo - Calle 100",
+        "oneway": "yes",
+        "@timestamp": "2015-05-15T13:52:04Z",
+        "@version": "2",
+        "@changeset": "31175546",
+        "@user": "ingnoel",
+        "@uid": "2905140",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0423303,
+            4.6821736
+          ],
+          [
+            -74.0432499,
+            4.6826806
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/233928083",
+      "properties": {
+        "@id": "way/233928083",
+        "highway": "secondary",
+        "name": "Carrera 13",
+        "oneway": "yes",
+        "@timestamp": "2014-09-17T00:58:02Z",
+        "@version": "2",
+        "@changeset": "25491294",
+        "@user": "Viandante",
+        "@uid": "507809",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0681258,
+            4.6219584
+          ],
+          [
+            -74.0682282,
+            4.6214432
+          ],
+          [
+            -74.0684154,
+            4.6202795
+          ],
+          [
+            -74.0684219,
+            4.620246
+          ],
+          [
+            -74.0684515,
+            4.6200537
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/311431350",
+      "properties": {
+        "@id": "way/311431350",
+        "highway": "secondary",
+        "name": "Carrera 13",
+        "oneway": "yes",
+        "@timestamp": "2015-11-27T04:47:21Z",
+        "@version": "2",
+        "@changeset": "35604665",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0669491,
+            4.6289759
+          ],
+          [
+            -74.0670285,
+            4.6284542
+          ],
+          [
+            -74.0670997,
+            4.6280307
+          ],
+          [
+            -74.0671721,
+            4.6277199
+          ],
+          [
+            -74.0671867,
+            4.6276356
+          ],
+          [
+            -74.0672517,
+            4.6272822
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/343938338",
+      "properties": {
+        "@id": "way/343938338",
+        "highway": "secondary",
+        "name": "Carrera 13",
+        "oneway": "yes",
+        "@timestamp": "2016-02-14T00:47:35Z",
+        "@version": "3",
+        "@changeset": "37196892",
+        "@user": "SirWeigel",
+        "@uid": "1759764",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0664087,
+            4.632307
+          ],
+          [
+            -74.0664454,
+            4.6321152
+          ],
+          [
+            -74.066509,
+            4.631755
+          ],
+          [
+            -74.066562,
+            4.6313928
+          ],
+          [
+            -74.0666312,
+            4.6310291
+          ],
+          [
+            -74.0666665,
+            4.6307992
+          ],
+          [
+            -74.0667475,
+            4.6303277
+          ],
+          [
+            -74.0668187,
+            4.6297691
+          ],
+          [
+            -74.0669491,
+            4.6289759
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/347402052",
+      "properties": {
+        "@id": "way/347402052",
+        "highway": "primary",
+        "name": "Calle 100",
+        "oneway": "yes",
+        "@timestamp": "2015-12-08T18:52:44Z",
+        "@version": "2",
+        "@changeset": "35832024",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.038373,
+            4.6802222
+          ],
+          [
+            -74.0387674,
+            4.6803826
+          ],
+          [
+            -74.0393451,
+            4.6806719
+          ],
+          [
+            -74.0396042,
+            4.6808096
+          ],
+          [
+            -74.0399342,
+            4.680985
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/349613627",
+      "properties": {
+        "@id": "way/349613627",
+        "highway": "primary",
+        "lanes": "2",
+        "name": "Carrera 7",
+        "oneway": "yes",
+        "@timestamp": "2015-12-14T03:07:31Z",
+        "@version": "6",
+        "@changeset": "35937054",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0333545,
+            4.6936712
+          ],
+          [
+            -74.0333924,
+            4.6935518
+          ],
+          [
+            -74.0334499,
+            4.693376
+          ],
+          [
+            -74.0336584,
+            4.692713
+          ],
+          [
+            -74.0337402,
+            4.6924443
+          ],
+          [
+            -74.0340407,
+            4.6915846
+          ],
+          [
+            -74.0341055,
+            4.6913764
+          ],
+          [
+            -74.0341638,
+            4.6911813
+          ],
+          [
+            -74.0342577,
+            4.6908766
+          ],
+          [
+            -74.0342924,
+            4.6907887
+          ],
+          [
+            -74.0343251,
+            4.6907134
+          ],
+          [
+            -74.0343441,
+            4.6906622
+          ],
+          [
+            -74.0345863,
+            4.6898566
+          ],
+          [
+            -74.0347311,
+            4.6894212
+          ],
+          [
+            -74.0347886,
+            4.6892243
+          ],
+          [
+            -74.034867,
+            4.6889285
+          ],
+          [
+            -74.0349243,
+            4.6886115
+          ],
+          [
+            -74.0350698,
+            4.6880382
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/366401396",
+      "properties": {
+        "@id": "way/366401396",
+        "highway": "secondary",
+        "name": "Carrera 11",
+        "oneway": "yes",
+        "@timestamp": "2015-08-20T00:46:40Z",
+        "@version": "3",
+        "@changeset": "33452875",
+        "@user": "ingnoel",
+        "@uid": "2905140",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0529701,
+            4.6657107
+          ],
+          [
+            -74.0529872,
+            4.665629
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/390548302",
+      "properties": {
+        "@id": "way/390548302",
+        "highway": "secondary",
+        "name": "Carrera 11",
+        "oneway": "yes",
+        "@timestamp": "2016-01-10T04:23:52Z",
+        "@version": "1",
+        "@changeset": "36475123",
+        "@user": "ingnoel",
+        "@uid": "2905140",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2681697",
+            "reltags": {
+              "name": "Verbenal-Teusaquillo",
+              "network": "SIPT_URBANO",
+              "operator": "COOBUS S.A.",
+              "ref": "544B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0557273,
+            4.6616395
+          ],
+          [
+            -74.0561856,
+            4.6609604
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/253762292",
+      "properties": {
+        "@id": "node/253762292",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-13T08:24:50Z",
+        "@version": "4",
+        "@changeset": "35921765",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0557273,
+          4.6616395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/254347525",
+      "properties": {
+        "@id": "node/254347525",
+        "crossing": "traffic_signals",
+        "@timestamp": "2012-07-19T20:59:28Z",
+        "@version": "12",
+        "@changeset": "12347179",
+        "@user": "OSMF Redaction Account",
+        "@uid": "722137"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0305855,
+          4.698005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/263369069",
+      "properties": {
+        "@id": "node/263369069",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-05T21:50:00Z",
+        "@version": "10",
+        "@changeset": "35776926",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0644598,
+          4.6439238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/263369072",
+      "properties": {
+        "@id": "node/263369072",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-05T21:50:00Z",
+        "@version": "9",
+        "@changeset": "35776926",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0644831,
+          4.6437985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/263369091",
+      "properties": {
+        "@id": "node/263369091",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-06T04:22:38Z",
+        "@version": "10",
+        "@changeset": "35780108",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0650707,
+          4.6402229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/263369104",
+      "properties": {
+        "@id": "node/263369104",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-06T04:22:39Z",
+        "@version": "10",
+        "@changeset": "35780108",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0650886,
+          4.6401366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/263470963",
+      "properties": {
+        "@id": "node/263470963",
+        "highway": "traffic_signals",
+        "@timestamp": "2014-04-21T23:58:22Z",
+        "@version": "5",
+        "@changeset": "21852163",
+        "@user": "vanessalaro",
+        "@uid": "1806395"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0556157,
+          4.6618052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/263470965",
+      "properties": {
+        "@id": "node/263470965",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-13T08:24:50Z",
+        "@version": "11",
+        "@changeset": "35921765",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0561856,
+          4.6609604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/263470968",
+      "properties": {
+        "@id": "node/263470968",
+        "highway": "traffic_signals",
+        "@timestamp": "2014-04-21T23:25:19Z",
+        "@version": "5",
+        "@changeset": "21851774",
+        "@user": "vanessalaro",
+        "@uid": "1806395"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0574868,
+          4.6590407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/263732293",
+      "properties": {
+        "@id": "node/263732293",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-04-16T22:29:02Z",
+        "@version": "9",
+        "@changeset": "38632100",
+        "@user": "LucyBM",
+        "@uid": "3786703"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0654004,
+          4.6382044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/263732331",
+      "properties": {
+        "@id": "node/263732331",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-11-27T04:47:24Z",
+        "@version": "11",
+        "@changeset": "35604665",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0655584,
+          4.6372057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/263732354",
+      "properties": {
+        "@id": "node/263732354",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-11-27T04:47:24Z",
+        "@version": "7",
+        "@changeset": "35604665",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0657479,
+          4.6362239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/263776605",
+      "properties": {
+        "@id": "node/263776605",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-11-27T04:47:24Z",
+        "@version": "7",
+        "@changeset": "35604665",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0662658,
+          4.6331506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/263776829",
+      "properties": {
+        "@id": "node/263776829",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-01-25T01:18:48Z",
+        "@version": "7",
+        "@changeset": "36787397",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0672866,
+          4.6270973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/263776860",
+      "properties": {
+        "@id": "node/263776860",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-11-27T04:47:25Z",
+        "@version": "8",
+        "@changeset": "35604665",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0672517,
+          4.6272822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/264153921",
+      "properties": {
+        "@id": "node/264153921",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-01-25T01:18:48Z",
+        "@version": "6",
+        "@changeset": "36787397",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0676043,
+          4.6251075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/264153941",
+      "properties": {
+        "@id": "node/264153941",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-01-25T01:18:48Z",
+        "@version": "7",
+        "@changeset": "36787397",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0679781,
+          4.6228874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/264352139",
+      "properties": {
+        "@id": "node/264352139",
+        "highway": "traffic_signals",
+        "@timestamp": "2014-04-21T15:33:32Z",
+        "@version": "5",
+        "@changeset": "21840672",
+        "@user": "vanessalaro",
+        "@uid": "1806395"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0669491,
+          4.6289759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/264352149",
+      "properties": {
+        "@id": "node/264352149",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-11-27T04:47:25Z",
+        "@version": "8",
+        "@changeset": "35604665",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.066091,
+          4.6341844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/264718125",
+      "properties": {
+        "@id": "node/264718125",
+        "highway": "traffic_signals",
+        "@timestamp": "2014-04-21T23:25:19Z",
+        "@version": "8",
+        "@changeset": "21851774",
+        "@user": "vanessalaro",
+        "@uid": "1806395"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0579993,
+          4.6583139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/265024857",
+      "properties": {
+        "@id": "node/265024857",
+        "highway": "traffic_signals",
+        "@timestamp": "2010-07-20T15:43:59Z",
+        "@version": "14",
+        "@changeset": "5271780",
+        "@user": "ikks",
+        "@uid": "37987"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.061757,
+          4.6519816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/265580285",
+      "properties": {
+        "@id": "node/265580285",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-08T18:52:47Z",
+        "@version": "10",
+        "@changeset": "35832024",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.043468,
+          4.6825159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/265580287",
+      "properties": {
+        "@id": "node/265580287",
+        "highway": "traffic_signals",
+        "@timestamp": "2014-04-24T14:47:16Z",
+        "@version": "13",
+        "@changeset": "21909694",
+        "@user": "vanessalaro",
+        "@uid": "1806395"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0480409,
+          4.6737028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/265580288",
+      "properties": {
+        "@id": "node/265580288",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-13T09:01:53Z",
+        "@version": "13",
+        "@changeset": "35922161",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0481293,
+          4.6735298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/265580289",
+      "properties": {
+        "@id": "node/265580289",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-01-01T22:13:50Z",
+        "@version": "18",
+        "@changeset": "36307453",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.048814,
+          4.6722143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/267197085",
+      "properties": {
+        "@id": "node/267197085",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-20T17:31:39Z",
+        "@version": "20",
+        "@changeset": "36069600",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0462021,
+          4.6772474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/268231761",
+      "properties": {
+        "@id": "node/268231761",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-11-27T04:47:25Z",
+        "@version": "3",
+        "@changeset": "35604665",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0601963,
+          4.655099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/268257940",
+      "properties": {
+        "@id": "node/268257940",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-10T03:07:54Z",
+        "@version": "16",
+        "@changeset": "35858074",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0453811,
+          4.6785972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/313416257",
+      "properties": {
+        "@id": "node/313416257",
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals",
+        "@timestamp": "2014-02-27T17:24:37Z",
+        "@version": "34",
+        "@changeset": "20812866",
+        "@user": "SIG04",
+        "@uid": "1957749"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0292813,
+          4.7117418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/475150468",
+      "properties": {
+        "@id": "node/475150468",
+        "highway": "traffic_signals",
+        "@timestamp": "2010-07-18T06:23:40Z",
+        "@version": "2",
+        "@changeset": "5248174",
+        "@user": "rcastib",
+        "@uid": "133835"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0320567,
+          4.6959702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/475304115",
+      "properties": {
+        "@id": "node/475304115",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-05-31T05:09:50Z",
+        "@version": "3",
+        "@changeset": "31598298",
+        "@user": "ingnoel",
+        "@uid": "2905140"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0286931,
+          4.7022302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/476344275",
+      "properties": {
+        "@id": "node/476344275",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-14T03:07:35Z",
+        "@version": "6",
+        "@changeset": "35937054",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0342924,
+          4.6907887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/476344305",
+      "properties": {
+        "@id": "node/476344305",
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals",
+        "@timestamp": "2012-11-17T20:03:01Z",
+        "@version": "3",
+        "@changeset": "13910339",
+        "@user": "rcastib",
+        "@uid": "133835"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0350698,
+          4.6880382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/595475985",
+      "properties": {
+        "@id": "node/595475985",
+        "highway": "traffic_signals",
+        "traffic_signals": "signal",
+        "@timestamp": "2016-04-23T00:31:48Z",
+        "@version": "4",
+        "@changeset": "38803073",
+        "@user": "ikks",
+        "@uid": "37987"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0350898,
+          4.6879265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/601756737",
+      "properties": {
+        "@id": "node/601756737",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-08T18:52:49Z",
+        "@version": "8",
+        "@changeset": "35832024",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0434264,
+          4.682589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/601756792",
+      "properties": {
+        "@id": "node/601756792",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-05-13T16:29:16Z",
+        "@version": "3",
+        "@changeset": "31108223",
+        "@user": "ingnoel",
+        "@uid": "2905140"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0414482,
+          4.6818035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/730533724",
+      "properties": {
+        "@id": "node/730533724",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-13T09:01:55Z",
+        "@version": "3",
+        "@changeset": "35922161",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0470318,
+          4.675634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/730533730",
+      "properties": {
+        "@id": "node/730533730",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-20T17:31:42Z",
+        "@version": "5",
+        "@changeset": "36069600",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0462717,
+          4.6771072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/834681076",
+      "properties": {
+        "@id": "node/834681076",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-08T18:52:49Z",
+        "@version": "4",
+        "@changeset": "35832024",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0357844,
+          4.6851739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/852230625",
+      "properties": {
+        "@id": "node/852230625",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-13T09:01:55Z",
+        "@version": "3",
+        "@changeset": "35922161",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0522603,
+          4.6668139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/852230643",
+      "properties": {
+        "@id": "node/852230643",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-13T09:01:56Z",
+        "@version": "3",
+        "@changeset": "35922161",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0521956,
+          4.6669022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/852230647",
+      "properties": {
+        "@id": "node/852230647",
+        "highway": "traffic_signals",
+        "@timestamp": "2014-04-21T23:58:22Z",
+        "@version": "2",
+        "@changeset": "21852163",
+        "@user": "vanessalaro",
+        "@uid": "1806395"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.055491,
+          4.6619816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/852230668",
+      "properties": {
+        "@id": "node/852230668",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-13T21:59:04Z",
+        "@version": "4",
+        "@changeset": "35934548",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0549675,
+          4.6627346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/852230681",
+      "properties": {
+        "@id": "node/852230681",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-14T02:30:17Z",
+        "@version": "3",
+        "@changeset": "35936817",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0533823,
+          4.665004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/852230732",
+      "properties": {
+        "@id": "node/852230732",
+        "highway": "traffic_signals",
+        "@timestamp": "2014-04-21T23:58:26Z",
+        "@version": "2",
+        "@changeset": "21852163",
+        "@user": "vanessalaro",
+        "@uid": "1806395"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0528987,
+          4.665849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/889749415",
+      "properties": {
+        "@id": "node/889749415",
+        "highway": "traffic_signals",
+        "@timestamp": "2014-04-21T23:25:19Z",
+        "@version": "2",
+        "@changeset": "21851774",
+        "@user": "vanessalaro",
+        "@uid": "1806395"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0588337,
+          4.6570888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1038727556",
+      "properties": {
+        "@id": "node/1038727556",
+        "crossing": "traffic_signals",
+        "crossing_ref": "zebra",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-11-27T04:47:24Z",
+        "@version": "3",
+        "@changeset": "35604665",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0614305,
+          4.6527533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1039714304",
+      "properties": {
+        "@id": "node/1039714304",
+        "shop": "florist",
+        "@timestamp": "2016-04-10T19:04:47Z",
+        "@version": "6",
+        "@changeset": "38458569",
+        "@user": "Fernando Zc",
+        "@uid": "3744832"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0666665,
+          4.6307992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1972617258",
+      "properties": {
+        "@id": "node/1972617258",
+        "name": "OXO",
+        "opening_hours": "24/7",
+        "shop": "convenience",
+        "@timestamp": "2015-11-27T04:47:23Z",
+        "@version": "3",
+        "@changeset": "35604665",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.066386,
+          4.6324688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2791833721",
+      "properties": {
+        "@id": "node/2791833721",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-10T03:07:55Z",
+        "@version": "5",
+        "@changeset": "35858074",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0454778,
+          4.6786482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2808877602",
+      "properties": {
+        "@id": "node/2808877602",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-13T09:01:54Z",
+        "@version": "6",
+        "@changeset": "35922161",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0514663,
+          4.6679372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3191652249",
+      "properties": {
+        "@id": "node/3191652249",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-02-14T00:47:35Z",
+        "@version": "3",
+        "@changeset": "37196892",
+        "@user": "SirWeigel",
+        "@uid": "1759764"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0664454,
+          4.6321152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3419027463",
+      "properties": {
+        "@id": "node/3419027463",
+        "bus": "yes",
+        "name": "Sucre",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "BD-027A",
+        "source": "BogoMap",
+        "@timestamp": "2015-11-27T04:47:23Z",
+        "@version": "2",
+        "@changeset": "35604665",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0666312,
+          4.6310291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3518359722",
+      "properties": {
+        "@id": "node/3518359722",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-08T18:52:48Z",
+        "@version": "4",
+        "@changeset": "35832024",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0432499,
+          4.6826806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3554656193",
+      "properties": {
+        "@id": "node/3554656193",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-11-11T20:52:28Z",
+        "@version": "2",
+        "@changeset": "35249090",
+        "@user": "mono11",
+        "@uid": "2893240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0333545,
+          4.6936712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3703773315",
+      "properties": {
+        "@id": "node/3703773315",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-13T09:01:55Z",
+        "@version": "2",
+        "@changeset": "35922161",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0515173,
+          4.6678741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3831530593",
+      "properties": {
+        "@id": "node/3831530593",
+        "crossing": "traffic_signals",
+        "highway": "crossing",
+        "@timestamp": "2015-11-11T20:52:17Z",
+        "@version": "1",
+        "@changeset": "35249090",
+        "@user": "mono11",
+        "@uid": "2893240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0333924,
+          4.6935518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3861884257",
+      "properties": {
+        "@id": "node/3861884257",
+        "bus": "yes",
+        "name": "Alcaldía Local de Chapinero",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "BD-024A",
+        "source": "BogoMap",
+        "@timestamp": "2015-11-27T04:47:06Z",
+        "@version": "1",
+        "@changeset": "35604665",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0646521,
+          4.6427221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3861884259",
+      "properties": {
+        "@id": "node/3861884259",
+        "bus": "yes",
+        "name": "Almacenes Tía",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "098A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-11-27T04:47:07Z",
+        "@version": "1",
+        "@changeset": "35604665",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0644016,
+          4.6441856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3861884265",
+      "properties": {
+        "@id": "node/3861884265",
+        "bus": "yes",
+        "name": "Clínica de Marly",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "BD-026A",
+        "source": "BogoMap",
+        "@timestamp": "2015-11-27T04:47:08Z",
+        "@version": "1",
+        "@changeset": "35604665",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0658528,
+          4.6355569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3861884267",
+      "properties": {
+        "@id": "node/3861884267",
+        "bus": "yes",
+        "name": "Clínica de Traumatología y Ortopedia",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "227A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-11-27T04:47:08Z",
+        "@version": "1",
+        "@changeset": "35604665",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0593039,
+          4.6564173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3861884268",
+      "properties": {
+        "@id": "node/3861884268",
+        "bus": "yes",
+        "name": "Clínica del Niño",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "047A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-11-27T04:47:08Z",
+        "@version": "1",
+        "@changeset": "35604665",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0619432,
+          4.6516156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3861884270",
+      "properties": {
+        "@id": "node/3861884270",
+        "bus": "yes",
+        "name": "Clínica del Niño",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "229A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-11-27T04:47:08Z",
+        "@version": "1",
+        "@changeset": "35604665",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0612653,
+          4.6530622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3861884271",
+      "properties": {
+        "@id": "node/3861884271",
+        "bus": "yes",
+        "name": "Cuerpo Oficial de Bomberos de Bogotá",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "232A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-11-27T04:47:09Z",
+        "@version": "1",
+        "@changeset": "35604665",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0637443,
+          4.6481958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3861884272",
+      "properties": {
+        "@id": "node/3861884272",
+        "bus": "yes",
+        "name": "Fundación Oftalmológica Nacional",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "198A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-11-27T04:47:09Z",
+        "@version": "1",
+        "@changeset": "35604665",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0655376,
+          4.6374225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3861884273",
+      "properties": {
+        "@id": "node/3861884273",
+        "bus": "yes",
+        "name": "Parque Lourdes",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "231A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-11-27T04:47:09Z",
+        "@version": "1",
+        "@changeset": "35604665",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0633988,
+          4.6502429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3861884274",
+      "properties": {
+        "@id": "node/3861884274",
+        "bus": "yes",
+        "name": "Quinta Camacho",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "228A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-11-27T04:47:09Z",
+        "@version": "1",
+        "@changeset": "35604665",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.060659,
+          4.654325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3861884275",
+      "properties": {
+        "@id": "node/3861884275",
+        "bus": "yes",
+        "name": "Quinta Camacho",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "BD-021A",
+        "source": "BogoMap",
+        "@timestamp": "2015-11-27T04:47:09Z",
+        "@version": "1",
+        "@changeset": "35604665",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0595743,
+          4.656027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3861884277",
+      "properties": {
+        "@id": "node/3861884277",
+        "bus": "yes",
+        "name": "RCN Radio",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "237A00",
+        "source": "BogoMap",
+        "@timestamp": "2016-01-25T01:18:47Z",
+        "@version": "2",
+        "@changeset": "36787397",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0673643,
+          4.6266249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3861884278",
+      "properties": {
+        "@id": "node/3861884278",
+        "bus": "yes",
+        "name": "Secretaría del Hábitat",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "BD-025A",
+        "source": "BogoMap",
+        "@timestamp": "2016-04-16T22:29:02Z",
+        "@version": "2",
+        "@changeset": "38632100",
+        "@user": "LucyBM",
+        "@uid": "3786703"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0653265,
+          4.6386875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3861884280",
+      "properties": {
+        "@id": "node/3861884280",
+        "bus": "yes",
+        "name": "Sucre",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "236A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-11-27T04:47:10Z",
+        "@version": "1",
+        "@changeset": "35604665",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0671867,
+          4.6276356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3861884282",
+      "properties": {
+        "@id": "node/3861884282",
+        "bus": "yes",
+        "name": "Tecnoparque SENA",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "233A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-11-27T04:47:10Z",
+        "@version": "1",
+        "@changeset": "35604665",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0649724,
+          4.6407828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3861884284",
+      "properties": {
+        "@id": "node/3861884284",
+        "bus": "yes",
+        "name": "Universidad La Gran Colombia",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "235A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-11-27T04:47:10Z",
+        "@version": "1",
+        "@changeset": "35604665",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.066509,
+          4.631755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3861884285",
+      "properties": {
+        "@id": "node/3861884285",
+        "bus": "yes",
+        "name": "Universidad Piloto",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "234A00",
+        "source": "BogoMap",
+        "@timestamp": "2016-04-10T14:17:31Z",
+        "@version": "2",
+        "@changeset": "38452625",
+        "@user": "Lauraepp",
+        "@uid": "3764020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0662165,
+          4.6334187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3861897293",
+      "properties": {
+        "@id": "node/3861897293",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-23T20:18:39Z",
+        "@version": "2",
+        "@changeset": "36133528",
+        "@user": "Aleks-Berlin",
+        "@uid": "85218"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0587213,
+          4.6572542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3874219565",
+      "properties": {
+        "@id": "node/3874219565",
+        "bus": "yes",
+        "name": "Fecode",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "191A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-03T05:39:32Z",
+        "@version": "1",
+        "@changeset": "35719678",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0680658,
+          4.6223215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3883787661",
+      "properties": {
+        "@id": "node/3883787661",
+        "bus": "yes",
+        "name": "Escuela de Cabellería II",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "BD-049A",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-08T18:52:39Z",
+        "@version": "1",
+        "@changeset": "35832024",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0376298,
+          4.6811416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3883787662",
+      "properties": {
+        "@id": "node/3883787662",
+        "bus": "yes",
+        "name": "Escuela de Cabellería",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "162A01",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-08T18:52:39Z",
+        "@version": "1",
+        "@changeset": "35832024",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0396042,
+          4.6808096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3883787663",
+      "properties": {
+        "@id": "node/3883787663",
+        "bus": "yes",
+        "name": "Escuela de Caballería",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "165A01",
+        "source": "BogoMap",
+        "@timestamp": "2016-04-23T00:31:49Z",
+        "@version": "2",
+        "@changeset": "38803073",
+        "@user": "ikks",
+        "@uid": "37987"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0362056,
+          4.684245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3883787665",
+      "properties": {
+        "@id": "node/3883787665",
+        "bus": "yes",
+        "name": "IED General Santander",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "164A01",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-08T18:52:39Z",
+        "@version": "1",
+        "@changeset": "35832024",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0375635,
+          4.681287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3883787666",
+      "properties": {
+        "@id": "node/3883787666",
+        "bus": "yes",
+        "name": "Teatro Patria",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "BD-048A",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-08T18:52:39Z",
+        "@version": "1",
+        "@changeset": "35832024",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0360911,
+          4.6844916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3883787668",
+      "properties": {
+        "@id": "node/3883787668",
+        "bus": "yes",
+        "name": "Urbanización Conjunto de la Calle 100",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "161A01",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-08T18:52:40Z",
+        "@version": "1",
+        "@changeset": "35832024",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0419766,
+          4.6820871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3885537586",
+      "properties": {
+        "@id": "node/3885537586",
+        "bus": "yes",
+        "name": "Calle 100",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "BD-042A",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-10T03:07:49Z",
+        "@version": "1",
+        "@changeset": "35858074",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0436982,
+          4.6820813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3885537588",
+      "properties": {
+        "@id": "node/3885537588",
+        "bus": "yes",
+        "name": "Chicó norte II sector",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "BD-043A",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-10T03:07:50Z",
+        "@version": "1",
+        "@changeset": "35858074",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.045027,
+          4.679527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3885537590",
+      "properties": {
+        "@id": "node/3885537590",
+        "bus": "yes",
+        "name": "Chicó norte II sector",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "218A01",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-10T03:07:50Z",
+        "@version": "1",
+        "@changeset": "35858074",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0443314,
+          4.6808499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3885537592",
+      "properties": {
+        "@id": "node/3885537592",
+        "bus": "yes",
+        "name": "Chicó norte",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "219A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-10T03:07:50Z",
+        "@version": "1",
+        "@changeset": "35858074",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0456868,
+          4.6782498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3890041027",
+      "properties": {
+        "@id": "node/3890041027",
+        "bus": "yes",
+        "name": "Centro Comercial Andino",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "223A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-13T09:01:47Z",
+        "@version": "1",
+        "@changeset": "35922161",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0525165,
+          4.666416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3890041028",
+      "properties": {
+        "@id": "node/3890041028",
+        "bus": "yes",
+        "name": "El Retiro",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "BD-046A",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-13T09:01:47Z",
+        "@version": "1",
+        "@changeset": "35922161",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0518359,
+          4.6674446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3890041030",
+      "properties": {
+        "@id": "node/3890041030",
+        "bus": "yes",
+        "name": "Embajada de Francia",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "044A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-13T09:01:47Z",
+        "@version": "1",
+        "@changeset": "35922161",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0478895,
+          4.6739863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3890041031",
+      "properties": {
+        "@id": "node/3890041031",
+        "bus": "yes",
+        "name": "Espartillal",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "BD-047A",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-13T09:01:47Z",
+        "@version": "1",
+        "@changeset": "35922161",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0545735,
+          4.6632923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3890041033",
+      "properties": {
+        "@id": "node/3890041033",
+        "bus": "yes",
+        "name": "Espartillal",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "224A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-13T09:01:47Z",
+        "@version": "1",
+        "@changeset": "35922161",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0540991,
+          4.6639881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3890041034",
+      "properties": {
+        "@id": "node/3890041034",
+        "bus": "yes",
+        "name": "La Cabrera",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "045A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-13T09:01:48Z",
+        "@version": "1",
+        "@changeset": "35922161",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0512923,
+          4.6682012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3890041036",
+      "properties": {
+        "@id": "node/3890041036",
+        "bus": "yes",
+        "name": "Parque Japón",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "BD-045A",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-13T09:01:48Z",
+        "@version": "1",
+        "@changeset": "35922161",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0500733,
+          4.6700017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3890041038",
+      "properties": {
+        "@id": "node/3890041038",
+        "bus": "yes",
+        "name": "Parque de la 93",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "BD-044A",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-13T09:01:48Z",
+        "@version": "1",
+        "@changeset": "35922161",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0474968,
+          4.6747348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3890041040",
+      "properties": {
+        "@id": "node/3890041040",
+        "bus": "yes",
+        "name": "Parque de la 93",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "220A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-13T09:01:48Z",
+        "@version": "1",
+        "@changeset": "35922161",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0468315,
+          4.6760263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3890041041",
+      "properties": {
+        "@id": "node/3890041041",
+        "bus": "yes",
+        "name": "Parque de la Inmaculada Concepción",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "222A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-13T09:01:48Z",
+        "@version": "1",
+        "@changeset": "35922161",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0492101,
+          4.671433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3890041042",
+      "properties": {
+        "@id": "node/3890041042",
+        "bus": "yes",
+        "name": "Seguros del Estado",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "221A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-13T09:01:49Z",
+        "@version": "1",
+        "@changeset": "35922161",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0486756,
+          4.6725037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3890992075",
+      "properties": {
+        "@id": "node/3890992075",
+        "bus": "yes",
+        "name": "La Porciúncula",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "225A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-13T21:59:02Z",
+        "@version": "1",
+        "@changeset": "35934548",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0571486,
+          4.6595333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3890992076",
+      "properties": {
+        "@id": "node/3890992076",
+        "bus": "yes",
+        "name": "Porciúncula",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "BD-020A",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-13T21:59:02Z",
+        "@version": "1",
+        "@changeset": "35934548",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0564174,
+          4.6606142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3890992078",
+      "properties": {
+        "@id": "node/3890992078",
+        "bus": "yes",
+        "name": "Universidad Pedagógica",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "226A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-13T21:59:02Z",
+        "@version": "1",
+        "@changeset": "35934548",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0583236,
+          4.6578323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3964785664",
+      "properties": {
+        "@id": "node/3964785664",
+        "bus": "yes",
+        "name": "Chapinero central",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "BD-023",
+        "source": "BogoMap",
+        "@timestamp": "2016-01-24T19:37:26Z",
+        "@version": "1",
+        "@changeset": "36782938",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0638146,
+          4.6477451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3965131412",
+      "properties": {
+        "@id": "node/3965131412",
+        "bus": "yes",
+        "name": "Sagrado Corazón",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "BD-028",
+        "source": "BogoMap",
+        "@timestamp": "2016-01-25T01:18:44Z",
+        "@version": "1",
+        "@changeset": "36787397",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0675136,
+          4.6256301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4004975962",
+      "properties": {
+        "@id": "node/4004975962",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-04-10T15:58:53Z",
+        "@version": "2",
+        "@changeset": "38454484",
+        "@user": "Lauraepp",
+        "@uid": "3764020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0664087,
+          4.632307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4072684090",
+      "properties": {
+        "@id": "node/4072684090",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-03-22T02:16:48Z",
+        "@version": "1",
+        "@changeset": "37989937",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0625201,
+          4.6503773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4072684093",
+      "properties": {
+        "@id": "node/4072684093",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-03-22T02:16:48Z",
+        "@version": "1",
+        "@changeset": "37989937",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.063239,
+          4.6507382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4143762700",
+      "properties": {
+        "@id": "node/4143762700",
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-04-24T00:45:57Z",
+        "@version": "1",
+        "@changeset": "38823852",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0635209,
+          4.6495293
+        ]
+      }
+    }
+  ]
+}

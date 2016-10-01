@@ -1,0 +1,3954 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-10-01T20:15:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/24680378",
+      "properties": {
+        "@id": "way/24680378",
+        "highway": "secondary",
+        "name": "Avenida Carrera 15",
+        "oneway": "yes",
+        "@timestamp": "2015-12-10T03:07:51Z",
+        "@version": "32",
+        "@changeset": "35858074",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0477515,
+            4.6853225
+          ],
+          [
+            -74.0478298,
+            4.6855036
+          ],
+          [
+            -74.0478672,
+            4.6856827
+          ],
+          [
+            -74.0478264,
+            4.6860963
+          ],
+          [
+            -74.0476672,
+            4.6868274
+          ],
+          [
+            -74.0475501,
+            4.6872012
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24680475",
+      "properties": {
+        "@id": "way/24680475",
+        "bridge": "yes",
+        "highway": "primary",
+        "layer": "1",
+        "name": "Avenida Calle 127",
+        "oneway": "yes",
+        "@timestamp": "2015-06-04T01:55:58Z",
+        "@version": "8",
+        "@changeset": "31706307",
+        "@user": "ingnoel",
+        "@uid": "2905140",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0532641,
+            4.7067043
+          ],
+          [
+            -74.054543,
+            4.7069075
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24680482",
+      "properties": {
+        "@id": "way/24680482",
+        "highway": "primary",
+        "name": "Avenida Calle 127",
+        "oneway": "yes",
+        "@timestamp": "2012-07-19T20:58:50Z",
+        "@version": "16",
+        "@changeset": "12347179",
+        "@user": "OSMF Redaction Account",
+        "@uid": "722137",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.054543,
+            4.7069075
+          ],
+          [
+            -74.054685,
+            4.7069315
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24680540",
+      "properties": {
+        "@id": "way/24680540",
+        "highway": "primary",
+        "name": "Avenida Calle 127",
+        "oneway": "yes",
+        "@timestamp": "2015-11-28T04:26:59Z",
+        "@version": "32",
+        "@changeset": "35622319",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0618285,
+            4.7082938
+          ],
+          [
+            -74.0619497,
+            4.7083196
+          ],
+          [
+            -74.0625021,
+            4.7084874
+          ],
+          [
+            -74.0633565,
+            4.7088684
+          ],
+          [
+            -74.0642287,
+            4.7092549
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89131499",
+      "properties": {
+        "@id": "way/89131499",
+        "addr:city": "Bogotá D.C.",
+        "addr:street": "AC 127",
+        "highway": "primary",
+        "name": "Avenida Callejas - Calle 127",
+        "oneway": "yes",
+        "@timestamp": "2013-06-09T17:37:26Z",
+        "@version": "2",
+        "@changeset": "16485589",
+        "@user": "Davio",
+        "@uid": "217070",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0530986,
+            4.7066898
+          ],
+          [
+            -74.0532641,
+            4.7067043
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89131557",
+      "properties": {
+        "@id": "way/89131557",
+        "addr:city": "Bogotá D.C.",
+        "addr:street": "AC 127",
+        "highway": "primary",
+        "name": "Avenida Callejas - Calle 127",
+        "oneway": "yes",
+        "@timestamp": "2013-06-09T17:37:27Z",
+        "@version": "2",
+        "@changeset": "16485589",
+        "@user": "Davio",
+        "@uid": "217070",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0521843,
+            4.7066343
+          ],
+          [
+            -74.0527327,
+            4.7066457
+          ],
+          [
+            -74.0530986,
+            4.7066898
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89131614",
+      "properties": {
+        "@id": "way/89131614",
+        "highway": "primary",
+        "name": "Avenida Callejas - Calle 127",
+        "oneway": "yes",
+        "@timestamp": "2015-11-28T04:27:00Z",
+        "@version": "3",
+        "@changeset": "35622319",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0488446,
+            4.7056301
+          ],
+          [
+            -74.050554,
+            4.7061448
+          ],
+          [
+            -74.0516046,
+            4.7064612
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89132013",
+      "properties": {
+        "@id": "way/89132013",
+        "addr:city": "Bogotá D.C.",
+        "addr:street": "AC 127",
+        "highway": "primary",
+        "name": "Avenida Callejas - Calle 127",
+        "oneway": "yes",
+        "@timestamp": "2013-06-09T17:37:23Z",
+        "@version": "2",
+        "@changeset": "16485589",
+        "@user": "Davio",
+        "@uid": "217070",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0516046,
+            4.7064612
+          ],
+          [
+            -74.0518248,
+            4.7065256
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89132210",
+      "properties": {
+        "@id": "way/89132210",
+        "addr:city": "Bogotá D.C.",
+        "addr:street": "AC 127",
+        "highway": "primary",
+        "name": "Avenida Callejas - Calle 127",
+        "oneway": "yes",
+        "@timestamp": "2013-06-09T17:37:26Z",
+        "@version": "2",
+        "@changeset": "16485589",
+        "@user": "Davio",
+        "@uid": "217070",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0518691,
+            4.7065402
+          ],
+          [
+            -74.0521843,
+            4.7066343
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89132232",
+      "properties": {
+        "@id": "way/89132232",
+        "highway": "secondary",
+        "name": "Avenida Carrera 15",
+        "oneway": "yes",
+        "@timestamp": "2010-12-11T20:22:04Z",
+        "@version": "1",
+        "@changeset": "6629114",
+        "@user": "LGARS",
+        "@uid": "340352",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0427019,
+            4.7040011
+          ],
+          [
+            -74.04269,
+            4.7042167
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89132257",
+      "properties": {
+        "@id": "way/89132257",
+        "addr:city": "Bogotá D.C.",
+        "addr:street": "AC 127",
+        "highway": "primary",
+        "name": "Avenida Rodrigo Lara Bonilla - Calle 127",
+        "oneway": "yes",
+        "@timestamp": "2010-12-17T17:41:16Z",
+        "@version": "2",
+        "@changeset": "6688008",
+        "@user": "LGARS",
+        "@uid": "340352",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.054685,
+            4.7069315
+          ],
+          [
+            -74.0550591,
+            4.7070203
+          ],
+          [
+            -74.0555649,
+            4.7072032
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89438700",
+      "properties": {
+        "@id": "way/89438700",
+        "highway": "secondary",
+        "name": "Avenida Carrera 15",
+        "oneway": "yes",
+        "@timestamp": "2010-12-13T16:22:45Z",
+        "@version": "1",
+        "@changeset": "6649299",
+        "@user": "LGARS",
+        "@uid": "340352",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0428908,
+            4.7007536
+          ],
+          [
+            -74.0428539,
+            4.7012491
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89438729",
+      "properties": {
+        "@id": "way/89438729",
+        "highway": "secondary",
+        "name": "Avenida Carrera 15",
+        "oneway": "yes",
+        "@timestamp": "2010-12-13T16:22:50Z",
+        "@version": "1",
+        "@changeset": "6649299",
+        "@user": "LGARS",
+        "@uid": "340352",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0429681,
+            4.6988392
+          ],
+          [
+            -74.0428967,
+            4.7005436
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89438813",
+      "properties": {
+        "@id": "way/89438813",
+        "highway": "secondary",
+        "name": "Avenida Carrera 15",
+        "oneway": "yes",
+        "@timestamp": "2012-03-06T14:23:17Z",
+        "@version": "2",
+        "@changeset": "10890420",
+        "@user": "AFRK",
+        "@uid": "617794",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0430952,
+            4.696412
+          ],
+          [
+            -74.043055,
+            4.6971834
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89438845",
+      "properties": {
+        "@id": "way/89438845",
+        "addr:suburb": "Santa Barbara",
+        "highway": "secondary",
+        "name": "Avenida Carrera 15",
+        "oneway": "yes",
+        "@timestamp": "2015-10-14T18:39:54Z",
+        "@version": "3",
+        "@changeset": "34639166",
+        "@user": "maggot27",
+        "@uid": "118021",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.043055,
+            4.6971834
+          ],
+          [
+            -74.0429681,
+            4.6988392
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89438871",
+      "properties": {
+        "@id": "way/89438871",
+        "highway": "secondary",
+        "name": "Avenida Carrera 15",
+        "oneway": "yes",
+        "@timestamp": "2010-12-13T16:23:11Z",
+        "@version": "1",
+        "@changeset": "6649299",
+        "@user": "LGARS",
+        "@uid": "340352",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0428539,
+            4.7012491
+          ],
+          [
+            -74.0427857,
+            4.7022357
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89438874",
+      "properties": {
+        "@id": "way/89438874",
+        "highway": "secondary",
+        "name": "Avenida Carrera 15",
+        "oneway": "yes",
+        "@timestamp": "2010-12-13T16:23:11Z",
+        "@version": "1",
+        "@changeset": "6649299",
+        "@user": "LGARS",
+        "@uid": "340352",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0428967,
+            4.7005436
+          ],
+          [
+            -74.0428933,
+            4.7006494
+          ],
+          [
+            -74.0428908,
+            4.7007536
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89439062",
+      "properties": {
+        "@id": "way/89439062",
+        "highway": "secondary",
+        "maxspeed": "30",
+        "name": "Avenida Carrera 15",
+        "oneway": "yes",
+        "@timestamp": "2016-05-23T15:44:01Z",
+        "@version": "2",
+        "@changeset": "39512730",
+        "@user": "ingnoel",
+        "@uid": "2905140",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0427371,
+            4.7029769
+          ],
+          [
+            -74.0427019,
+            4.7040011
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89439091",
+      "properties": {
+        "@id": "way/89439091",
+        "highway": "secondary",
+        "maxspeed": "30",
+        "name": "Avenida Carrera 15",
+        "oneway": "yes",
+        "@timestamp": "2016-05-23T15:43:21Z",
+        "@version": "3",
+        "@changeset": "39512721",
+        "@user": "ingnoel",
+        "@uid": "2905140",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0427857,
+            4.7022357
+          ],
+          [
+            -74.0427447,
+            4.7028603
+          ],
+          [
+            -74.0427371,
+            4.7029769
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89442422",
+      "properties": {
+        "@id": "way/89442422",
+        "highway": "secondary",
+        "name": "Avenida Carrera 15",
+        "oneway": "yes",
+        "@timestamp": "2010-12-13T16:34:22Z",
+        "@version": "1",
+        "@changeset": "6649299",
+        "@user": "LGARS",
+        "@uid": "340352",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0431153,
+            4.6962451
+          ],
+          [
+            -74.0430952,
+            4.696412
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89455320",
+      "properties": {
+        "@id": "way/89455320",
+        "highway": "secondary",
+        "name": "Avenida Carrera 15",
+        "oneway": "yes",
+        "@timestamp": "2010-12-13T17:47:17Z",
+        "@version": "1",
+        "@changeset": "6650237",
+        "@user": "LGARS",
+        "@uid": "340352",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0435093,
+            4.6947047
+          ],
+          [
+            -74.0432039,
+            4.6955455
+          ],
+          [
+            -74.0431153,
+            4.6962451
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89455350",
+      "properties": {
+        "@id": "way/89455350",
+        "highway": "secondary",
+        "name": "Avenida Carrera 15",
+        "oneway": "yes",
+        "@timestamp": "2015-09-17T20:39:38Z",
+        "@version": "3",
+        "@changeset": "34092086",
+        "@user": "mono11",
+        "@uid": "2893240",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0436567,
+            4.6944436
+          ],
+          [
+            -74.0436374,
+            4.6944796
+          ],
+          [
+            -74.0435093,
+            4.6947047
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89456574",
+      "properties": {
+        "@id": "way/89456574",
+        "highway": "secondary",
+        "name": "Avenida Carrera 15",
+        "oneway": "yes",
+        "@timestamp": "2014-12-01T23:14:55Z",
+        "@version": "3",
+        "@changeset": "27168475",
+        "@user": "RichRico",
+        "@uid": "2219338",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0457682,
+            4.6905168
+          ],
+          [
+            -74.0449637,
+            4.6920009
+          ],
+          [
+            -74.0446642,
+            4.6925357
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89456575",
+      "properties": {
+        "@id": "way/89456575",
+        "highway": "secondary",
+        "name": "Avenida Carrera 15",
+        "oneway": "yes",
+        "@timestamp": "2010-12-13T18:00:32Z",
+        "@version": "1",
+        "@changeset": "6650237",
+        "@user": "LGARS",
+        "@uid": "340352",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0446642,
+            4.6925357
+          ],
+          [
+            -74.0441518,
+            4.6935019
+          ],
+          [
+            -74.0436567,
+            4.6944436
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89477178",
+      "properties": {
+        "@id": "way/89477178",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida Carrera 15",
+        "oneway": "yes",
+        "@timestamp": "2011-06-25T02:33:02Z",
+        "@version": "3",
+        "@changeset": "8538635",
+        "@user": "jmantill",
+        "@uid": "462506",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0468615,
+            4.6887816
+          ],
+          [
+            -74.0468277,
+            4.6888464
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89477256",
+      "properties": {
+        "@id": "way/89477256",
+        "highway": "secondary",
+        "name": "Avenida Carrera 15",
+        "oneway": "yes",
+        "@timestamp": "2011-11-12T20:20:01Z",
+        "@version": "3",
+        "@changeset": "9808069",
+        "@user": "fredw",
+        "@uid": "5269",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0468277,
+            4.6888464
+          ],
+          [
+            -74.0465251,
+            4.689475
+          ],
+          [
+            -74.0464204,
+            4.6896418
+          ],
+          [
+            -74.045827,
+            4.6904445
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89502364",
+      "properties": {
+        "@id": "way/89502364",
+        "alt_name": "Avenida Paseo del Country",
+        "highway": "secondary",
+        "name": "Carrera 15",
+        "oneway": "yes",
+        "@timestamp": "2015-12-24T03:50:46Z",
+        "@version": "10",
+        "@changeset": "36138301",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0486903,
+            4.6830304
+          ],
+          [
+            -74.0486023,
+            4.6831981
+          ],
+          [
+            -74.0485202,
+            4.683386
+          ],
+          [
+            -74.0484762,
+            4.6834889
+          ],
+          [
+            -74.0484458,
+            4.6835919
+          ],
+          [
+            -74.0484151,
+            4.6837068
+          ],
+          [
+            -74.0484027,
+            4.6837734
+          ],
+          [
+            -74.0483934,
+            4.6838535
+          ],
+          [
+            -74.0483818,
+            4.6839728
+          ],
+          [
+            -74.0483693,
+            4.6840285
+          ],
+          [
+            -74.0483499,
+            4.6840853
+          ],
+          [
+            -74.0483262,
+            4.6841356
+          ],
+          [
+            -74.0482583,
+            4.6842253
+          ],
+          [
+            -74.0482281,
+            4.6842555
+          ],
+          [
+            -74.0481374,
+            4.6843496
+          ],
+          [
+            -74.0480826,
+            4.6844079
+          ],
+          [
+            -74.0479778,
+            4.6844701
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89513059",
+      "properties": {
+        "@id": "way/89513059",
+        "highway": "secondary",
+        "name": "Avenida Paseo del Country;Carrera 15",
+        "oneway": "yes",
+        "@timestamp": "2015-04-15T03:14:03Z",
+        "@version": "4",
+        "@changeset": "30226655",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.050985,
+            4.6786111
+          ],
+          [
+            -74.0505863,
+            4.6793664
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89513066",
+      "properties": {
+        "@id": "way/89513066",
+        "highway": "secondary",
+        "name": "Avenida Paseo del Country;Carrera 15",
+        "oneway": "yes",
+        "@timestamp": "2015-04-15T03:14:03Z",
+        "@version": "4",
+        "@changeset": "30226655",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0505863,
+            4.6793664
+          ],
+          [
+            -74.0505194,
+            4.6795029
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89513077",
+      "properties": {
+        "@id": "way/89513077",
+        "highway": "secondary",
+        "name": "Avenida Paseo del Country;Carrera 15",
+        "oneway": "yes",
+        "@timestamp": "2015-04-15T03:14:03Z",
+        "@version": "4",
+        "@changeset": "30226655",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0505194,
+            4.6795029
+          ],
+          [
+            -74.0497951,
+            4.6809044
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89513120",
+      "properties": {
+        "@id": "way/89513120",
+        "alt_name": "Avenida Paseo del Country",
+        "highway": "secondary",
+        "name": "Carrera 15",
+        "oneway": "yes",
+        "@timestamp": "2015-12-24T03:50:46Z",
+        "@version": "5",
+        "@changeset": "36138301",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.051359,
+            4.6778949
+          ],
+          [
+            -74.0511573,
+            4.6782808
+          ],
+          [
+            -74.050985,
+            4.6786111
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89513136",
+      "properties": {
+        "@id": "way/89513136",
+        "alt_name": "Avenida Paseo del Country",
+        "highway": "secondary",
+        "lanes": "4",
+        "name": "Carrera 15",
+        "oneway": "yes",
+        "@timestamp": "2015-12-24T03:50:47Z",
+        "@version": "8",
+        "@changeset": "36138301",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0497951,
+            4.6809044
+          ],
+          [
+            -74.049417,
+            4.6816244
+          ],
+          [
+            -74.0493193,
+            4.6818103
+          ],
+          [
+            -74.049065,
+            4.6823145
+          ],
+          [
+            -74.0489752,
+            4.682486
+          ],
+          [
+            -74.0486903,
+            4.6830304
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89526842",
+      "properties": {
+        "@id": "way/89526842",
+        "alt_name": "Avenida Paseo del Country",
+        "highway": "secondary",
+        "name": "Carrera 15",
+        "oneway": "yes",
+        "@timestamp": "2015-12-24T03:50:47Z",
+        "@version": "5",
+        "@changeset": "36138301",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0519383,
+            4.6767603
+          ],
+          [
+            -74.0515681,
+            4.6774966
+          ],
+          [
+            -74.051359,
+            4.6778949
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89527315",
+      "properties": {
+        "@id": "way/89527315",
+        "highway": "secondary",
+        "name": "Avenida Paseo del Country;Carrera 15",
+        "oneway": "yes",
+        "@timestamp": "2015-04-15T03:14:02Z",
+        "@version": "4",
+        "@changeset": "30226655",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0524361,
+            4.6757849
+          ],
+          [
+            -74.0523925,
+            4.6758709
+          ],
+          [
+            -74.0523523,
+            4.6759567
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89527319",
+      "properties": {
+        "@id": "way/89527319",
+        "highway": "secondary",
+        "name": "Avenida Paseo del Country;Carrera 15",
+        "oneway": "yes",
+        "@timestamp": "2015-04-15T03:14:02Z",
+        "@version": "4",
+        "@changeset": "30226655",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0523523,
+            4.6759567
+          ],
+          [
+            -74.0519383,
+            4.6767603
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89572205",
+      "properties": {
+        "@id": "way/89572205",
+        "alt_name": "Avenida Paseo del Country",
+        "highway": "secondary",
+        "name": "Carrera 15",
+        "oneway": "yes",
+        "@timestamp": "2015-12-24T03:50:47Z",
+        "@version": "6",
+        "@changeset": "36138301",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0531485,
+            4.6744256
+          ],
+          [
+            -74.0527116,
+            4.6752705
+          ],
+          [
+            -74.052692,
+            4.6753079
+          ],
+          [
+            -74.0524361,
+            4.6757849
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89580874",
+      "properties": {
+        "@id": "way/89580874",
+        "highway": "secondary",
+        "name": "Avenida Paseo del Country;Carrera 15",
+        "oneway": "yes",
+        "@timestamp": "2015-05-28T16:30:21Z",
+        "@version": "5",
+        "@changeset": "31535665",
+        "@user": "samely",
+        "@uid": "2512300",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0539616,
+            4.6728031
+          ],
+          [
+            -74.0539032,
+            4.6729124
+          ],
+          [
+            -74.0538149,
+            4.6731171
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89580875",
+      "properties": {
+        "@id": "way/89580875",
+        "highway": "secondary",
+        "name": "Avenida Paseo del Country;Carrera 15",
+        "oneway": "yes",
+        "@timestamp": "2015-04-15T03:14:01Z",
+        "@version": "4",
+        "@changeset": "30226655",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0541023,
+            4.6724948
+          ],
+          [
+            -74.0539616,
+            4.6728031
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89580886",
+      "properties": {
+        "@id": "way/89580886",
+        "highway": "secondary",
+        "name": "Avenida Paseo del Country;Carrera 15",
+        "oneway": "yes",
+        "@timestamp": "2015-04-15T03:14:01Z",
+        "@version": "4",
+        "@changeset": "30226655",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0548156,
+            4.6710129
+          ],
+          [
+            -74.0545405,
+            4.6715655
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89580922",
+      "properties": {
+        "@id": "way/89580922",
+        "alt_name": "Avenida Paseo del Country",
+        "highway": "secondary",
+        "name": "Carrera 15",
+        "oneway": "yes",
+        "@timestamp": "2015-12-24T03:50:47Z",
+        "@version": "7",
+        "@changeset": "36138301",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0538149,
+            4.6731171
+          ],
+          [
+            -74.0537417,
+            4.6732584
+          ],
+          [
+            -74.0534139,
+            4.6739055
+          ],
+          [
+            -74.0531485,
+            4.6744256
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89581024",
+      "properties": {
+        "@id": "way/89581024",
+        "alt_name": "Avenida Paseo del Country",
+        "highway": "secondary",
+        "name": "Carrera 15",
+        "oneway": "yes",
+        "@timestamp": "2015-12-24T03:50:46Z",
+        "@version": "5",
+        "@changeset": "36138301",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0545405,
+            4.6715655
+          ],
+          [
+            -74.0541194,
+            4.6724585
+          ],
+          [
+            -74.0541023,
+            4.6724948
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89582604",
+      "properties": {
+        "@id": "way/89582604",
+        "alt_name": "Avenida Paseo del Country",
+        "highway": "secondary",
+        "name": "Carrera 15",
+        "oneway": "yes",
+        "@timestamp": "2015-12-24T03:50:46Z",
+        "@version": "5",
+        "@changeset": "36138301",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0552367,
+            4.670129
+          ],
+          [
+            -74.0549182,
+            4.6707925
+          ],
+          [
+            -74.0548156,
+            4.6710129
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89600640",
+      "properties": {
+        "@id": "way/89600640",
+        "highway": "secondary",
+        "name": "Avenida Paseo del Country;Carrera 15",
+        "oneway": "yes",
+        "@timestamp": "2015-04-15T03:14:00Z",
+        "@version": "5",
+        "@changeset": "30226655",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.056368,
+            4.6677786
+          ],
+          [
+            -74.0559715,
+            4.6685918
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89600929",
+      "properties": {
+        "@id": "way/89600929",
+        "highway": "secondary",
+        "name": "Avenida Paseo del Country;Carrera 15",
+        "oneway": "yes",
+        "@timestamp": "2015-08-18T23:05:43Z",
+        "@version": "7",
+        "@changeset": "33428539",
+        "@user": "ingnoel",
+        "@uid": "2905140",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0555872,
+            4.6694098
+          ],
+          [
+            -74.0552884,
+            4.6700324
+          ],
+          [
+            -74.0552367,
+            4.670129
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89601066",
+      "properties": {
+        "@id": "way/89601066",
+        "highway": "secondary",
+        "name": "Avenida Paseo del Country;Carrera 15",
+        "oneway": "yes",
+        "@timestamp": "2015-04-15T03:14:00Z",
+        "@version": "4",
+        "@changeset": "30226655",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0565517,
+            4.667417
+          ],
+          [
+            -74.056368,
+            4.6677786
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89601343",
+      "properties": {
+        "@id": "way/89601343",
+        "alt_name": "Avenida Paseo del Country",
+        "highway": "secondary",
+        "name": "Carrera 15",
+        "oneway": "yes",
+        "@timestamp": "2015-12-06T18:09:06Z",
+        "@version": "5",
+        "@changeset": "35791633",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0558833,
+            4.6687825
+          ],
+          [
+            -74.0556922,
+            4.6691805
+          ],
+          [
+            -74.0556554,
+            4.6692723
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89601346",
+      "properties": {
+        "@id": "way/89601346",
+        "highway": "secondary",
+        "name": "Avenida Paseo del Country;Carrera 15",
+        "oneway": "yes",
+        "@timestamp": "2015-04-15T03:14:01Z",
+        "@version": "4",
+        "@changeset": "30226655",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0556554,
+            4.6692723
+          ],
+          [
+            -74.0555872,
+            4.6694098
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89606516",
+      "properties": {
+        "@id": "way/89606516",
+        "highway": "secondary",
+        "name": "Avenida Paseo del Country;Carrera 15",
+        "oneway": "yes",
+        "@timestamp": "2015-04-15T03:14:00Z",
+        "@version": "4",
+        "@changeset": "30226655",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0570968,
+            4.6664502
+          ],
+          [
+            -74.0565517,
+            4.667417
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90000262",
+      "properties": {
+        "@id": "way/90000262",
+        "addr:city": "Bogotá D.C.",
+        "addr:street": "AC 127",
+        "highway": "primary",
+        "name": "Avenida Rodrigo Lara Bonilla - Calle 127",
+        "oneway": "yes",
+        "@timestamp": "2010-12-17T17:40:01Z",
+        "@version": "1",
+        "@changeset": "6688008",
+        "@user": "LGARS",
+        "@uid": "340352",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0557402,
+            4.7072385
+          ],
+          [
+            -74.0569266,
+            4.7074481
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90000294",
+      "properties": {
+        "@id": "way/90000294",
+        "addr:city": "Bogotá D.C.",
+        "addr:street": "AC 127",
+        "highway": "primary",
+        "name": "Avenida Rodrigo Lara Bonilla - Calle 127",
+        "oneway": "yes",
+        "@timestamp": "2010-12-17T17:40:04Z",
+        "@version": "1",
+        "@changeset": "6688008",
+        "@user": "LGARS",
+        "@uid": "340352",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0642738,
+            4.7092742
+          ],
+          [
+            -74.064421,
+            4.7093369
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90000307",
+      "properties": {
+        "@id": "way/90000307",
+        "highway": "primary",
+        "name": "Avenida Rodrigo Lara Bonilla - Calle 127",
+        "oneway": "yes",
+        "@timestamp": "2015-11-28T04:27:03Z",
+        "@version": "2",
+        "@changeset": "35622319",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0597781,
+            4.7079355
+          ],
+          [
+            -74.0601052,
+            4.7079917
+          ],
+          [
+            -74.0615565,
+            4.7082411
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90000433",
+      "properties": {
+        "@id": "way/90000433",
+        "highway": "primary",
+        "name": "Avenida Rodrigo Lara Bonilla - Calle 127",
+        "oneway": "yes",
+        "@timestamp": "2015-11-28T04:27:02Z",
+        "@version": "2",
+        "@changeset": "35622319",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.064421,
+            4.7093369
+          ],
+          [
+            -74.06479,
+            4.7095016
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90000619",
+      "properties": {
+        "@id": "way/90000619",
+        "addr:city": "Bogotá D.C.",
+        "addr:street": "AC 127",
+        "highway": "primary",
+        "name": "Avenida Rodrigo Lara Bonilla - Calle 127",
+        "oneway": "yes",
+        "@timestamp": "2010-12-17T17:40:27Z",
+        "@version": "1",
+        "@changeset": "6688008",
+        "@user": "LGARS",
+        "@uid": "340352",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0555649,
+            4.7072032
+          ],
+          [
+            -74.0557402,
+            4.7072385
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90000658",
+      "properties": {
+        "@id": "way/90000658",
+        "addr:city": "Bogotá D.C.",
+        "addr:street": "AC 127",
+        "highway": "primary",
+        "name": "Avenida Rodrigo Lara Bonilla - Calle 127",
+        "oneway": "yes",
+        "@timestamp": "2010-12-17T17:40:31Z",
+        "@version": "1",
+        "@changeset": "6688008",
+        "@user": "LGARS",
+        "@uid": "340352",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0569266,
+            4.7074481
+          ],
+          [
+            -74.0596169,
+            4.7079093
+          ],
+          [
+            -74.0596954,
+            4.7079228
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90000703",
+      "properties": {
+        "@id": "way/90000703",
+        "highway": "primary",
+        "name": "Avenida Rodrigo Lara Bonilla - Calle 127",
+        "oneway": "yes",
+        "@timestamp": "2015-11-28T04:27:03Z",
+        "@version": "2",
+        "@changeset": "35622319",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.06479,
+            4.7095016
+          ],
+          [
+            -74.0650657,
+            4.7096125
+          ],
+          [
+            -74.0658471,
+            4.7099021
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90000717",
+      "properties": {
+        "@id": "way/90000717",
+        "highway": "primary",
+        "name": "Avenida Rodrigo Lara Bonilla - Calle 127",
+        "oneway": "yes",
+        "@timestamp": "2015-11-28T04:27:04Z",
+        "@version": "2",
+        "@changeset": "35622319",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0665997,
+            4.7102343
+          ],
+          [
+            -74.067042,
+            4.7104652
+          ],
+          [
+            -74.0678409,
+            4.7107861
+          ],
+          [
+            -74.0682399,
+            4.7109687
+          ],
+          [
+            -74.0686164,
+            4.711141
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90000725",
+      "properties": {
+        "@id": "way/90000725",
+        "addr:city": "Bogotá D.C.",
+        "addr:street": "AC 127",
+        "highway": "primary",
+        "name": "Avenida Rodrigo Lara Bonilla - Calle 127",
+        "oneway": "yes",
+        "@timestamp": "2010-12-17T17:40:36Z",
+        "@version": "1",
+        "@changeset": "6688008",
+        "@user": "LGARS",
+        "@uid": "340352",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0615565,
+            4.7082411
+          ],
+          [
+            -74.0618285,
+            4.7082938
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90000793",
+      "properties": {
+        "@id": "way/90000793",
+        "addr:city": "Bogotá D.C.",
+        "addr:street": "AC 127",
+        "highway": "primary",
+        "name": "Avenida Rodrigo Lara Bonilla - Calle 127",
+        "oneway": "yes",
+        "@timestamp": "2010-12-17T17:40:42Z",
+        "@version": "1",
+        "@changeset": "6688008",
+        "@user": "LGARS",
+        "@uid": "340352",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0596954,
+            4.7079228
+          ],
+          [
+            -74.0597781,
+            4.7079355
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90000837",
+      "properties": {
+        "@id": "way/90000837",
+        "highway": "primary",
+        "name": "Avenida Rodrigo Lara Bonilla - Calle 127",
+        "oneway": "yes",
+        "@timestamp": "2015-11-28T04:27:03Z",
+        "@version": "2",
+        "@changeset": "35622319",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0658471,
+            4.7099021
+          ],
+          [
+            -74.0659421,
+            4.7099441
+          ],
+          [
+            -74.0665997,
+            4.7102343
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90000869",
+      "properties": {
+        "@id": "way/90000869",
+        "highway": "primary",
+        "name": "Avenida Rodrigo Lara Bonilla - Calle 127",
+        "oneway": "yes",
+        "@timestamp": "2015-11-28T04:27:04Z",
+        "@version": "3",
+        "@changeset": "35622319",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0686164,
+            4.711141
+          ],
+          [
+            -74.0687592,
+            4.7112161
+          ],
+          [
+            -74.068952,
+            4.711291
+          ],
+          [
+            -74.0692272,
+            4.711398
+          ],
+          [
+            -74.0696049,
+            4.7115006
+          ],
+          [
+            -74.0699877,
+            4.7114892
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/336367660",
+      "properties": {
+        "@id": "way/336367660",
+        "access": "designated",
+        "highway": "primary",
+        "lanes": "3",
+        "name": "Glorieta Calle 100",
+        "oneway": "yes",
+        "roundabout": "yes",
+        "surface": "paved",
+        "@timestamp": "2015-06-04T13:21:10Z",
+        "@version": "3",
+        "@changeset": "31717762",
+        "@user": "carciofo",
+        "@uid": "2533093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0479778,
+            4.6844701
+          ],
+          [
+            -74.0478541,
+            4.6845257
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/344870158",
+      "properties": {
+        "@id": "way/344870158",
+        "highway": "secondary",
+        "name": "Avenida Carrera 15",
+        "oneway": "yes",
+        "@timestamp": "2015-05-13T20:44:32Z",
+        "@version": "1",
+        "@changeset": "31114473",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0475501,
+            4.6872012
+          ],
+          [
+            -74.047399,
+            4.6876657
+          ],
+          [
+            -74.0473062,
+            4.6878912
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/344870159",
+      "properties": {
+        "@id": "way/344870159",
+        "highway": "secondary",
+        "name": "Avenida Carrera 15",
+        "oneway": "yes",
+        "@timestamp": "2015-05-13T20:44:32Z",
+        "@version": "1",
+        "@changeset": "31114473",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0473062,
+            4.6878912
+          ],
+          [
+            -74.0468615,
+            4.6887816
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/344870168",
+      "properties": {
+        "@id": "way/344870168",
+        "access": "designated",
+        "highway": "primary",
+        "lanes": "3",
+        "name": "Glorieta Calle 100",
+        "oneway": "yes",
+        "roundabout": "yes",
+        "surface": "paved",
+        "@timestamp": "2015-05-18T14:59:03Z",
+        "@version": "2",
+        "@changeset": "31257577",
+        "@user": "ingnoel",
+        "@uid": "2905140",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0478541,
+            4.6845257
+          ],
+          [
+            -74.0477492,
+            4.6846065
+          ],
+          [
+            -74.0476688,
+            4.6847116
+          ],
+          [
+            -74.0476185,
+            4.6848339
+          ],
+          [
+            -74.0476081,
+            4.6849144
+          ],
+          [
+            -74.0476037,
+            4.6849452
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/344870169",
+      "properties": {
+        "@id": "way/344870169",
+        "access": "designated",
+        "highway": "primary",
+        "lanes": "3",
+        "name": "Glorieta Calle 100",
+        "oneway": "yes",
+        "roundabout": "yes",
+        "surface": "paved",
+        "@timestamp": "2015-05-13T20:44:33Z",
+        "@version": "1",
+        "@changeset": "31114473",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4742854",
+            "reltags": {
+              "name": "Colina-Parque Central Bavaria",
+              "network": "SITP-Urbano",
+              "operator": "Masivo Capital SAS",
+              "ref": "107B",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0476037,
+            4.6849452
+          ],
+          [
+            -74.0476193,
+            4.6850959
+          ],
+          [
+            -74.0476706,
+            4.6852173
+          ],
+          [
+            -74.0477515,
+            4.6853225
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/253762068",
+      "properties": {
+        "@id": "node/253762068",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-06T14:23:16Z",
+        "@version": "17",
+        "@changeset": "35786553",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0552367,
+          4.670129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/253762304",
+      "properties": {
+        "@id": "node/253762304",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-06T18:09:09Z",
+        "@version": "16",
+        "@changeset": "35791633",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0565517,
+          4.667417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/254530401",
+      "properties": {
+        "@id": "node/254530401",
+        "highway": "traffic_signals",
+        "@timestamp": "2014-04-23T15:51:17Z",
+        "@version": "13",
+        "@changeset": "21889497",
+        "@user": "vanessalaro",
+        "@uid": "1806395"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0523523,
+          4.6759567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/254530402",
+      "properties": {
+        "@id": "node/254530402",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-10T03:07:54Z",
+        "@version": "21",
+        "@changeset": "35858074",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0505194,
+          4.6795029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/265580230",
+      "properties": {
+        "@id": "node/265580230",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-13T09:01:53Z",
+        "@version": "12",
+        "@changeset": "35922161",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0524361,
+          4.6757849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/267197109",
+      "properties": {
+        "@id": "node/267197109",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-10T03:07:54Z",
+        "@version": "14",
+        "@changeset": "35858074",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0505863,
+          4.6793664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/268260223",
+      "properties": {
+        "@id": "node/268260223",
+        "highway": "traffic_signals",
+        "@timestamp": "2012-03-07T17:13:40Z",
+        "@version": "10",
+        "@changeset": "10901721",
+        "@user": "AFRK",
+        "@uid": "617794"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.045827,
+          4.6904445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/268260224",
+      "properties": {
+        "@id": "node/268260224",
+        "highway": "traffic_signals",
+        "@timestamp": "2010-07-05T15:24:33Z",
+        "@version": "20",
+        "@changeset": "5142876",
+        "@user": "rcastib",
+        "@uid": "133835"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0446642,
+          4.6925357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/268260227",
+      "properties": {
+        "@id": "node/268260227",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-05-26T00:54:24Z",
+        "@version": "26",
+        "@changeset": "31460917",
+        "@user": "ingnoel",
+        "@uid": "2905140"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0431153,
+          4.6962451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/268260228",
+      "properties": {
+        "@id": "node/268260228",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-04-27T14:32:47Z",
+        "@version": "17",
+        "@changeset": "38921527",
+        "@user": "carciofo",
+        "@uid": "2533093"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0430952,
+          4.696412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/268262611",
+      "properties": {
+        "@id": "node/268262611",
+        "highway": "traffic_signals",
+        "@timestamp": "2012-03-06T14:23:14Z",
+        "@version": "22",
+        "@changeset": "10890420",
+        "@user": "AFRK",
+        "@uid": "617794"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0427019,
+          4.7040011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/269722218",
+      "properties": {
+        "@id": "node/269722218",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-05-18T15:10:58Z",
+        "@version": "20",
+        "@changeset": "31257889",
+        "@user": "ingnoel",
+        "@uid": "2905140"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0429681,
+          4.6988392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/292420756",
+      "properties": {
+        "@id": "node/292420756",
+        "highway": "traffic_signals",
+        "@timestamp": "2012-03-07T17:13:42Z",
+        "@version": "18",
+        "@changeset": "10901721",
+        "@user": "AFRK",
+        "@uid": "617794"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0457682,
+          4.6905168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/310497559",
+      "properties": {
+        "@id": "node/310497559",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-11-28T04:27:07Z",
+        "@version": "18",
+        "@changeset": "35622319",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.04269,
+          4.7042167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/334642109",
+      "properties": {
+        "@id": "node/334642109",
+        "highway": "traffic_signals",
+        "@timestamp": "2009-01-21T17:05:11Z",
+        "@version": "1",
+        "@changeset": "822413",
+        "@user": "javisegura",
+        "@uid": "89928"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0596169,
+          4.7079093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/475239846",
+      "properties": {
+        "@id": "node/475239846",
+        "highway": "traffic_signals",
+        "@timestamp": "2012-03-06T14:23:16Z",
+        "@version": "2",
+        "@changeset": "10890420",
+        "@user": "AFRK",
+        "@uid": "617794"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0428933,
+          4.7006494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/479224853",
+      "properties": {
+        "@id": "node/479224853",
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals",
+        "@timestamp": "2012-08-28T04:55:53Z",
+        "@version": "2",
+        "@changeset": "12887426",
+        "@user": "Diego Casas",
+        "@uid": "838217"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0427857,
+          4.7022357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/595786472",
+      "properties": {
+        "@id": "node/595786472",
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals",
+        "@timestamp": "2009-12-18T22:41:55Z",
+        "@version": "1",
+        "@changeset": "3403955",
+        "@user": "rcastib",
+        "@uid": "133835"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0518248,
+          4.7065256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1037856418",
+      "properties": {
+        "@id": "node/1037856418",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-10T03:07:54Z",
+        "@version": "5",
+        "@changeset": "35858074",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0497951,
+          4.6809044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2515567651",
+      "properties": {
+        "@id": "node/2515567651",
+        "highway": "traffic_signals",
+        "@timestamp": "2014-04-15T03:09:13Z",
+        "@version": "2",
+        "@changeset": "21701229",
+        "@user": "vanessalaro",
+        "@uid": "1806395"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0482281,
+          4.6842555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2515567769",
+      "properties": {
+        "@id": "node/2515567769",
+        "railway": "level_crossing",
+        "@timestamp": "2014-12-22T21:40:30Z",
+        "@version": "3",
+        "@changeset": "27639566",
+        "@user": "andygol",
+        "@uid": "94578"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0476706,
+          4.6852173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3516014242",
+      "properties": {
+        "@id": "node/3516014242",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-06-13T16:40:52Z",
+        "@version": "2",
+        "@changeset": "31947003",
+        "@user": "ingnoel",
+        "@uid": "2905140"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0479778,
+          4.6844701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3526129751",
+      "properties": {
+        "@id": "node/3526129751",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-05-25T03:56:59Z",
+        "@version": "2",
+        "@changeset": "31434416",
+        "@user": "ingnoel",
+        "@uid": "2905140"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0476081,
+          4.6849144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3703773318",
+      "properties": {
+        "@id": "node/3703773318",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-06T18:09:09Z",
+        "@version": "5",
+        "@changeset": "35791633",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0552884,
+          4.6700324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3864369061",
+      "properties": {
+        "@id": "node/3864369061",
+        "bus": "yes",
+        "name": "Centro Comercial Bulevar Niza",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "078A02",
+        "source": "BogoMap",
+        "@timestamp": "2015-11-28T04:26:44Z",
+        "@version": "1",
+        "@changeset": "35622319",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.068952,
+          4.711291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3864369064",
+      "properties": {
+        "@id": "node/3864369064",
+        "bus": "yes",
+        "name": "Clínica Reina Sofía",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "189A01",
+        "source": "BogoMap",
+        "@timestamp": "2015-11-28T04:26:45Z",
+        "@version": "1",
+        "@changeset": "35622319",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.050554,
+          4.7061448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3864369066",
+      "properties": {
+        "@id": "node/3864369066",
+        "bus": "yes",
+        "name": "Hacienda Córdoba Niza VIII",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "150A02",
+        "source": "BogoMap",
+        "@timestamp": "2015-11-28T04:26:45Z",
+        "@version": "1",
+        "@changeset": "35622319",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0682399,
+          4.7109687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3864369070",
+      "properties": {
+        "@id": "node/3864369070",
+        "bus": "yes",
+        "name": "Parque Córdoba",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "147A02",
+        "source": "BogoMap",
+        "@timestamp": "2015-11-28T04:26:45Z",
+        "@version": "1",
+        "@changeset": "35622319",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0633565,
+          4.7088684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3864369073",
+      "properties": {
+        "@id": "node/3864369073",
+        "bus": "yes",
+        "name": "Prado Veraniego",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "006A02",
+        "source": "BogoMap",
+        "@timestamp": "2015-11-28T04:26:46Z",
+        "@version": "1",
+        "@changeset": "35622319",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0659421,
+          4.7099441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3864369074",
+      "properties": {
+        "@id": "node/3864369074",
+        "bus": "yes",
+        "name": "SITP",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "146A02",
+        "source": "BogoMap",
+        "@timestamp": "2015-11-28T04:26:46Z",
+        "@version": "1",
+        "@changeset": "35622319",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0601052,
+          4.7079917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3880625593",
+      "properties": {
+        "@id": "node/3880625593",
+        "bus": "yes",
+        "name": "SITP",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "304A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-06T18:09:02Z",
+        "@version": "1",
+        "@changeset": "35791633",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0556922,
+          4.6691805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3907570996",
+      "properties": {
+        "@id": "node/3907570996",
+        "bus": "yes",
+        "name": "CADE Chicó",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "307A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-24T03:50:42Z",
+        "@version": "1",
+        "@changeset": "36138301",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0534139,
+          4.6739055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3907570997",
+      "properties": {
+        "@id": "node/3907570997",
+        "bus": "yes",
+        "name": "Centro Comercial Artelana",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "305A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-24T03:50:43Z",
+        "@version": "1",
+        "@changeset": "36138301",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0549182,
+          4.6707925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3907570998",
+      "properties": {
+        "@id": "node/3907570998",
+        "bus": "yes",
+        "name": "Centro Comercial La 93",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "309A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-24T03:50:43Z",
+        "@version": "1",
+        "@changeset": "36138301",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0515681,
+          4.6774966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3907570999",
+      "properties": {
+        "@id": "node/3907570999",
+        "bus": "yes",
+        "name": "Centro Comercial La Plazuela",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "308A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-24T03:50:43Z",
+        "@version": "1",
+        "@changeset": "36138301",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0527116,
+          4.6752705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3907571000",
+      "properties": {
+        "@id": "node/3907571000",
+        "bus": "yes",
+        "name": "Centro de negocios Chicó Plaza",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "094A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-24T03:50:43Z",
+        "@version": "1",
+        "@changeset": "36138301",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0483262,
+          4.6841356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3907571001",
+      "properties": {
+        "@id": "node/3907571001",
+        "bus": "yes",
+        "name": "Chicó norte II sector",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "311A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-24T03:50:43Z",
+        "@version": "1",
+        "@changeset": "36138301",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.049417,
+          4.6816244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3907571002",
+      "properties": {
+        "@id": "node/3907571002",
+        "bus": "yes",
+        "name": "Chicó norte II sector",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "312A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-24T03:50:43Z",
+        "@version": "1",
+        "@changeset": "36138301",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0489752,
+          4.682486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3907571003",
+      "properties": {
+        "@id": "node/3907571003",
+        "bus": "yes",
+        "name": "Cámara de Comercio sede norte",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "310A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-24T03:50:43Z",
+        "@version": "1",
+        "@changeset": "36138301",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0511573,
+          4.6782808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3907571004",
+      "properties": {
+        "@id": "node/3907571004",
+        "bus": "yes",
+        "name": "Parque El Virrey",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "306A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-24T03:50:43Z",
+        "@version": "1",
+        "@changeset": "36138301",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0541194,
+          4.6724585
+        ]
+      }
+    }
+  ]
+}

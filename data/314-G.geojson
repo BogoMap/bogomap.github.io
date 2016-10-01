@@ -1,0 +1,6013 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-10-01T20:20:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/24251959",
+      "properties": {
+        "@id": "way/24251959",
+        "highway": "residential",
+        "name": "Calle 24",
+        "@timestamp": "2010-12-14T16:00:42Z",
+        "@version": "14",
+        "@changeset": "6659651",
+        "@user": "dmartinh",
+        "@uid": "314700",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0754153,
+            4.613778
+          ],
+          [
+            -74.0751905,
+            4.613428
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24306008",
+      "properties": {
+        "@id": "way/24306008",
+        "alt_name": "Avenida General Santander",
+        "highway": "secondary",
+        "name": "Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2015-11-22T01:56:45Z",
+        "@version": "8",
+        "@changeset": "35500405",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.072548,
+            4.6510803
+          ],
+          [
+            -74.0725509,
+            4.6509669
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24306059",
+      "properties": {
+        "@id": "way/24306059",
+        "highway": "tertiary",
+        "name": "Transversal 25",
+        "oneway": "yes",
+        "@timestamp": "2015-11-22T01:56:49Z",
+        "@version": "7",
+        "@changeset": "35500405",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0738694,
+            4.6470507
+          ],
+          [
+            -74.0736915,
+            4.6467963
+          ],
+          [
+            -74.0736767,
+            4.6467774
+          ],
+          [
+            -74.0735201,
+            4.6464888
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24313799",
+      "properties": {
+        "@id": "way/24313799",
+        "alt_name": "Avenida General Santander",
+        "highway": "secondary",
+        "name": "Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2015-11-22T01:56:47Z",
+        "@version": "9",
+        "@changeset": "35500405",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0735279,
+            4.6480633
+          ],
+          [
+            -74.0737804,
+            4.6477175
+          ],
+          [
+            -74.0740751,
+            4.6473588
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24324735",
+      "properties": {
+        "@id": "way/24324735",
+        "highway": "residential",
+        "name": "Calle 45B",
+        "@timestamp": "2010-12-16T00:04:39Z",
+        "@version": "5",
+        "@changeset": "6672967",
+        "@user": "LGARS",
+        "@uid": "340352",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0736928,
+            4.6349878
+          ],
+          [
+            -74.0751077,
+            4.6352537
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24324767",
+      "properties": {
+        "@id": "way/24324767",
+        "alt_name": "Avenida Mariscal Sucre",
+        "highway": "tertiary",
+        "name": "Carrera 19",
+        "@timestamp": "2015-06-13T02:01:16Z",
+        "@version": "10",
+        "@changeset": "31935307",
+        "@user": "XavierCLL",
+        "@uid": "135317",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.072945,
+            4.6279013
+          ],
+          [
+            -74.0730194,
+            4.6274228
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24324772",
+      "properties": {
+        "@id": "way/24324772",
+        "highway": "secondary",
+        "name": "Calle 32",
+        "@timestamp": "2013-01-17T03:11:56Z",
+        "@version": "5",
+        "@changeset": "14679800",
+        "@user": "harrierco",
+        "@uid": "222199",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0742769,
+            4.6203946
+          ],
+          [
+            -74.0744247,
+            4.6203593
+          ],
+          [
+            -74.0748597,
+            4.6202625
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24324776",
+      "properties": {
+        "@id": "way/24324776",
+        "highway": "secondary",
+        "name": "Calle 32",
+        "oneway": "yes",
+        "@timestamp": "2013-07-24T03:50:24Z",
+        "@version": "7",
+        "@changeset": "17070191",
+        "@user": "JeanPaulPG",
+        "@uid": "220028",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0749626,
+            4.6202517
+          ],
+          [
+            -74.0751961,
+            4.6201634
+          ],
+          [
+            -74.0754276,
+            4.6200191
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24324778",
+      "properties": {
+        "@id": "way/24324778",
+        "highway": "secondary",
+        "mechanical": "yes",
+        "name": "Carrera 22",
+        "oneway": "yes",
+        "@timestamp": "2015-12-26T04:37:37Z",
+        "@version": "8",
+        "@changeset": "36169974",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0759299,
+            4.619647
+          ],
+          [
+            -74.0759637,
+            4.6196044
+          ],
+          [
+            -74.0769106,
+            4.619162
+          ],
+          [
+            -74.0778514,
+            4.6187064
+          ],
+          [
+            -74.078063,
+            4.6185963
+          ],
+          [
+            -74.0782977,
+            4.6184487
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24350493",
+      "properties": {
+        "@id": "way/24350493",
+        "highway": "residential",
+        "name": "Carrera 22",
+        "oneway": "yes",
+        "@timestamp": "2015-12-20T18:18:30Z",
+        "@version": "9",
+        "@changeset": "36070549",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0733715,
+            4.63662
+          ],
+          [
+            -74.0735102,
+            4.6358568
+          ],
+          [
+            -74.0735752,
+            4.6355663
+          ],
+          [
+            -74.0736928,
+            4.6349878
+          ],
+          [
+            -74.0737634,
+            4.634577
+          ],
+          [
+            -74.0737907,
+            4.6344405
+          ],
+          [
+            -74.0738381,
+            4.6341391
+          ],
+          [
+            -74.0739111,
+            4.6337085
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32984581",
+      "properties": {
+        "@id": "way/32984581",
+        "highway": "residential",
+        "name": "Calle 24",
+        "@timestamp": "2010-12-10T19:15:15Z",
+        "@version": "10",
+        "@changeset": "6608548",
+        "@user": "dmartinh",
+        "@uid": "314700",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0741451,
+            4.6125206
+          ],
+          [
+            -74.0733346,
+            4.6118843
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/47235612",
+      "properties": {
+        "@id": "way/47235612",
+        "highway": "tertiary",
+        "name": "DG-57",
+        "oneway": "yes",
+        "@timestamp": "2009-12-31T01:56:16Z",
+        "@version": "1",
+        "@changeset": "3495604",
+        "@user": "ikks",
+        "@uid": "37987",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0740107,
+            4.6472575
+          ],
+          [
+            -74.0738694,
+            4.6470507
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/76698976",
+      "properties": {
+        "@id": "way/76698976",
+        "highway": "secondary",
+        "name": "Avenida General Santander;Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2013-06-09T17:38:04Z",
+        "@version": "6",
+        "@changeset": "16485589",
+        "@user": "Davio",
+        "@uid": "217070",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0660807,
+            4.6648177
+          ],
+          [
+            -74.0665485,
+            4.6640394
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/84830459",
+      "properties": {
+        "@id": "way/84830459",
+        "alt_name": "Avenida General Santander",
+        "highway": "secondary",
+        "name": "Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2015-11-22T01:56:46Z",
+        "@version": "4",
+        "@changeset": "35500405",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0725509,
+            4.6509669
+          ],
+          [
+            -74.0726593,
+            4.650216
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/88861297",
+      "properties": {
+        "@id": "way/88861297",
+        "highway": "residential",
+        "name": "Carrera 5",
+        "oneway": "yes",
+        "@timestamp": "2013-12-09T07:08:47Z",
+        "@version": "3",
+        "@changeset": "19353218",
+        "@user": "dbusse",
+        "@uid": "149876",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0695351,
+            4.6060946
+          ],
+          [
+            -74.0696243,
+            4.605821
+          ],
+          [
+            -74.0698313,
+            4.6052728
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/88861540",
+      "properties": {
+        "@id": "way/88861540",
+        "highway": "residential",
+        "name": "Carrera 5",
+        "oneway": "yes",
+        "@timestamp": "2010-12-10T19:10:57Z",
+        "@version": "2",
+        "@changeset": "6608548",
+        "@user": "dmartinh",
+        "@uid": "314700",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0682314,
+            4.6088279
+          ],
+          [
+            -74.0686531,
+            4.6080144
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/88862057",
+      "properties": {
+        "@id": "way/88862057",
+        "highway": "residential",
+        "name": "Calle 24",
+        "@timestamp": "2015-12-26T16:55:08Z",
+        "@version": "4",
+        "@changeset": "36180231",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0701949,
+            4.6100006
+          ],
+          [
+            -74.0701311,
+            4.6099558
+          ],
+          [
+            -74.0698646,
+            4.609801
+          ],
+          [
+            -74.069422,
+            4.609544
+          ],
+          [
+            -74.0691257,
+            4.6093588
+          ],
+          [
+            -74.0690798,
+            4.6093316
+          ],
+          [
+            -74.0682314,
+            4.6088279
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/88875639",
+      "properties": {
+        "@id": "way/88875639",
+        "highway": "tertiary",
+        "name": "Calle 24",
+        "@timestamp": "2012-08-22T02:46:05Z",
+        "@version": "2",
+        "@changeset": "12815633",
+        "@user": "harrierco",
+        "@uid": "222199",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0708954,
+            4.6103842
+          ],
+          [
+            -74.0701949,
+            4.6100006
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/88875651",
+      "properties": {
+        "@id": "way/88875651",
+        "highway": "tertiary",
+        "name": "Calle 24",
+        "@timestamp": "2015-12-21T04:52:05Z",
+        "@version": "3",
+        "@changeset": "36077624",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0714617,
+            4.6107285
+          ],
+          [
+            -74.0712164,
+            4.6105887
+          ],
+          [
+            -74.0708954,
+            4.6103842
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/88875657",
+      "properties": {
+        "@id": "way/88875657",
+        "highway": "residential",
+        "name": "Calle 24",
+        "@timestamp": "2013-12-23T05:35:37Z",
+        "@version": "4",
+        "@changeset": "19594105",
+        "@user": "JeanPaulPG",
+        "@uid": "220028",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0716696,
+            4.6108213
+          ],
+          [
+            -74.0716209,
+            4.6108007
+          ],
+          [
+            -74.0715852,
+            4.6107772
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/88875671",
+      "properties": {
+        "@id": "way/88875671",
+        "highway": "residential",
+        "name": "Calle 24",
+        "@timestamp": "2010-12-10T19:09:43Z",
+        "@version": "1",
+        "@changeset": "6608548",
+        "@user": "dmartinh",
+        "@uid": "314700",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0717909,
+            4.6108822
+          ],
+          [
+            -74.0716696,
+            4.6108213
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/88875677",
+      "properties": {
+        "@id": "way/88875677",
+        "highway": "residential",
+        "name": "Calle 24",
+        "@timestamp": "2015-12-26T16:55:07Z",
+        "@version": "2",
+        "@changeset": "36180231",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0725567,
+            4.6113314
+          ],
+          [
+            -74.072494,
+            4.6112897
+          ],
+          [
+            -74.0717909,
+            4.6108822
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/88875954",
+      "properties": {
+        "@id": "way/88875954",
+        "highway": "residential",
+        "name": "Carrera 5",
+        "oneway": "yes",
+        "@timestamp": "2016-06-16T15:38:39Z",
+        "@version": "4",
+        "@changeset": "40069803",
+        "@user": "Karolina Ladino Puerto",
+        "@uid": "4128770",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0686531,
+            4.6080144
+          ],
+          [
+            -74.0686757,
+            4.60797
+          ],
+          [
+            -74.0687211,
+            4.6078808
+          ],
+          [
+            -74.0691601,
+            4.6070185
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/88875969",
+      "properties": {
+        "@id": "way/88875969",
+        "highway": "residential",
+        "name": "Carrera 5",
+        "oneway": "yes",
+        "@timestamp": "2013-09-29T18:11:03Z",
+        "@version": "2",
+        "@changeset": "18097457",
+        "@user": "OpenStretMap SIG",
+        "@uid": "1750711",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0691601,
+            4.6070185
+          ],
+          [
+            -74.0691933,
+            4.6069345
+          ],
+          [
+            -74.0695351,
+            4.6060946
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/88876541",
+      "properties": {
+        "@id": "way/88876541",
+        "highway": "residential",
+        "name": "Calle 24",
+        "@timestamp": "2010-12-10T19:15:14Z",
+        "@version": "1",
+        "@changeset": "6608548",
+        "@user": "dmartinh",
+        "@uid": "314700",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0733346,
+            4.6118843
+          ],
+          [
+            -74.073069,
+            4.6116963
+          ],
+          [
+            -74.0725567,
+            4.6113314
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89527071",
+      "properties": {
+        "@id": "way/89527071",
+        "alt_name": "Avenida Mariscal Sucre",
+        "highway": "tertiary",
+        "name": "Carrera 19",
+        "@timestamp": "2015-06-13T02:01:16Z",
+        "@version": "3",
+        "@changeset": "31935307",
+        "@user": "XavierCLL",
+        "@uid": "135317",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0736844,
+            4.6237407
+          ],
+          [
+            -74.0737061,
+            4.6236672
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89527072",
+      "properties": {
+        "@id": "way/89527072",
+        "alt_name": "Avenida Mariscal Sucre",
+        "highway": "tertiary",
+        "name": "Carrera 19",
+        "@timestamp": "2015-06-13T02:01:16Z",
+        "@version": "4",
+        "@changeset": "31935307",
+        "@user": "XavierCLL",
+        "@uid": "135317",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0737061,
+            4.6236672
+          ],
+          [
+            -74.0738572,
+            4.622819
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89527092",
+      "properties": {
+        "@id": "way/89527092",
+        "alt_name": "Avenida Mariscal Sucre",
+        "highway": "tertiary",
+        "name": "Carrera 19",
+        "@timestamp": "2015-06-13T02:01:17Z",
+        "@version": "4",
+        "@changeset": "31935307",
+        "@user": "XavierCLL",
+        "@uid": "135317",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0738572,
+            4.622819
+          ],
+          [
+            -74.074012,
+            4.6219758
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89527134",
+      "properties": {
+        "@id": "way/89527134",
+        "alt_name": "Avenida Mariscal Sucre",
+        "highway": "tertiary",
+        "name": "Carrera 19",
+        "@timestamp": "2015-06-13T02:01:17Z",
+        "@version": "4",
+        "@changeset": "31935307",
+        "@user": "XavierCLL",
+        "@uid": "135317",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0741565,
+            4.6211915
+          ],
+          [
+            -74.0742769,
+            4.6203946
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89527138",
+      "properties": {
+        "@id": "way/89527138",
+        "alt_name": "Avenida Mariscal Sucre",
+        "highway": "tertiary",
+        "name": "Carrera 19",
+        "@timestamp": "2015-06-13T02:01:17Z",
+        "@version": "4",
+        "@changeset": "31935307",
+        "@user": "XavierCLL",
+        "@uid": "135317",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.074012,
+            4.6219758
+          ],
+          [
+            -74.0741565,
+            4.6211915
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89574162",
+      "properties": {
+        "@id": "way/89574162",
+        "highway": "secondary",
+        "name": "Calle 32",
+        "oneway": "yes",
+        "@timestamp": "2014-08-13T19:16:02Z",
+        "@version": "7",
+        "@changeset": "24730469",
+        "@user": "ediyes",
+        "@uid": "1240849",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0754276,
+            4.6200191
+          ],
+          [
+            -74.0756925,
+            4.6198189
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89574184",
+      "properties": {
+        "@id": "way/89574184",
+        "highway": "residential",
+        "name": "Calle 24",
+        "@timestamp": "2010-12-14T15:59:23Z",
+        "@version": "1",
+        "@changeset": "6659651",
+        "@user": "dmartinh",
+        "@uid": "314700",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0746485,
+            4.6129002
+          ],
+          [
+            -74.0743164,
+            4.6126727
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89574193",
+      "properties": {
+        "@id": "way/89574193",
+        "highway": "residential",
+        "name": "Calle 24",
+        "@timestamp": "2010-12-14T15:59:24Z",
+        "@version": "1",
+        "@changeset": "6659651",
+        "@user": "dmartinh",
+        "@uid": "314700",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0742734,
+            4.612635
+          ],
+          [
+            -74.0742013,
+            4.6125617
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89574218",
+      "properties": {
+        "@id": "way/89574218",
+        "highway": "residential",
+        "name": "Calle 24",
+        "@timestamp": "2010-12-14T15:59:30Z",
+        "@version": "1",
+        "@changeset": "6659651",
+        "@user": "dmartinh",
+        "@uid": "314700",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0751905,
+            4.613428
+          ],
+          [
+            -74.0749426,
+            4.6131747
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89574251",
+      "properties": {
+        "@id": "way/89574251",
+        "highway": "residential",
+        "name": "Calle 24",
+        "@timestamp": "2010-12-14T15:59:36Z",
+        "@version": "1",
+        "@changeset": "6659651",
+        "@user": "dmartinh",
+        "@uid": "314700",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0749426,
+            4.6131747
+          ],
+          [
+            -74.0746485,
+            4.6129002
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89574256",
+      "properties": {
+        "@id": "way/89574256",
+        "highway": "residential",
+        "name": "Calle 24",
+        "@timestamp": "2010-12-14T15:59:38Z",
+        "@version": "1",
+        "@changeset": "6659651",
+        "@user": "dmartinh",
+        "@uid": "314700",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0743164,
+            4.6126727
+          ],
+          [
+            -74.0742734,
+            4.612635
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89574273",
+      "properties": {
+        "@id": "way/89574273",
+        "highway": "secondary",
+        "name": "Avenida General Santander",
+        "oneway": "yes",
+        "@timestamp": "2016-04-13T22:53:22Z",
+        "@version": "5",
+        "@changeset": "38541601",
+        "@user": "RichRico",
+        "@uid": "2219338",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0756925,
+            4.6198189
+          ],
+          [
+            -74.075764,
+            4.6197652
+          ],
+          [
+            -74.0758672,
+            4.6196893
+          ],
+          [
+            -74.0759299,
+            4.619647
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89574287",
+      "properties": {
+        "@id": "way/89574287",
+        "highway": "residential",
+        "name": "Calle 24",
+        "@timestamp": "2010-12-14T15:59:49Z",
+        "@version": "1",
+        "@changeset": "6659651",
+        "@user": "dmartinh",
+        "@uid": "314700",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0742013,
+            4.6125617
+          ],
+          [
+            -74.0741451,
+            4.6125206
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89574352",
+      "properties": {
+        "@id": "way/89574352",
+        "highway": "tertiary",
+        "mechanical": "yes",
+        "name": "Desvío tmp Construccion 26",
+        "oneway": "yes",
+        "@timestamp": "2012-06-01T02:51:38Z",
+        "@version": "2",
+        "@changeset": "11763590",
+        "@user": "botika",
+        "@uid": "689780",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0754058,
+            4.6138841
+          ],
+          [
+            -74.0754153,
+            4.613778
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89575596",
+      "properties": {
+        "@id": "way/89575596",
+        "highway": "secondary",
+        "mechanical": "yes",
+        "name": "Carrera 22",
+        "oneway": "yes",
+        "@timestamp": "2012-05-29T05:31:49Z",
+        "@version": "2",
+        "@changeset": "11733866",
+        "@user": "botika",
+        "@uid": "689780",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0782977,
+            4.6184487
+          ],
+          [
+            -74.0783195,
+            4.6183631
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89575741",
+      "properties": {
+        "@id": "way/89575741",
+        "highway": "primary",
+        "mechanical": "yes",
+        "name": "Desvío tmp Construccion 26",
+        "oneway": "yes",
+        "@timestamp": "2013-03-22T01:22:01Z",
+        "@version": "7",
+        "@changeset": "15449798",
+        "@user": "Lomarval",
+        "@uid": "1292168",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0769021,
+            4.6161709
+          ],
+          [
+            -74.0763713,
+            4.6153359
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89575845",
+      "properties": {
+        "@id": "way/89575845",
+        "highway": "primary",
+        "name": "Desvío tmp Construccion 26",
+        "oneway": "yes",
+        "@timestamp": "2015-10-14T19:29:54Z",
+        "@version": "5",
+        "@changeset": "34639217",
+        "@user": "enavarrete",
+        "@uid": "737455",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0772347,
+            4.6167548
+          ],
+          [
+            -74.0769021,
+            4.6161709
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89575913",
+      "properties": {
+        "@id": "way/89575913",
+        "highway": "secondary",
+        "name": "Calle 32",
+        "@timestamp": "2013-01-17T03:11:56Z",
+        "@version": "3",
+        "@changeset": "14679800",
+        "@user": "harrierco",
+        "@uid": "222199",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0748597,
+            4.6202625
+          ],
+          [
+            -74.0749626,
+            4.6202517
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89725017",
+      "properties": {
+        "@id": "way/89725017",
+        "alt_name": "Avenida Mariscal Sucre",
+        "highway": "tertiary",
+        "name": "Carrera 19",
+        "@timestamp": "2015-12-23T02:39:00Z",
+        "@version": "5",
+        "@changeset": "36117428",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0735507,
+            4.6245185
+          ],
+          [
+            -74.073567,
+            4.6244235
+          ],
+          [
+            -74.0736844,
+            4.6237407
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89725050",
+      "properties": {
+        "@id": "way/89725050",
+        "alt_name": "Avenida Mariscal Sucre",
+        "highway": "tertiary",
+        "name": "Carrera 19",
+        "@timestamp": "2015-06-13T02:01:16Z",
+        "@version": "4",
+        "@changeset": "31935307",
+        "@user": "XavierCLL",
+        "@uid": "135317",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0732601,
+            4.6261844
+          ],
+          [
+            -74.0733875,
+            4.6253636
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89725113",
+      "properties": {
+        "@id": "way/89725113",
+        "alt_name": "Avenida Mariscal Sucre",
+        "highway": "tertiary",
+        "name": "Carrera 19",
+        "oneway": "yes",
+        "@timestamp": "2015-06-13T02:01:16Z",
+        "@version": "2",
+        "@changeset": "31935307",
+        "@user": "XavierCLL",
+        "@uid": "135317",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0728748,
+            4.6283665
+          ],
+          [
+            -74.072945,
+            4.6279013
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89725179",
+      "properties": {
+        "@id": "way/89725179",
+        "alt_name": "Avenida Mariscal Sucre",
+        "highway": "tertiary",
+        "name": "Carrera 19",
+        "oneway": "yes",
+        "@timestamp": "2015-12-23T02:32:53Z",
+        "@version": "3",
+        "@changeset": "36117390",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0727265,
+            4.629122
+          ],
+          [
+            -74.0728491,
+            4.628494
+          ],
+          [
+            -74.0728748,
+            4.6283665
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89725199",
+      "properties": {
+        "@id": "way/89725199",
+        "alt_name": "Avenida Mariscal Sucre",
+        "highway": "tertiary",
+        "name": "Carrera 19",
+        "@timestamp": "2015-06-13T02:01:16Z",
+        "@version": "4",
+        "@changeset": "31935307",
+        "@user": "XavierCLL",
+        "@uid": "135317",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0735077,
+            4.6247422
+          ],
+          [
+            -74.0735507,
+            4.6245185
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89725239",
+      "properties": {
+        "@id": "way/89725239",
+        "alt_name": "Avenida Mariscal Sucre",
+        "highway": "tertiary",
+        "name": "Carrera 19",
+        "@timestamp": "2015-06-13T02:01:16Z",
+        "@version": "4",
+        "@changeset": "31935307",
+        "@user": "XavierCLL",
+        "@uid": "135317",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0730194,
+            4.6274228
+          ],
+          [
+            -74.0730959,
+            4.6270191
+          ],
+          [
+            -74.0732601,
+            4.6261844
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89725272",
+      "properties": {
+        "@id": "way/89725272",
+        "alt_name": "Avenida Mariscal Sucre",
+        "highway": "tertiary",
+        "name": "Carrera 19",
+        "oneway": "yes",
+        "@timestamp": "2015-06-13T02:01:12Z",
+        "@version": "2",
+        "@changeset": "31935307",
+        "@user": "XavierCLL",
+        "@uid": "135317",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0725709,
+            4.630009
+          ],
+          [
+            -74.0727265,
+            4.629122
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89725309",
+      "properties": {
+        "@id": "way/89725309",
+        "alt_name": "Avenida Mariscal Sucre",
+        "highway": "tertiary",
+        "name": "Carrera 19",
+        "@timestamp": "2015-12-23T02:39:00Z",
+        "@version": "6",
+        "@changeset": "36117428",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0733875,
+            4.6253636
+          ],
+          [
+            -74.0734701,
+            4.6249263
+          ],
+          [
+            -74.0734911,
+            4.6248154
+          ],
+          [
+            -74.0735077,
+            4.6247422
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89748686",
+      "properties": {
+        "@id": "way/89748686",
+        "highway": "secondary",
+        "name": "Carrera 24",
+        "@timestamp": "2015-12-03T04:50:36Z",
+        "@version": "7",
+        "@changeset": "35719360",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0751077,
+            4.6352537
+          ],
+          [
+            -74.0751406,
+            4.6350811
+          ],
+          [
+            -74.0752617,
+            4.634472
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89748775",
+      "properties": {
+        "@id": "way/89748775",
+        "alt_name": "Avenida Mariscal Sucre",
+        "highway": "tertiary",
+        "name": "Carrera 19",
+        "oneway": "yes",
+        "@timestamp": "2015-12-24T05:20:29Z",
+        "@version": "4",
+        "@changeset": "36138875",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0720889,
+            4.6326372
+          ],
+          [
+            -74.0721106,
+            4.6325174
+          ],
+          [
+            -74.0721814,
+            4.632111
+          ],
+          [
+            -74.0722556,
+            4.631685
+          ],
+          [
+            -74.0723115,
+            4.631404
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89748918",
+      "properties": {
+        "@id": "way/89748918",
+        "alt_name": "Avenida Mariscal Sucre",
+        "highway": "tertiary",
+        "name": "Carrera 19",
+        "oneway": "yes",
+        "@timestamp": "2015-06-13T02:01:11Z",
+        "@version": "2",
+        "@changeset": "31935307",
+        "@user": "XavierCLL",
+        "@uid": "135317",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0723647,
+            4.6311588
+          ],
+          [
+            -74.0725709,
+            4.630009
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89748932",
+      "properties": {
+        "@id": "way/89748932",
+        "alt_name": "Avenida Mariscal Sucre",
+        "highway": "tertiary",
+        "name": "Carrera 19",
+        "oneway": "yes",
+        "@timestamp": "2015-06-13T02:01:10Z",
+        "@version": "2",
+        "@changeset": "31935307",
+        "@user": "XavierCLL",
+        "@uid": "135317",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0719738,
+            4.6332429
+          ],
+          [
+            -74.0720889,
+            4.6326372
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89748952",
+      "properties": {
+        "@id": "way/89748952",
+        "alt_name": "Avenida Mariscal Sucre",
+        "highway": "tertiary",
+        "name": "Carrera 19",
+        "oneway": "yes",
+        "@timestamp": "2015-06-13T02:01:11Z",
+        "@version": "2",
+        "@changeset": "31935307",
+        "@user": "XavierCLL",
+        "@uid": "135317",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0723115,
+            4.631404
+          ],
+          [
+            -74.0723647,
+            4.6311588
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89752941",
+      "properties": {
+        "@id": "way/89752941",
+        "highway": "tertiary",
+        "mechanical": "yes",
+        "name": "Desvío tmp Construccion 26",
+        "oneway": "yes",
+        "@timestamp": "2012-06-01T02:51:47Z",
+        "@version": "2",
+        "@changeset": "11763590",
+        "@user": "botika",
+        "@uid": "689780",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0759297,
+            4.614652
+          ],
+          [
+            -74.0754058,
+            4.6138841
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89752942",
+      "properties": {
+        "@id": "way/89752942",
+        "highway": "primary",
+        "mechanical": "yes",
+        "name": "Desvío tmp Construccion 26",
+        "oneway": "yes",
+        "@timestamp": "2012-06-01T02:51:47Z",
+        "@version": "3",
+        "@changeset": "11763590",
+        "@user": "botika",
+        "@uid": "689780",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0763713,
+            4.6153359
+          ],
+          [
+            -74.0759297,
+            4.614652
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89753658",
+      "properties": {
+        "@id": "way/89753658",
+        "highway": "secondary",
+        "name": "Carrera 24",
+        "@timestamp": "2015-10-14T19:29:55Z",
+        "@version": "10",
+        "@changeset": "34639217",
+        "@user": "enavarrete",
+        "@uid": "737455",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0741673,
+            4.6407349
+          ],
+          [
+            -74.0743241,
+            4.6397572
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89759246",
+      "properties": {
+        "@id": "way/89759246",
+        "alt_name": "Avenida General Santander",
+        "highway": "secondary",
+        "name": "Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2015-11-22T01:56:47Z",
+        "@version": "3",
+        "@changeset": "35500405",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0726593,
+            4.650216
+          ],
+          [
+            -74.0727726,
+            4.6497395
+          ],
+          [
+            -74.0728519,
+            4.649484
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89759404",
+      "properties": {
+        "@id": "way/89759404",
+        "highway": "tertiary",
+        "name": "Transversal 25",
+        "oneway": "yes",
+        "@timestamp": "2015-12-05T21:49:57Z",
+        "@version": "3",
+        "@changeset": "35776926",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0734086,
+            4.6453318
+          ],
+          [
+            -74.0734369,
+            4.6451794
+          ],
+          [
+            -74.0734569,
+            4.6451204
+          ],
+          [
+            -74.0735028,
+            4.6450028
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89759574",
+      "properties": {
+        "@id": "way/89759574",
+        "highway": "tertiary",
+        "name": "Transversal 25",
+        "oneway": "yes",
+        "@timestamp": "2010-12-16T00:03:29Z",
+        "@version": "1",
+        "@changeset": "6672967",
+        "@user": "LGARS",
+        "@uid": "340352",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0733878,
+            4.6454282
+          ],
+          [
+            -74.0734086,
+            4.6453318
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89759577",
+      "properties": {
+        "@id": "way/89759577",
+        "alt_name": "Avenida General Santander",
+        "highway": "secondary",
+        "name": "Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2015-11-22T01:56:47Z",
+        "@version": "2",
+        "@changeset": "35500405",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0731223,
+            4.6487655
+          ],
+          [
+            -74.0732978,
+            4.6484205
+          ],
+          [
+            -74.0735279,
+            4.6480633
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89759657",
+      "properties": {
+        "@id": "way/89759657",
+        "highway": "tertiary",
+        "name": "DG-61c",
+        "oneway": "yes",
+        "@timestamp": "2014-05-15T00:39:51Z",
+        "@version": "2",
+        "@changeset": "22344408",
+        "@user": "vanessalaro",
+        "@uid": "1806395",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0740751,
+            4.6473588
+          ],
+          [
+            -74.0740107,
+            4.6472575
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89759720",
+      "properties": {
+        "@id": "way/89759720",
+        "highway": "tertiary",
+        "name": "Transversal 25",
+        "oneway": "yes",
+        "@timestamp": "2015-12-20T19:47:01Z",
+        "@version": "2",
+        "@changeset": "36072229",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0737635,
+            4.6445218
+          ],
+          [
+            -74.0739936,
+            4.6443014
+          ],
+          [
+            -74.0742522,
+            4.6440602
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89759744",
+      "properties": {
+        "@id": "way/89759744",
+        "alt_name": "Avenida General Santander",
+        "highway": "secondary",
+        "name": "Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2015-11-22T01:56:47Z",
+        "@version": "2",
+        "@changeset": "35500405",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0728519,
+            4.649484
+          ],
+          [
+            -74.0729431,
+            4.6492042
+          ],
+          [
+            -74.0729681,
+            4.6491273
+          ],
+          [
+            -74.0731223,
+            4.6487655
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89759821",
+      "properties": {
+        "@id": "way/89759821",
+        "highway": "tertiary",
+        "name": "Diagonal 53C",
+        "oneway": "yes",
+        "@timestamp": "2015-11-09T05:52:58Z",
+        "@version": "4",
+        "@changeset": "35184037",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0742522,
+            4.6440602
+          ],
+          [
+            -74.0741937,
+            4.6440067
+          ],
+          [
+            -74.0740357,
+            4.6438557
+          ],
+          [
+            -74.0736065,
+            4.6433929
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89759842",
+      "properties": {
+        "@id": "way/89759842",
+        "highway": "tertiary",
+        "name": "Transversal 25",
+        "oneway": "yes",
+        "@timestamp": "2010-12-16T00:04:10Z",
+        "@version": "1",
+        "@changeset": "6672967",
+        "@user": "LGARS",
+        "@uid": "340352",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0735201,
+            4.6464888
+          ],
+          [
+            -74.0733621,
+            4.6457719
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89760002",
+      "properties": {
+        "@id": "way/89760002",
+        "highway": "tertiary",
+        "name": "Transversal 25",
+        "oneway": "yes",
+        "@timestamp": "2015-12-05T21:49:57Z",
+        "@version": "2",
+        "@changeset": "35776926",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0733621,
+            4.6457719
+          ],
+          [
+            -74.073369,
+            4.6455576
+          ],
+          [
+            -74.0733878,
+            4.6454282
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89760014",
+      "properties": {
+        "@id": "way/89760014",
+        "highway": "tertiary",
+        "name": "Transversal 25",
+        "oneway": "yes",
+        "@timestamp": "2015-12-20T19:47:01Z",
+        "@version": "2",
+        "@changeset": "36072229",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0735028,
+            4.6450028
+          ],
+          [
+            -74.0736209,
+            4.6447634
+          ],
+          [
+            -74.0737635,
+            4.6445218
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89874811",
+      "properties": {
+        "@id": "way/89874811",
+        "alt_name": "Avenida General Santander",
+        "highway": "secondary",
+        "name": "Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2015-11-22T01:56:45Z",
+        "@version": "3",
+        "@changeset": "35500405",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0720982,
+            4.6535476
+          ],
+          [
+            -74.0722073,
+            4.6528085
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89874978",
+      "properties": {
+        "@id": "way/89874978",
+        "alt_name": "Avenida General Santander",
+        "highway": "secondary",
+        "name": "Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2015-11-22T01:56:45Z",
+        "@version": "5",
+        "@changeset": "35500405",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0723457,
+            4.652058
+          ],
+          [
+            -74.072548,
+            4.6510803
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89875035",
+      "properties": {
+        "@id": "way/89875035",
+        "alt_name": "Avenida General Santander",
+        "highway": "secondary",
+        "name": "Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2015-11-22T01:56:46Z",
+        "@version": "3",
+        "@changeset": "35500405",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0718913,
+            4.6548136
+          ],
+          [
+            -74.0719352,
+            4.6545452
+          ],
+          [
+            -74.0720982,
+            4.6535476
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89875212",
+      "properties": {
+        "@id": "way/89875212",
+        "alt_name": "Avenida General Santander",
+        "highway": "secondary",
+        "name": "Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2015-11-22T01:56:46Z",
+        "@version": "3",
+        "@changeset": "35500405",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0715508,
+            4.6561864
+          ],
+          [
+            -74.0716198,
+            4.6559571
+          ],
+          [
+            -74.0717287,
+            4.6555111
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89875331",
+      "properties": {
+        "@id": "way/89875331",
+        "alt_name": "Avenida General Santander",
+        "highway": "secondary",
+        "name": "Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2015-11-22T01:56:44Z",
+        "@version": "4",
+        "@changeset": "35500405",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0717287,
+            4.6555111
+          ],
+          [
+            -74.0718913,
+            4.6548136
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89875343",
+      "properties": {
+        "@id": "way/89875343",
+        "alt_name": "Avenida General Santander",
+        "highway": "secondary",
+        "name": "Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2015-11-22T01:56:47Z",
+        "@version": "3",
+        "@changeset": "35500405",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0722073,
+            4.6528085
+          ],
+          [
+            -74.0722566,
+            4.6525527
+          ],
+          [
+            -74.0723016,
+            4.6523096
+          ],
+          [
+            -74.0723457,
+            4.652058
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89878088",
+      "properties": {
+        "@id": "way/89878088",
+        "alt_name": "Avenida General Santander",
+        "highway": "secondary",
+        "name": "Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2015-11-22T01:56:46Z",
+        "@version": "3",
+        "@changeset": "35500405",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0702099,
+            4.6582382
+          ],
+          [
+            -74.0703891,
+            4.6579795
+          ],
+          [
+            -74.0707613,
+            4.657398
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89878137",
+      "properties": {
+        "@id": "way/89878137",
+        "alt_name": "Avenida General Santander",
+        "highway": "secondary",
+        "name": "Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2015-11-22T01:56:46Z",
+        "@version": "3",
+        "@changeset": "35500405",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0713825,
+            4.6564853
+          ],
+          [
+            -74.071459,
+            4.6563598
+          ],
+          [
+            -74.0715508,
+            4.6561864
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89878163",
+      "properties": {
+        "@id": "way/89878163",
+        "alt_name": "Avenida General Santander",
+        "highway": "secondary",
+        "name": "Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2015-11-22T01:56:48Z",
+        "@version": "4",
+        "@changeset": "35500405",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0707613,
+            4.657398
+          ],
+          [
+            -74.0711563,
+            4.6568062
+          ],
+          [
+            -74.071334,
+            4.6565518
+          ],
+          [
+            -74.0713825,
+            4.6564853
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89889978",
+      "properties": {
+        "@id": "way/89889978",
+        "alt_name": "Avenida General Santander",
+        "highway": "secondary",
+        "name": "Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2015-11-22T05:32:30Z",
+        "@version": "4",
+        "@changeset": "35502301",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0654958,
+            4.6657161
+          ],
+          [
+            -74.0656406,
+            4.665496
+          ],
+          [
+            -74.0658104,
+            4.6652378
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89890159",
+      "properties": {
+        "@id": "way/89890159",
+        "alt_name": "Avenida General Santander",
+        "highway": "secondary",
+        "name": "Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2015-11-22T01:56:46Z",
+        "@version": "3",
+        "@changeset": "35500405",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0688783,
+            4.6603244
+          ],
+          [
+            -74.0692351,
+            4.6597526
+          ],
+          [
+            -74.0696711,
+            4.659062
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89890366",
+      "properties": {
+        "@id": "way/89890366",
+        "highway": "secondary",
+        "name": "Avenida General Santander;Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2013-06-09T17:38:05Z",
+        "@version": "2",
+        "@changeset": "16485589",
+        "@user": "Davio",
+        "@uid": "217070",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0671296,
+            4.6630981
+          ],
+          [
+            -74.0671919,
+            4.6630139
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89890462",
+      "properties": {
+        "@id": "way/89890462",
+        "highway": "secondary",
+        "name": "Avenida General Santander;Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2015-11-11T04:13:56Z",
+        "@version": "3",
+        "@changeset": "35231573",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0671919,
+            4.6630139
+          ],
+          [
+            -74.0678732,
+            4.6619276
+          ],
+          [
+            -74.0681096,
+            4.6615511
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89890518",
+      "properties": {
+        "@id": "way/89890518",
+        "alt_name": "Avenida General Santander",
+        "highway": "secondary",
+        "name": "Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2015-12-17T04:48:12Z",
+        "@version": "4",
+        "@changeset": "36002231",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0696711,
+            4.659062
+          ],
+          [
+            -74.0697138,
+            4.6589777
+          ],
+          [
+            -74.0702099,
+            4.6582382
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89890566",
+      "properties": {
+        "@id": "way/89890566",
+        "highway": "secondary",
+        "name": "Avenida General Santander;Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2015-04-11T19:53:22Z",
+        "@version": "3",
+        "@changeset": "30150582",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0658104,
+            4.6652378
+          ],
+          [
+            -74.0660807,
+            4.6648177
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89890598",
+      "properties": {
+        "@id": "way/89890598",
+        "alt_name": "Avenida General Santander",
+        "highway": "secondary",
+        "name": "Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2015-11-22T01:56:45Z",
+        "@version": "3",
+        "@changeset": "35500405",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0681096,
+            4.6615511
+          ],
+          [
+            -74.0688783,
+            4.6603244
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89890701",
+      "properties": {
+        "@id": "way/89890701",
+        "alt_name": "Avenida General Santander",
+        "highway": "secondary",
+        "name": "Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2015-11-22T05:32:31Z",
+        "@version": "4",
+        "@changeset": "35502301",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0665485,
+            4.6640394
+          ],
+          [
+            -74.0667189,
+            4.663768
+          ],
+          [
+            -74.0667299,
+            4.6637505
+          ],
+          [
+            -74.0671296,
+            4.6630981
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89901659",
+      "properties": {
+        "@id": "way/89901659",
+        "highway": "secondary",
+        "name": "Avenida General Santander;Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2015-04-11T19:53:22Z",
+        "@version": "3",
+        "@changeset": "30150582",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0650155,
+            4.6665281
+          ],
+          [
+            -74.0652106,
+            4.6662282
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89901669",
+      "properties": {
+        "@id": "way/89901669",
+        "alt_name": "Avenida General Santander",
+        "highway": "secondary",
+        "name": "Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2015-11-22T05:32:30Z",
+        "@version": "4",
+        "@changeset": "35502301",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0639414,
+            4.6680941
+          ],
+          [
+            -74.0642531,
+            4.6676514
+          ],
+          [
+            -74.0644416,
+            4.6673699
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89901803",
+      "properties": {
+        "@id": "way/89901803",
+        "highway": "secondary",
+        "name": "Avenida General Santander;Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2015-04-11T19:53:22Z",
+        "@version": "3",
+        "@changeset": "30150582",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0644416,
+            4.6673699
+          ],
+          [
+            -74.0648886,
+            4.6667133
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89901810",
+      "properties": {
+        "@id": "way/89901810",
+        "addr:city": "Bogotá D.C.",
+        "addr:street": "AC 80",
+        "highway": "trunk",
+        "name": "Avenida Medellín - Calle 80",
+        "oneway": "yes",
+        "@timestamp": "2013-12-30T17:30:01Z",
+        "@version": "3",
+        "@changeset": "19718405",
+        "@user": "dbusse",
+        "@uid": "149876",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0639854,
+            4.6695021
+          ],
+          [
+            -74.0634916,
+            4.6688951
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89901859",
+      "properties": {
+        "@id": "way/89901859",
+        "highway": "secondary",
+        "name": "Avenida General Santander;Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2015-04-11T20:01:13Z",
+        "@version": "3",
+        "@changeset": "30150712",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0648886,
+            4.6667133
+          ],
+          [
+            -74.0650155,
+            4.6665281
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89901931",
+      "properties": {
+        "@id": "way/89901931",
+        "highway": "secondary",
+        "name": "Avenida General Santander;Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2015-04-11T19:53:22Z",
+        "@version": "3",
+        "@changeset": "30150582",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0652106,
+            4.6662282
+          ],
+          [
+            -74.0654958,
+            4.6657161
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/201204055",
+      "properties": {
+        "@id": "way/201204055",
+        "highway": "residential",
+        "name": "Carrera 5",
+        "oneway": "yes",
+        "@timestamp": "2015-05-17T15:20:58Z",
+        "@version": "4",
+        "@changeset": "31230388",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0698313,
+            4.6052728
+          ],
+          [
+            -74.0699483,
+            4.6049949
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/201517242",
+      "properties": {
+        "@id": "way/201517242",
+        "highway": "secondary",
+        "name": "Calle 45",
+        "oneway": "yes",
+        "@timestamp": "2015-06-13T02:01:10Z",
+        "@version": "6",
+        "@changeset": "31935307",
+        "@user": "XavierCLL",
+        "@uid": "135317",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.073934,
+            4.6336021
+          ],
+          [
+            -74.0738659,
+            4.6335898
+          ],
+          [
+            -74.0726525,
+            4.6333696
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/253134503",
+      "properties": {
+        "@id": "way/253134503",
+        "highway": "residential",
+        "name": "Calle 24",
+        "@timestamp": "2013-12-23T05:35:37Z",
+        "@version": "1",
+        "@changeset": "19594105",
+        "@user": "JeanPaulPG",
+        "@uid": "220028",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0715852,
+            4.6107772
+          ],
+          [
+            -74.0715174,
+            4.6107477
+          ],
+          [
+            -74.0714617,
+            4.6107285
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/353326799",
+      "properties": {
+        "@id": "way/353326799",
+        "highway": "residential",
+        "name": "Carrera 22",
+        "oneway": "yes",
+        "@timestamp": "2015-12-06T02:55:01Z",
+        "@version": "2",
+        "@changeset": "35779640",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0739111,
+            4.6337085
+          ],
+          [
+            -74.073934,
+            4.6336021
+          ],
+          [
+            -74.0740021,
+            4.6332464
+          ],
+          [
+            -74.074066,
+            4.6329025
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/353326800",
+      "properties": {
+        "@id": "way/353326800",
+        "highway": "secondary",
+        "name": "Calle 45",
+        "oneway": "yes",
+        "@timestamp": "2015-12-06T03:51:46Z",
+        "@version": "2",
+        "@changeset": "35779973",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0726525,
+            4.6333696
+          ],
+          [
+            -74.0723982,
+            4.6333241
+          ],
+          [
+            -74.0721412,
+            4.6332781
+          ],
+          [
+            -74.0719738,
+            4.6332429
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/353326802",
+      "properties": {
+        "@id": "way/353326802",
+        "highway": "secondary",
+        "name": "Calle 45",
+        "oneway": "yes",
+        "@timestamp": "2015-06-13T02:01:07Z",
+        "@version": "1",
+        "@changeset": "31935307",
+        "@user": "XavierCLL",
+        "@uid": "135317",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0719738,
+            4.6332429
+          ],
+          [
+            -74.0718815,
+            4.6332307
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/261138472",
+      "properties": {
+        "@id": "node/261138472",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-26T16:55:12Z",
+        "@version": "28",
+        "@changeset": "36180231",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0716696,
+          4.6108213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/262567740",
+      "properties": {
+        "@id": "node/262567740",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-26T16:55:12Z",
+        "@version": "8",
+        "@changeset": "36180231",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0725567,
+          4.6113314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/262567746",
+      "properties": {
+        "@id": "node/262567746",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-26T16:55:12Z",
+        "@version": "9",
+        "@changeset": "36180231",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0682314,
+          4.6088279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/262998784",
+      "properties": {
+        "@id": "node/262998784",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-20T18:18:39Z",
+        "@version": "10",
+        "@changeset": "36070549",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0739111,
+          4.6337085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/263368672",
+      "properties": {
+        "@id": "node/263368672",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-20T19:47:03Z",
+        "@version": "5",
+        "@changeset": "36072229",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0740107,
+          4.6472575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/263368683",
+      "properties": {
+        "@id": "node/263368683",
+        "highway": "traffic_signals",
+        "@timestamp": "2014-05-15T00:39:42Z",
+        "@version": "8",
+        "@changeset": "22344408",
+        "@user": "vanessalaro",
+        "@uid": "1806395"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.072548,
+          4.6510803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/263368684",
+      "properties": {
+        "@id": "node/263368684",
+        "highway": "traffic_signals",
+        "@timestamp": "2014-05-15T00:39:42Z",
+        "@version": "6",
+        "@changeset": "22344408",
+        "@user": "vanessalaro",
+        "@uid": "1806395"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0725509,
+          4.6509669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/263368760",
+      "properties": {
+        "@id": "node/263368760",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-20T19:47:03Z",
+        "@version": "4",
+        "@changeset": "36072229",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0740751,
+          4.6473588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/263369361",
+      "properties": {
+        "@id": "node/263369361",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-20T19:47:04Z",
+        "@version": "9",
+        "@changeset": "36072229",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0738694,
+          4.6470507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/263369364",
+      "properties": {
+        "@id": "node/263369364",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-05T21:50:00Z",
+        "@version": "9",
+        "@changeset": "35776926",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0733878,
+          4.6454282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/263369366",
+      "properties": {
+        "@id": "node/263369366",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-11-22T01:56:51Z",
+        "@version": "7",
+        "@changeset": "35500405",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0734086,
+          4.6453318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/263544128",
+      "properties": {
+        "@id": "node/263544128",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-03T04:50:37Z",
+        "@version": "5",
+        "@changeset": "35719360",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0743241,
+          4.6397572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/263732247",
+      "properties": {
+        "@id": "node/263732247",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-03T04:50:38Z",
+        "@version": "9",
+        "@changeset": "35719360",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0741673,
+          4.6407349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/263732401",
+      "properties": {
+        "@id": "node/263732401",
+        "highway": "traffic_signals",
+        "@timestamp": "2014-05-15T21:31:57Z",
+        "@version": "4",
+        "@changeset": "22361258",
+        "@user": "vanessalaro",
+        "@uid": "1806395"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0733715,
+          4.63662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/263777020",
+      "properties": {
+        "@id": "node/263777020",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-06T03:51:53Z",
+        "@version": "7",
+        "@changeset": "35779973",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0719738,
+          4.6332429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/263777027",
+      "properties": {
+        "@id": "node/263777027",
+        "highway": "traffic_signals",
+        "@timestamp": "2014-05-16T22:32:53Z",
+        "@version": "7",
+        "@changeset": "22380487",
+        "@user": "vanessalaro",
+        "@uid": "1806395"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0723115,
+          4.631404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/263777030",
+      "properties": {
+        "@id": "node/263777030",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-20T19:16:26Z",
+        "@version": "7",
+        "@changeset": "36071728",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0723647,
+          4.6311588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/263777034",
+      "properties": {
+        "@id": "node/263777034",
+        "highway": "traffic_signals",
+        "@timestamp": "2014-05-16T22:32:52Z",
+        "@version": "3",
+        "@changeset": "22380487",
+        "@user": "vanessalaro",
+        "@uid": "1806395"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0725709,
+          4.630009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/263777119",
+      "properties": {
+        "@id": "node/263777119",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-20T19:16:26Z",
+        "@version": "8",
+        "@changeset": "36071728",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0718815,
+          4.6332307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/263777137",
+      "properties": {
+        "@id": "node/263777137",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-20T19:16:26Z",
+        "@version": "7",
+        "@changeset": "36071728",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0736844,
+          4.6237407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/263777141",
+      "properties": {
+        "@id": "node/263777141",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-12T14:43:14Z",
+        "@version": "8",
+        "@changeset": "35910101",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0737061,
+          4.6236672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/263777145",
+      "properties": {
+        "@id": "node/263777145",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-11-30T03:51:55Z",
+        "@version": "4",
+        "@changeset": "35658793",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0742769,
+          4.6203946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/263777186",
+      "properties": {
+        "@id": "node/263777186",
+        "bus": "yes",
+        "name": "Parque El Renacimiento",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "026A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-26T04:37:38Z",
+        "@version": "3",
+        "@changeset": "36169974",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0778514,
+          4.6187064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/263777190",
+      "properties": {
+        "@id": "node/263777190",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-12T18:08:53Z",
+        "@version": "5",
+        "@changeset": "35913638",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0759299,
+          4.619647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/263777194",
+      "properties": {
+        "@id": "node/263777194",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-11-30T03:51:55Z",
+        "@version": "7",
+        "@changeset": "35658793",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0756925,
+          4.6198189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/263777201",
+      "properties": {
+        "@id": "node/263777201",
+        "bus": "yes",
+        "name": "Estación Centro Memoria",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "134A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-11-30T03:51:53Z",
+        "@version": "3",
+        "@changeset": "35658793",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0751961,
+          4.6201634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/263777205",
+      "properties": {
+        "@id": "node/263777205",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-12T18:08:53Z",
+        "@version": "7",
+        "@changeset": "35913638",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0749626,
+          4.6202517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/263777210",
+      "properties": {
+        "@id": "node/263777210",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-11-30T03:51:55Z",
+        "@version": "4",
+        "@changeset": "35658793",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0748597,
+          4.6202625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/264154382",
+      "properties": {
+        "@id": "node/264154382",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-06T02:55:03Z",
+        "@version": "8",
+        "@changeset": "35779640",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.073934,
+          4.6336021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/264377531",
+      "properties": {
+        "@id": "node/264377531",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-26T05:25:11Z",
+        "@version": "10",
+        "@changeset": "36170259",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0754153,
+          4.613778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/264377533",
+      "properties": {
+        "@id": "node/264377533",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-01-20T16:35:13Z",
+        "@version": "5",
+        "@changeset": "36704742",
+        "@user": "Lore_trujillo",
+        "@uid": "1335396"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0782977,
+          4.6184487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/264377534",
+      "properties": {
+        "@id": "node/264377534",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-26T04:37:39Z",
+        "@version": "4",
+        "@changeset": "36169974",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0783195,
+          4.6183631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/264377542",
+      "properties": {
+        "@id": "node/264377542",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-16T03:49:39Z",
+        "@version": "28",
+        "@changeset": "35979765",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0741451,
+          4.6125206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/264377543",
+      "properties": {
+        "@id": "node/264377543",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-16T03:49:39Z",
+        "@version": "38",
+        "@changeset": "35979765",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0743164,
+          4.6126727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/265296291",
+      "properties": {
+        "@id": "node/265296291",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-26T05:25:11Z",
+        "@version": "3",
+        "@changeset": "36170259",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0754058,
+          4.6138841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/265804306",
+      "properties": {
+        "@id": "node/265804306",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-21T05:59:43Z",
+        "@version": "8",
+        "@changeset": "36078167",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0708954,
+          4.6103842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/268153040",
+      "properties": {
+        "@id": "node/268153040",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-07T02:56:09Z",
+        "@version": "27",
+        "@changeset": "35798384",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0634916,
+          4.6688951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/268153041",
+      "properties": {
+        "@id": "node/268153041",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-05T23:23:51Z",
+        "@version": "42",
+        "@changeset": "35778028",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0671919,
+          4.6630139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/268153047",
+      "properties": {
+        "@id": "node/268153047",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-11-22T05:32:33Z",
+        "@version": "45",
+        "@changeset": "35502301",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0660807,
+          4.6648177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/268153061",
+      "properties": {
+        "@id": "node/268153061",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-05T23:23:51Z",
+        "@version": "45",
+        "@changeset": "35778028",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0671296,
+          4.6630981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/764894169",
+      "properties": {
+        "@id": "node/764894169",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-26T16:55:12Z",
+        "@version": "4",
+        "@changeset": "36180231",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0701949,
+          4.6100006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/903701497",
+      "properties": {
+        "@id": "node/903701497",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-17T04:48:16Z",
+        "@version": "5",
+        "@changeset": "36002231",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0717287,
+          4.6555111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1972619434",
+      "properties": {
+        "@id": "node/1972619434",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-06T03:51:52Z",
+        "@version": "3",
+        "@changeset": "35779973",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0726525,
+          4.6333696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2111540066",
+      "properties": {
+        "@id": "node/2111540066",
+        "bus": "yes",
+        "name": "Las Nieves",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-26T17:13:24Z",
+        "@version": "3",
+        "@changeset": "36180607",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0699483,
+          4.6049949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3825995934",
+      "properties": {
+        "@id": "node/3825995934",
+        "bus": "yes",
+        "name": "Galerías",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "188A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-11-09T05:52:56Z",
+        "@version": "1",
+        "@changeset": "35184037",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0740357,
+          4.6438557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3830199570",
+      "properties": {
+        "@id": "node/3830199570",
+        "bus": "yes",
+        "name": "CAI Alcazares",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "393A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-11-11T04:13:56Z",
+        "@version": "1",
+        "@changeset": "35231573",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0678732,
+          4.6619276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3850640857",
+      "properties": {
+        "@id": "node/3850640857",
+        "bus": "yes",
+        "name": "El Campín",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "170A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-11-22T01:56:29Z",
+        "@version": "1",
+        "@changeset": "35500405",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0729431,
+          4.6492042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3850640858",
+      "properties": {
+        "@id": "node/3850640858",
+        "bus": "yes",
+        "name": "Los Alcazares",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "336A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-11-22T01:56:29Z",
+        "@version": "1",
+        "@changeset": "35500405",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0692351,
+          4.6597526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3850640859",
+      "properties": {
+        "@id": "node/3850640859",
+        "bus": "yes",
+        "name": "Quinta Mutis",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "339A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-11-22T01:56:30Z",
+        "@version": "1",
+        "@changeset": "35500405",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0723016,
+          4.6523096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3850640860",
+      "properties": {
+        "@id": "node/3850640860",
+        "bus": "yes",
+        "name": "Quinta Mutis",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "337A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-11-22T01:56:30Z",
+        "@version": "1",
+        "@changeset": "35500405",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0719352,
+          4.6545452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3850640862",
+      "properties": {
+        "@id": "node/3850640862",
+        "bus": "yes",
+        "name": "San Luis",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "186A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-05T21:49:58Z",
+        "@version": "2",
+        "@changeset": "35776926",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0734569,
+          4.6451204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3850640863",
+      "properties": {
+        "@id": "node/3850640863",
+        "bus": "yes",
+        "name": "San Luis",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "187A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-11-22T01:56:30Z",
+        "@version": "1",
+        "@changeset": "35500405",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2703296",
+            "reltags": {
+              "name": "Villa Cindy-Germania",
+              "operator": "Egobus",
+              "public_transport:version": "2",
+              "ref": "314 Germ",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0736915,
+          4.6467963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3850640864",
+      "properties": {
+        "@id": "node/3850640864",
+        "bus": "yes",
+        "name": "Siete de Agosto",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "020A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-11-22T01:56:30Z",
+        "@version": "1",
+        "@changeset": "35500405",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0703891,
+          4.6579795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3850795857",
+      "properties": {
+        "@id": "node/3850795857",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Alcázares norte",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "335A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-11-22T05:32:26Z",
+        "@version": "1",
+        "@changeset": "35502301",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0667189,
+          4.663768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3850795870",
+      "properties": {
+        "@id": "node/3850795870",
+        "bus": "yes",
+        "name": "Juan XXIII",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "331A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-11-22T05:32:28Z",
+        "@version": "1",
+        "@changeset": "35502301",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0642531,
+          4.6676514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3850795871",
+      "properties": {
+        "@id": "node/3850795871",
+        "bus": "yes",
+        "name": "La Aurora",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "332A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-11-22T05:32:28Z",
+        "@version": "1",
+        "@changeset": "35502301",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0656406,
+          4.665496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3874198296",
+      "properties": {
+        "@id": "node/3874198296",
+        "bus": "yes",
+        "name": "Palermo Avenida Carrera 45",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "025A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-03T04:50:24Z",
+        "@version": "1",
+        "@changeset": "35719360",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0751406,
+          4.6350811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3879214129",
+      "properties": {
+        "@id": "node/3879214129",
+        "bus": "yes",
+        "name": "Santa Teresita",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "085A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-06T03:51:42Z",
+        "@version": "1",
+        "@changeset": "35779973",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0723982,
+          4.6333241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3901909836",
+      "properties": {
+        "@id": "node/3901909836",
+        "bus": "yes",
+        "name": "Colegio Americano de Bogotá",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "524A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-20T18:18:20Z",
+        "@version": "1",
+        "@changeset": "36070549",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0737907,
+          4.6344405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3902481040",
+      "properties": {
+        "@id": "node/3902481040",
+        "bus": "yes",
+        "name": "Estacion San Diego",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-21T04:52:03Z",
+        "@version": "1",
+        "@changeset": "36077624",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0712164,
+          4.6105887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3905815363",
+      "properties": {
+        "@id": "node/3905815363",
+        "bus": "yes",
+        "name": "La Castellana",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "142A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-23T02:32:53Z",
+        "@version": "1",
+        "@changeset": "36117390",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0728491,
+          4.628494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3905816767",
+      "properties": {
+        "@id": "node/3905816767",
+        "bus": "yes",
+        "name": "La Soledad",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "141A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-23T02:38:59Z",
+        "@version": "1",
+        "@changeset": "36117428",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0734701,
+          4.6249263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3905816768",
+      "properties": {
+        "@id": "node/3905816768",
+        "bus": "yes",
+        "name": "ParkWay",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "621A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-23T02:39:00Z",
+        "@version": "1",
+        "@changeset": "36117428",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.073567,
+          4.6244235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3907618357",
+      "properties": {
+        "@id": "node/3907618357",
+        "bus": "yes",
+        "name": "Santa Teresita",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "144A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-24T05:20:28Z",
+        "@version": "1",
+        "@changeset": "36138875",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0721814,
+          4.632111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3911003605",
+      "properties": {
+        "@id": "node/3911003605",
+        "bus": "yes",
+        "name": "Centro Comercial Terraza Pasteur",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-26T16:55:06Z",
+        "@version": "1",
+        "@changeset": "36180231",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0698646,
+          4.609801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3911003608",
+      "properties": {
+        "@id": "node/3911003608",
+        "bus": "yes",
+        "name": "SITP",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-26T16:55:06Z",
+        "@version": "1",
+        "@changeset": "36180231",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0690798,
+          4.6093316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3911018037",
+      "properties": {
+        "@id": "node/3911018037",
+        "bus": "yes",
+        "name": "Universidad Pedagógica Nacional",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-26T17:05:37Z",
+        "@version": "1",
+        "@changeset": "36180462",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0687211,
+          4.6078808
+        ]
+      }
+    }
+  ]
+}

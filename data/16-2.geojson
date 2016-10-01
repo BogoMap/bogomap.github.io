@@ -1,0 +1,223 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-10-01T20:17:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/239074774",
+      "properties": {
+        "@id": "way/239074774",
+        "amenity": "bus_station",
+        "building": "yes",
+        "name": "Portal El Dorado",
+        "operator": "Transmilenio",
+        "ref": "Portal ElDorado",
+        "@timestamp": "2015-06-21T13:32:04Z",
+        "@version": "11",
+        "@changeset": "32117150",
+        "@user": "dbusse",
+        "@uid": "149876",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4841862",
+            "reltags": {
+              "colour": "green",
+              "name": "16-2 Engativa Centro",
+              "operator": "Transmilenio",
+              "ref": "16-2",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.1221684,
+              4.6824833
+            ],
+            [
+              -74.1207861,
+              4.6806475
+            ],
+            [
+              -74.1206478,
+              4.6807509
+            ],
+            [
+              -74.1205736,
+              4.6808075
+            ],
+            [
+              -74.121974,
+              4.6826309
+            ],
+            [
+              -74.1219984,
+              4.6826123
+            ],
+            [
+              -74.1221021,
+              4.6825329
+            ],
+            [
+              -74.1221684,
+              4.6824833
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/91334597",
+      "properties": {
+        "@id": "way/91334597",
+        "highway": "primary",
+        "mechanical": "yes",
+        "name": "Calle 26 - Avenida El Dorado",
+        "oneway": "yes",
+        "@timestamp": "2013-12-18T15:17:08Z",
+        "@version": "3",
+        "@changeset": "19516842",
+        "@user": "Moovit Team",
+        "@uid": "1190212",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4841862",
+            "reltags": {
+              "colour": "green",
+              "name": "16-2 Engativa Centro",
+              "operator": "Transmilenio",
+              "ref": "16-2",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1230105,
+            4.68396
+          ],
+          [
+            -74.1236799,
+            4.6844578
+          ],
+          [
+            -74.1237566,
+            4.6845148
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/234902298",
+      "properties": {
+        "@id": "way/234902298",
+        "access": "no",
+        "highway": "service",
+        "oneway": "yes",
+        "@timestamp": "2013-08-24T19:59:22Z",
+        "@version": "2",
+        "@changeset": "17489805",
+        "@user": "JeanPaulPG",
+        "@uid": "220028",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4841862",
+            "reltags": {
+              "colour": "green",
+              "name": "16-2 Engativa Centro",
+              "operator": "Transmilenio",
+              "ref": "16-2",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1202434,
+            4.6805017
+          ],
+          [
+            -74.1204952,
+            4.6808635
+          ],
+          [
+            -74.1218671,
+            4.682696
+          ],
+          [
+            -74.1223471,
+            4.6833457
+          ],
+          [
+            -74.1230105,
+            4.68396
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2408429827",
+      "properties": {
+        "@id": "node/2408429827",
+        "amenity": "bus_station",
+        "local_ref": "K",
+        "name": "Portal ElDorado",
+        "@timestamp": "2015-01-09T15:20:01Z",
+        "@version": "4",
+        "@changeset": "28021251",
+        "@user": "JeanPaulPG",
+        "@uid": "220028"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1206478,
+          4.6807509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2475285644",
+      "properties": {
+        "@id": "node/2475285644",
+        "amenity": "bus_station",
+        "local_ref": "K",
+        "name": "Portal ElDorado",
+        "@timestamp": "2015-01-09T15:20:01Z",
+        "@version": "3",
+        "@changeset": "28021251",
+        "@user": "JeanPaulPG",
+        "@uid": "220028"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1221021,
+          4.6825329
+        ]
+      }
+    }
+  ]
+}

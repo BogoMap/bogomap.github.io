@@ -1,0 +1,8186 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-10-01T20:22:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/24062733",
+      "properties": {
+        "@id": "way/24062733",
+        "bridge": "yes",
+        "highway": "trunk",
+        "lanes": "3",
+        "layer": "1",
+        "name": "Avenida Boyacá",
+        "oneway": "yes",
+        "@timestamp": "2012-07-19T22:07:09Z",
+        "@version": "8",
+        "@changeset": "12349868",
+        "@user": "OSMF Redaction Account",
+        "@uid": "722137",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1383991,
+            4.5675582
+          ],
+          [
+            -74.1383843,
+            4.5669483
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24062735",
+      "properties": {
+        "@id": "way/24062735",
+        "highway": "trunk",
+        "lanes": "3",
+        "name": "Avenida Boyacá",
+        "oneway": "yes",
+        "@timestamp": "2012-09-18T12:51:41Z",
+        "@version": "20",
+        "@changeset": "13155935",
+        "@user": "dmezza",
+        "@uid": "567339",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1383843,
+            4.5669483
+          ],
+          [
+            -74.1384535,
+            4.5659689
+          ],
+          [
+            -74.1384998,
+            4.5653135
+          ],
+          [
+            -74.1387794,
+            4.5640822
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24191090",
+      "properties": {
+        "@id": "way/24191090",
+        "highway": "secondary",
+        "oneway": "yes",
+        "@timestamp": "2012-08-26T14:11:12Z",
+        "@version": "20",
+        "@changeset": "12866902",
+        "@user": "harrierco",
+        "@uid": "222199",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1039009,
+            4.59437
+          ],
+          [
+            -74.1040376,
+            4.5941149
+          ],
+          [
+            -74.104298,
+            4.5938514
+          ],
+          [
+            -74.1046768,
+            4.5934679
+          ],
+          [
+            -74.1053671,
+            4.5928112
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24535653",
+      "properties": {
+        "@id": "way/24535653",
+        "alt_name": "Avenida General Santander",
+        "highway": "tertiary",
+        "mechanical": "yes",
+        "name": "Avenida Carrera 27",
+        "oneway": "yes",
+        "@timestamp": "2015-11-30T00:23:14Z",
+        "@version": "22",
+        "@changeset": "35657574",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0952698,
+            4.604699
+          ],
+          [
+            -74.095474,
+            4.6044541
+          ],
+          [
+            -74.0954873,
+            4.6043983
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28025109",
+      "properties": {
+        "@id": "way/28025109",
+        "highway": "trunk",
+        "lanes": "2",
+        "layer": "0",
+        "name": "Avenida Boyacá",
+        "oneway": "yes",
+        "@timestamp": "2016-03-14T20:25:54Z",
+        "@version": "13",
+        "@changeset": "37829307",
+        "@user": "Nodes&Roads",
+        "@uid": "3642735",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1069571,
+            4.5065747
+          ],
+          [
+            -74.1059725,
+            4.5065538
+          ],
+          [
+            -74.1055912,
+            4.5065497
+          ],
+          [
+            -74.1052141,
+            4.5064578
+          ],
+          [
+            -74.104925,
+            4.5063116
+          ],
+          [
+            -74.104682,
+            4.5061027
+          ],
+          [
+            -74.1044725,
+            4.5057894
+          ],
+          [
+            -74.1043594,
+            4.5055472
+          ],
+          [
+            -74.1042746,
+            4.505173
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28412464",
+      "properties": {
+        "@id": "way/28412464",
+        "highway": "tertiary",
+        "lanes": "3",
+        "name": "Calle 91 S",
+        "surface": "concrete",
+        "@timestamp": "2015-03-19T03:20:17Z",
+        "@version": "16",
+        "@changeset": "29583773",
+        "@user": "Miller Castillo",
+        "@uid": "1738772",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.114321,
+            4.506035
+          ],
+          [
+            -74.1135938,
+            4.5057598
+          ],
+          [
+            -74.1132296,
+            4.5056159
+          ],
+          [
+            -74.1131389,
+            4.5055801
+          ],
+          [
+            -74.1129652,
+            4.5054038
+          ],
+          [
+            -74.1128103,
+            4.5052467
+          ],
+          [
+            -74.1126497,
+            4.5050838
+          ],
+          [
+            -74.1126113,
+            4.5050428
+          ],
+          [
+            -74.1125976,
+            4.5050282
+          ],
+          [
+            -74.1124021,
+            4.5048194
+          ],
+          [
+            -74.1122163,
+            4.504621
+          ],
+          [
+            -74.112169,
+            4.5045704
+          ],
+          [
+            -74.1120208,
+            4.5044334
+          ],
+          [
+            -74.111824,
+            4.5042514
+          ],
+          [
+            -74.1115768,
+            4.5040228
+          ],
+          [
+            -74.1113348,
+            4.5038204
+          ],
+          [
+            -74.1111335,
+            4.5036521
+          ],
+          [
+            -74.1111066,
+            4.5036297
+          ],
+          [
+            -74.1110447,
+            4.5035779
+          ],
+          [
+            -74.1109583,
+            4.5034965
+          ],
+          [
+            -74.1107569,
+            4.5033069
+          ],
+          [
+            -74.1107357,
+            4.5032869
+          ],
+          [
+            -74.1105686,
+            4.5030732
+          ],
+          [
+            -74.11052,
+            4.5030111
+          ],
+          [
+            -74.1103707,
+            4.5028201
+          ],
+          [
+            -74.1103409,
+            4.5027821
+          ],
+          [
+            -74.1102106,
+            4.5025955
+          ],
+          [
+            -74.1102035,
+            4.5025853
+          ],
+          [
+            -74.1100799,
+            4.5023197
+          ],
+          [
+            -74.1099804,
+            4.5021061
+          ],
+          [
+            -74.109946,
+            4.502027
+          ],
+          [
+            -74.109872,
+            4.501874
+          ],
+          [
+            -74.109792,
+            4.501725
+          ],
+          [
+            -74.109706,
+            4.501578
+          ],
+          [
+            -74.109615,
+            4.501435
+          ],
+          [
+            -74.109561,
+            4.5013568
+          ],
+          [
+            -74.1095316,
+            4.5013143
+          ],
+          [
+            -74.109519,
+            4.501296
+          ],
+          [
+            -74.109418,
+            4.50116
+          ],
+          [
+            -74.109311,
+            4.501028
+          ],
+          [
+            -74.109025,
+            4.5006006
+          ],
+          [
+            -74.1089847,
+            4.5005403
+          ],
+          [
+            -74.1088801,
+            4.5003568
+          ],
+          [
+            -74.1087701,
+            4.5001638
+          ],
+          [
+            -74.1085592,
+            4.4997867
+          ],
+          [
+            -74.1085212,
+            4.4997188
+          ],
+          [
+            -74.1083667,
+            4.4995306
+          ],
+          [
+            -74.1083504,
+            4.499514
+          ],
+          [
+            -74.1081436,
+            4.4993252
+          ],
+          [
+            -74.1081194,
+            4.4992935
+          ],
+          [
+            -74.1079427,
+            4.499062
+          ],
+          [
+            -74.1078432,
+            4.4989316
+          ],
+          [
+            -74.1077467,
+            4.4988114
+          ],
+          [
+            -74.1075554,
+            4.4985731
+          ],
+          [
+            -74.1075073,
+            4.4985132
+          ],
+          [
+            -74.1074998,
+            4.4985038
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42781952",
+      "properties": {
+        "@id": "way/42781952",
+        "bridge": "yes",
+        "highway": "trunk",
+        "lanes": "3",
+        "layer": "1",
+        "oneway": "yes",
+        "@timestamp": "2014-05-28T16:35:54Z",
+        "@version": "6",
+        "@changeset": "22603850",
+        "@user": "cris_1994",
+        "@uid": "927170",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1387794,
+            4.5640822
+          ],
+          [
+            -74.1389012,
+            4.563379
+          ],
+          [
+            -74.138933,
+            4.5631953
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/88861010",
+      "properties": {
+        "@id": "way/88861010",
+        "alt_name": "Avenida Ciudad de Lima",
+        "highway": "secondary",
+        "name": "Avenida Calle 19",
+        "oneway": "yes",
+        "@timestamp": "2016-07-20T21:34:47Z",
+        "@version": "6",
+        "@changeset": "40906844",
+        "@user": "Isabella G",
+        "@uid": "4109208",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0715429,
+            4.6053487
+          ],
+          [
+            -74.0715962,
+            4.605395
+          ],
+          [
+            -74.0719235,
+            4.6056045
+          ],
+          [
+            -74.0722257,
+            4.605798
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/88880173",
+      "properties": {
+        "@id": "way/88880173",
+        "alt_name": "Avenida Ciudad de Lima",
+        "highway": "secondary",
+        "name": "Avenida Calle 19",
+        "oneway": "yes",
+        "@timestamp": "2015-12-06T01:35:28Z",
+        "@version": "5",
+        "@changeset": "35779161",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0737339,
+            4.6068332
+          ],
+          [
+            -74.0737911,
+            4.606874
+          ],
+          [
+            -74.0738507,
+            4.6069223
+          ],
+          [
+            -74.0738945,
+            4.6069666
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/88880178",
+      "properties": {
+        "@id": "way/88880178",
+        "alt_name": "Avenida Ciudad de Lima",
+        "highway": "secondary",
+        "name": "Avenida Calle 19",
+        "oneway": "yes",
+        "@timestamp": "2015-12-06T01:35:27Z",
+        "@version": "6",
+        "@changeset": "35779161",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0738945,
+            4.6069666
+          ],
+          [
+            -74.0744147,
+            4.6073775
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/88880195",
+      "properties": {
+        "@id": "way/88880195",
+        "highway": "secondary",
+        "name": "Avenida Calle 19; Avenida Ciudad de Lima",
+        "oneway": "yes",
+        "@timestamp": "2015-09-05T17:03:46Z",
+        "@version": "3",
+        "@changeset": "33818256",
+        "@user": "carciofo",
+        "@uid": "2533093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0761272,
+            4.6086957
+          ],
+          [
+            -74.0761768,
+            4.6087372
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/88880200",
+      "properties": {
+        "@id": "way/88880200",
+        "alt_name": "Avenida Ciudad de Lima",
+        "highway": "secondary",
+        "name": "Avenida Calle 19",
+        "oneway": "yes",
+        "@timestamp": "2015-12-06T01:35:26Z",
+        "@version": "3",
+        "@changeset": "35779161",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0752701,
+            4.6080398
+          ],
+          [
+            -74.0757622,
+            4.6084185
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/88880205",
+      "properties": {
+        "@id": "way/88880205",
+        "alt_name": "Avenida Ciudad de Lima",
+        "highway": "secondary",
+        "name": "Avenida Calle 19",
+        "oneway": "yes",
+        "@timestamp": "2015-12-06T01:35:27Z",
+        "@version": "3",
+        "@changeset": "35779161",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0744147,
+            4.6073775
+          ],
+          [
+            -74.0748852,
+            4.6077418
+          ],
+          [
+            -74.0752701,
+            4.6080398
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/88880208",
+      "properties": {
+        "@id": "way/88880208",
+        "alt_name": "Avenida Ciudad de Lima",
+        "highway": "secondary",
+        "name": "Avenida Calle 19",
+        "oneway": "yes",
+        "@timestamp": "2015-12-06T01:35:26Z",
+        "@version": "3",
+        "@changeset": "35779161",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0757622,
+            4.6084185
+          ],
+          [
+            -74.0761272,
+            4.6086957
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/88893426",
+      "properties": {
+        "@id": "way/88893426",
+        "alt_name": "Avenida Ciudad de Lima",
+        "highway": "secondary",
+        "name": "Avenida Calle 19",
+        "oneway": "yes",
+        "@timestamp": "2015-12-06T01:35:28Z",
+        "@version": "4",
+        "@changeset": "35779161",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0722257,
+            4.605798
+          ],
+          [
+            -74.0726917,
+            4.6061029
+          ],
+          [
+            -74.0730976,
+            4.6063684
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/88893435",
+      "properties": {
+        "@id": "way/88893435",
+        "alt_name": "Avenida Ciudad de Lima",
+        "highway": "secondary",
+        "name": "Avenida Calle 19",
+        "oneway": "yes",
+        "@timestamp": "2015-12-06T01:35:28Z",
+        "@version": "4",
+        "@changeset": "35779161",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0730976,
+            4.6063684
+          ],
+          [
+            -74.0733285,
+            4.6065435
+          ],
+          [
+            -74.0736755,
+            4.606791
+          ],
+          [
+            -74.0737339,
+            4.6068332
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89578889",
+      "properties": {
+        "@id": "way/89578889",
+        "alt_name": "Avenida Ciudad de Lima",
+        "highway": "secondary",
+        "name": "Avenida Calle 19",
+        "oneway": "yes",
+        "@timestamp": "2016-03-14T01:10:42Z",
+        "@version": "5",
+        "@changeset": "37810863",
+        "@user": "gatmood",
+        "@uid": "599974",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0807085,
+            4.612017
+          ],
+          [
+            -74.0807566,
+            4.6120575
+          ],
+          [
+            -74.0815267,
+            4.6127067
+          ],
+          [
+            -74.0818859,
+            4.6130056
+          ],
+          [
+            -74.0829729,
+            4.6138938
+          ],
+          [
+            -74.0835689,
+            4.6143983
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89578894",
+      "properties": {
+        "@id": "way/89578894",
+        "highway": "secondary",
+        "name": "Avenida Calle 19; Avenida Ciudad de Lima",
+        "oneway": "yes",
+        "@timestamp": "2015-09-05T17:03:48Z",
+        "@version": "2",
+        "@changeset": "33818256",
+        "@user": "carciofo",
+        "@uid": "2533093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0806286,
+            4.6119452
+          ],
+          [
+            -74.0807085,
+            4.612017
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89578898",
+      "properties": {
+        "@id": "way/89578898",
+        "highway": "secondary",
+        "name": "Avenida Calle 19; Avenida Ciudad de Lima",
+        "oneway": "yes",
+        "@timestamp": "2015-09-05T17:03:49Z",
+        "@version": "2",
+        "@changeset": "33818256",
+        "@user": "carciofo",
+        "@uid": "2533093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.076303,
+            4.6088441
+          ],
+          [
+            -74.0770358,
+            4.6093371
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89578900",
+      "properties": {
+        "@id": "way/89578900",
+        "alt_name": "Avenida Ciudad de Lima",
+        "highway": "secondary",
+        "name": "Avenida Calle 19",
+        "oneway": "yes",
+        "@timestamp": "2015-12-06T01:57:10Z",
+        "@version": "3",
+        "@changeset": "35779316",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.079009,
+            4.6107149
+          ],
+          [
+            -74.079451,
+            4.6110183
+          ],
+          [
+            -74.0797359,
+            4.6112139
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89578922",
+      "properties": {
+        "@id": "way/89578922",
+        "alt_name": "Avenida Ciudad de Lima",
+        "highway": "secondary",
+        "name": "Avenida Calle 19",
+        "oneway": "yes",
+        "@timestamp": "2015-12-06T01:57:10Z",
+        "@version": "3",
+        "@changeset": "35779316",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0797359,
+            4.6112139
+          ],
+          [
+            -74.0799137,
+            4.6113577
+          ],
+          [
+            -74.080417,
+            4.6117645
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89578931",
+      "properties": {
+        "@id": "way/89578931",
+        "highway": "secondary",
+        "name": "Avenida Calle 19; Avenida Ciudad de Lima",
+        "oneway": "yes",
+        "@timestamp": "2015-09-05T17:03:49Z",
+        "@version": "2",
+        "@changeset": "33818256",
+        "@user": "carciofo",
+        "@uid": "2533093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0761768,
+            4.6087372
+          ],
+          [
+            -74.07624,
+            4.6087936
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89578933",
+      "properties": {
+        "@id": "way/89578933",
+        "highway": "secondary",
+        "name": "Avenida Calle 19; Avenida Ciudad de Lima",
+        "oneway": "yes",
+        "@timestamp": "2015-09-05T17:03:49Z",
+        "@version": "2",
+        "@changeset": "33818256",
+        "@user": "carciofo",
+        "@uid": "2533093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.080417,
+            4.6117645
+          ],
+          [
+            -74.0806286,
+            4.6119452
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89578934",
+      "properties": {
+        "@id": "way/89578934",
+        "alt_name": "Avenida Ciudad de Lima",
+        "highway": "secondary",
+        "name": "Avenida Calle 19",
+        "oneway": "yes",
+        "@timestamp": "2015-12-06T01:57:10Z",
+        "@version": "3",
+        "@changeset": "35779316",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0775835,
+            4.6097354
+          ],
+          [
+            -74.0786133,
+            4.610431
+          ],
+          [
+            -74.079009,
+            4.6107149
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89578935",
+      "properties": {
+        "@id": "way/89578935",
+        "alt_name": "Avenida Ciudad de Lima",
+        "highway": "secondary",
+        "name": "Avenida Calle 19",
+        "oneway": "yes",
+        "@timestamp": "2015-12-06T01:57:10Z",
+        "@version": "3",
+        "@changeset": "35779316",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0770358,
+            4.6093371
+          ],
+          [
+            -74.0775835,
+            4.6097354
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89580909",
+      "properties": {
+        "@id": "way/89580909",
+        "highway": "tertiary",
+        "name": "Carrera 22",
+        "oneway": "yes",
+        "@timestamp": "2012-08-19T14:35:06Z",
+        "@version": "2",
+        "@changeset": "12784306",
+        "@user": "harrierco",
+        "@uid": "222199",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.083656,
+            4.6144719
+          ],
+          [
+            -74.0837614,
+            4.6143454
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89580911",
+      "properties": {
+        "@id": "way/89580911",
+        "highway": "tertiary",
+        "name": "Calle 15",
+        "@timestamp": "2010-12-14T16:57:03Z",
+        "@version": "1",
+        "@changeset": "6659651",
+        "@user": "dmartinh",
+        "@uid": "314700",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.088403,
+            4.6129201
+          ],
+          [
+            -74.088539,
+            4.61304
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89580926",
+      "properties": {
+        "@id": "way/89580926",
+        "highway": "tertiary",
+        "name": "Transversal 22",
+        "oneway": "yes",
+        "@timestamp": "2010-12-14T16:57:04Z",
+        "@version": "1",
+        "@changeset": "6659651",
+        "@user": "dmartinh",
+        "@uid": "314700",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0851438,
+            4.6123842
+          ],
+          [
+            -74.0851962,
+            4.6123015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89580948",
+      "properties": {
+        "@id": "way/89580948",
+        "highway": "tertiary",
+        "name": "Calle 15",
+        "@timestamp": "2010-12-14T16:57:06Z",
+        "@version": "1",
+        "@changeset": "6659651",
+        "@user": "dmartinh",
+        "@uid": "314700",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0871908,
+            4.6119487
+          ],
+          [
+            -74.088403,
+            4.6129201
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89580968",
+      "properties": {
+        "@id": "way/89580968",
+        "highway": "tertiary",
+        "name": "Calle 15",
+        "@timestamp": "2010-12-14T16:57:08Z",
+        "@version": "1",
+        "@changeset": "6659651",
+        "@user": "dmartinh",
+        "@uid": "314700",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0860116,
+            4.6109525
+          ],
+          [
+            -74.0871908,
+            4.6119487
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89580984",
+      "properties": {
+        "@id": "way/89580984",
+        "highway": "tertiary",
+        "name": "Avenida Carrera 27",
+        "oneway": "yes",
+        "@timestamp": "2015-12-26T18:26:26Z",
+        "@version": "3",
+        "@changeset": "36182120",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.088539,
+            4.61304
+          ],
+          [
+            -74.0890056,
+            4.6124699
+          ],
+          [
+            -74.0892904,
+            4.612122
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89580997",
+      "properties": {
+        "@id": "way/89580997",
+        "highway": "tertiary",
+        "name": "Carrera 22",
+        "oneway": "yes",
+        "@timestamp": "2015-12-26T18:26:27Z",
+        "@version": "3",
+        "@changeset": "36182120",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.084548,
+            4.6133602
+          ],
+          [
+            -74.0848236,
+            4.6129861
+          ],
+          [
+            -74.0848594,
+            4.6129276
+          ],
+          [
+            -74.0851438,
+            4.6123842
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89581032",
+      "properties": {
+        "@id": "way/89581032",
+        "highway": "tertiary",
+        "name": "Transversal 22",
+        "oneway": "yes",
+        "@timestamp": "2010-12-14T16:57:17Z",
+        "@version": "1",
+        "@changeset": "6659651",
+        "@user": "dmartinh",
+        "@uid": "314700",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0851962,
+            4.6123015
+          ],
+          [
+            -74.0854705,
+            4.611742
+          ],
+          [
+            -74.0858036,
+            4.6111725
+          ],
+          [
+            -74.0860116,
+            4.6109525
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89581076",
+      "properties": {
+        "@id": "way/89581076",
+        "highway": "tertiary",
+        "name": "Carrera 22",
+        "oneway": "yes",
+        "@timestamp": "2015-12-26T18:26:27Z",
+        "@version": "3",
+        "@changeset": "36182120",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0837614,
+            4.6143454
+          ],
+          [
+            -74.0840636,
+            4.61397
+          ],
+          [
+            -74.0842464,
+            4.6137421
+          ],
+          [
+            -74.0844457,
+            4.6134915
+          ],
+          [
+            -74.084548,
+            4.6133602
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89581168",
+      "properties": {
+        "@id": "way/89581168",
+        "highway": "secondary",
+        "name": "Avenida Calle 19; Avenida Ciudad de Lima",
+        "oneway": "yes",
+        "@timestamp": "2015-09-05T17:03:48Z",
+        "@version": "2",
+        "@changeset": "33818256",
+        "@user": "carciofo",
+        "@uid": "2533093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0835689,
+            4.6143983
+          ],
+          [
+            -74.083656,
+            4.6144719
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89581738",
+      "properties": {
+        "@id": "way/89581738",
+        "highway": "tertiary",
+        "name": "Avenida Carrera 27",
+        "oneway": "yes",
+        "@timestamp": "2010-12-14T19:11:42Z",
+        "@version": "2",
+        "@changeset": "6661361",
+        "@user": "dmartinh",
+        "@uid": "314700",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0893648,
+            4.6119665
+          ],
+          [
+            -74.0893912,
+            4.6118862
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89581747",
+      "properties": {
+        "@id": "way/89581747",
+        "highway": "tertiary",
+        "name": "Avenida Carrera 27",
+        "oneway": "yes",
+        "@timestamp": "2010-12-14T19:11:42Z",
+        "@version": "2",
+        "@changeset": "6661361",
+        "@user": "dmartinh",
+        "@uid": "314700",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0892904,
+            4.612122
+          ],
+          [
+            -74.0893171,
+            4.6120617
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89581748",
+      "properties": {
+        "@id": "way/89581748",
+        "highway": "tertiary",
+        "name": "Avenida Carrera 27",
+        "oneway": "yes",
+        "@timestamp": "2010-12-14T17:08:36Z",
+        "@version": "1",
+        "@changeset": "6659651",
+        "@user": "dmartinh",
+        "@uid": "314700",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0893404,
+            4.6120207
+          ],
+          [
+            -74.0893648,
+            4.6119665
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89595176",
+      "properties": {
+        "@id": "way/89595176",
+        "highway": "tertiary",
+        "name": "Avenida Carrera 27",
+        "oneway": "yes",
+        "@timestamp": "2010-12-14T19:11:10Z",
+        "@version": "1",
+        "@changeset": "6661361",
+        "@user": "dmartinh",
+        "@uid": "314700",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0894447,
+            4.6118296
+          ],
+          [
+            -74.0900218,
+            4.6111932
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89595213",
+      "properties": {
+        "@id": "way/89595213",
+        "highway": "tertiary",
+        "name": "Avenida Carrera 27",
+        "oneway": "yes",
+        "@timestamp": "2010-12-14T19:11:15Z",
+        "@version": "1",
+        "@changeset": "6661361",
+        "@user": "dmartinh",
+        "@uid": "314700",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0908072,
+            4.6102686
+          ],
+          [
+            -74.0916111,
+            4.6092352
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89595248",
+      "properties": {
+        "@id": "way/89595248",
+        "highway": "tertiary",
+        "name": "Avenida Carrera 27",
+        "oneway": "yes",
+        "@timestamp": "2010-12-14T19:11:20Z",
+        "@version": "1",
+        "@changeset": "6661361",
+        "@user": "dmartinh",
+        "@uid": "314700",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0904003,
+            4.6107506
+          ],
+          [
+            -74.0908072,
+            4.6102686
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89595303",
+      "properties": {
+        "@id": "way/89595303",
+        "highway": "tertiary",
+        "name": "Avenida Carrera 27",
+        "oneway": "yes",
+        "@timestamp": "2015-12-26T18:45:30Z",
+        "@version": "3",
+        "@changeset": "36182392",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0916111,
+            4.6092352
+          ],
+          [
+            -74.0920865,
+            4.6086364
+          ],
+          [
+            -74.0921768,
+            4.6085409
+          ],
+          [
+            -74.09241,
+            4.6082423
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89595314",
+      "properties": {
+        "@id": "way/89595314",
+        "highway": "tertiary",
+        "name": "Avenida Carrera 27",
+        "oneway": "yes",
+        "@timestamp": "2010-12-14T19:11:29Z",
+        "@version": "1",
+        "@changeset": "6661361",
+        "@user": "dmartinh",
+        "@uid": "314700",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0893912,
+            4.6118862
+          ],
+          [
+            -74.0894447,
+            4.6118296
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89595322",
+      "properties": {
+        "@id": "way/89595322",
+        "highway": "tertiary",
+        "name": "Avenida Carrera 27",
+        "oneway": "yes",
+        "@timestamp": "2010-12-14T19:11:31Z",
+        "@version": "1",
+        "@changeset": "6661361",
+        "@user": "dmartinh",
+        "@uid": "314700",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0900218,
+            4.6111932
+          ],
+          [
+            -74.0904003,
+            4.6107506
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89600342",
+      "properties": {
+        "@id": "way/89600342",
+        "highway": "tertiary",
+        "name": "Avenida Carrera 27",
+        "oneway": "yes",
+        "@timestamp": "2015-12-05T23:54:59Z",
+        "@version": "4",
+        "@changeset": "35778332",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0944776,
+            4.6056408
+          ],
+          [
+            -74.0946433,
+            4.6054355
+          ],
+          [
+            -74.0949366,
+            4.6050909
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89600459",
+      "properties": {
+        "@id": "way/89600459",
+        "highway": "tertiary",
+        "name": "Avenida Carrera 27",
+        "oneway": "yes",
+        "@timestamp": "2010-12-14T19:59:59Z",
+        "@version": "1",
+        "@changeset": "6661361",
+        "@user": "dmartinh",
+        "@uid": "314700",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0937406,
+            4.6065766
+          ],
+          [
+            -74.0944776,
+            4.6056408
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89600582",
+      "properties": {
+        "@id": "way/89600582",
+        "highway": "tertiary",
+        "name": "Avenida Carrera 27",
+        "oneway": "yes",
+        "@timestamp": "2015-09-11T04:16:18Z",
+        "@version": "3",
+        "@changeset": "33947254",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0949366,
+            4.6050909
+          ],
+          [
+            -74.0952698,
+            4.604699
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89600706",
+      "properties": {
+        "@id": "way/89600706",
+        "highway": "tertiary",
+        "name": "Avenida Carrera 27",
+        "oneway": "yes",
+        "@timestamp": "2010-12-14T20:00:32Z",
+        "@version": "1",
+        "@changeset": "6661361",
+        "@user": "dmartinh",
+        "@uid": "314700",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.09241,
+            4.6082423
+          ],
+          [
+            -74.0928528,
+            4.6076817
+          ],
+          [
+            -74.093003,
+            4.6075037
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89601137",
+      "properties": {
+        "@id": "way/89601137",
+        "highway": "tertiary",
+        "name": "Avenida Carrera 27",
+        "oneway": "yes",
+        "@timestamp": "2012-07-19T21:30:14Z",
+        "@version": "2",
+        "@changeset": "12348256",
+        "@user": "OSMF Redaction Account",
+        "@uid": "722137",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.093003,
+            4.6075037
+          ],
+          [
+            -74.0937406,
+            4.6065766
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89603442",
+      "properties": {
+        "@id": "way/89603442",
+        "highway": "tertiary",
+        "mechanical": "yes",
+        "name": "Avenida General Santander;Avenida Carrera 27",
+        "oneway": "yes",
+        "@timestamp": "2015-09-11T04:16:17Z",
+        "@version": "5",
+        "@changeset": "33947254",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0965139,
+            4.6031712
+          ],
+          [
+            -74.096823,
+            4.6027635
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89603543",
+      "properties": {
+        "@id": "way/89603543",
+        "highway": "tertiary",
+        "mechanical": "yes",
+        "name": "Avenida General Santander;Avenida Carrera 27",
+        "oneway": "yes",
+        "@timestamp": "2015-09-11T04:16:16Z",
+        "@version": "6",
+        "@changeset": "33947254",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.097854,
+            4.6013864
+          ],
+          [
+            -74.0980276,
+            4.601145
+          ],
+          [
+            -74.0984553,
+            4.600623
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89603566",
+      "properties": {
+        "@id": "way/89603566",
+        "alt_name": "Avenida General Santander",
+        "highway": "tertiary",
+        "mechanical": "yes",
+        "name": "Avenida Carrera 27",
+        "oneway": "yes",
+        "@timestamp": "2015-12-05T23:51:45Z",
+        "@version": "7",
+        "@changeset": "35778309",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.096823,
+            4.6027635
+          ],
+          [
+            -74.0976155,
+            4.6017162
+          ],
+          [
+            -74.0978081,
+            4.6014616
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89612633",
+      "properties": {
+        "@id": "way/89612633",
+        "highway": "tertiary",
+        "mechanical": "yes",
+        "name": "Avenida General Santander;Avenida Carrera 27",
+        "oneway": "yes",
+        "@timestamp": "2015-04-12T18:25:01Z",
+        "@version": "4",
+        "@changeset": "30169566",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1003222,
+            4.5982783
+          ],
+          [
+            -74.1009451,
+            4.5974539
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89612698",
+      "properties": {
+        "@id": "way/89612698",
+        "highway": "tertiary",
+        "mechanical": "yes",
+        "name": "Avenida General Santander;Avenida Carrera 27",
+        "oneway": "yes",
+        "@timestamp": "2015-04-12T18:25:00Z",
+        "@version": "3",
+        "@changeset": "30169566",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0990718,
+            4.5998708
+          ],
+          [
+            -74.099158,
+            4.5997463
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89612700",
+      "properties": {
+        "@id": "way/89612700",
+        "highway": "tertiary",
+        "mechanical": "yes",
+        "name": "Avenida General Santander;Avenida Carrera 27",
+        "oneway": "yes",
+        "@timestamp": "2015-04-12T18:25:01Z",
+        "@version": "3",
+        "@changeset": "30169566",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1009451,
+            4.5974539
+          ],
+          [
+            -74.1012321,
+            4.597083
+          ],
+          [
+            -74.1015869,
+            4.5966647
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89612726",
+      "properties": {
+        "@id": "way/89612726",
+        "highway": "tertiary",
+        "mechanical": "yes",
+        "name": "Avenida General Santander;Avenida Carrera 27",
+        "oneway": "yes",
+        "@timestamp": "2015-04-12T18:25:01Z",
+        "@version": "3",
+        "@changeset": "30169566",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.102784,
+            4.5950808
+          ],
+          [
+            -74.1029397,
+            4.5949768
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89612736",
+      "properties": {
+        "@id": "way/89612736",
+        "alt_name": "Avenida General Santander",
+        "highway": "tertiary",
+        "mechanical": "yes",
+        "name": "Avenida Carrera 27",
+        "oneway": "yes",
+        "@timestamp": "2015-12-26T18:45:29Z",
+        "@version": "4",
+        "@changeset": "36182392",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.099158,
+            4.5997463
+          ],
+          [
+            -74.0995089,
+            4.5992975
+          ],
+          [
+            -74.0999943,
+            4.5986767
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89612872",
+      "properties": {
+        "@id": "way/89612872",
+        "highway": "tertiary",
+        "mechanical": "yes",
+        "name": "Avenida General Santander;Avenida Carrera 27",
+        "oneway": "yes",
+        "@timestamp": "2015-09-11T04:16:16Z",
+        "@version": "5",
+        "@changeset": "33947254",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0984553,
+            4.600623
+          ],
+          [
+            -74.0990718,
+            4.5998708
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89612948",
+      "properties": {
+        "@id": "way/89612948",
+        "alt_name": "Avenida General Santander",
+        "highway": "tertiary",
+        "mechanical": "yes",
+        "name": "Avenida Carrera 27",
+        "oneway": "yes",
+        "@timestamp": "2015-12-23T04:30:10Z",
+        "@version": "4",
+        "@changeset": "36118168",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1015869,
+            4.5966647
+          ],
+          [
+            -74.1018819,
+            4.5962842
+          ],
+          [
+            -74.1027603,
+            4.5951511
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89612984",
+      "properties": {
+        "@id": "way/89612984",
+        "highway": "tertiary",
+        "mechanical": "yes",
+        "name": "Avenida General Santander;Avenida Carrera 27",
+        "oneway": "yes",
+        "@timestamp": "2015-04-12T18:25:00Z",
+        "@version": "3",
+        "@changeset": "30169566",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0999943,
+            4.5986767
+          ],
+          [
+            -74.1003222,
+            4.5982783
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89613086",
+      "properties": {
+        "@id": "way/89613086",
+        "highway": "tertiary",
+        "mechanical": "yes",
+        "name": "Avenida General Santander;Avenida Carrera 27",
+        "oneway": "yes",
+        "@timestamp": "2015-04-12T18:25:01Z",
+        "@version": "4",
+        "@changeset": "30169566",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1027603,
+            4.5951511
+          ],
+          [
+            -74.102784,
+            4.5950808
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89617854",
+      "properties": {
+        "@id": "way/89617854",
+        "highway": "secondary",
+        "name": "Carrera 27",
+        "oneway": "yes",
+        "@timestamp": "2015-01-05T15:01:35Z",
+        "@version": "3",
+        "@changeset": "27934698",
+        "@user": "JeanPaulPG",
+        "@uid": "220028",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1053671,
+            4.5928112
+          ],
+          [
+            -74.1064869,
+            4.5917459
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89618024",
+      "properties": {
+        "@id": "way/89618024",
+        "highway": "secondary",
+        "name": "Carrera 27",
+        "oneway": "yes",
+        "@timestamp": "2015-01-05T15:01:36Z",
+        "@version": "4",
+        "@changeset": "27934698",
+        "@user": "JeanPaulPG",
+        "@uid": "220028",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1064869,
+            4.5917459
+          ],
+          [
+            -74.1070776,
+            4.591184
+          ],
+          [
+            -74.1073775,
+            4.5908972
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89619481",
+      "properties": {
+        "@id": "way/89619481",
+        "highway": "secondary",
+        "name": "Carrera 27",
+        "oneway": "yes",
+        "@timestamp": "2013-07-25T21:36:22Z",
+        "@version": "3",
+        "@changeset": "17094596",
+        "@user": "blackatze93",
+        "@uid": "1643690",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1090906,
+            4.5892699
+          ],
+          [
+            -74.1091961,
+            4.5891774
+          ],
+          [
+            -74.1093773,
+            4.5890066
+          ],
+          [
+            -74.1095182,
+            4.5889197
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89619703",
+      "properties": {
+        "@id": "way/89619703",
+        "highway": "secondary",
+        "name": "Carrera 27",
+        "oneway": "yes",
+        "@timestamp": "2013-07-25T21:36:22Z",
+        "@version": "3",
+        "@changeset": "17094596",
+        "@user": "blackatze93",
+        "@uid": "1643690",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1082098,
+            4.590101
+          ],
+          [
+            -74.1089911,
+            4.5893754
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89619816",
+      "properties": {
+        "@id": "way/89619816",
+        "highway": "secondary",
+        "name": "Carrera 27",
+        "oneway": "yes",
+        "@timestamp": "2014-09-13T13:06:23Z",
+        "@version": "4",
+        "@changeset": "25411044",
+        "@user": "okilimu",
+        "@uid": "212111",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1089911,
+            4.5893754
+          ],
+          [
+            -74.109036,
+            4.5893278
+          ],
+          [
+            -74.1090906,
+            4.5892699
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89619893",
+      "properties": {
+        "@id": "way/89619893",
+        "highway": "secondary",
+        "name": "Carrera 27",
+        "oneway": "yes",
+        "@timestamp": "2013-06-09T17:28:17Z",
+        "@version": "2",
+        "@changeset": "16485496",
+        "@user": "ikks",
+        "@uid": "37987",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1073775,
+            4.5908972
+          ],
+          [
+            -74.1082098,
+            4.590101
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89619967",
+      "properties": {
+        "@id": "way/89619967",
+        "highway": "secondary",
+        "name": "Carrera 27",
+        "oneway": "yes",
+        "@timestamp": "2013-07-25T21:36:23Z",
+        "@version": "3",
+        "@changeset": "17094596",
+        "@user": "blackatze93",
+        "@uid": "1643690",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1095182,
+            4.5889197
+          ],
+          [
+            -74.1097256,
+            4.588839
+          ],
+          [
+            -74.1101541,
+            4.5887961
+          ],
+          [
+            -74.1105576,
+            4.5888053
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89625373",
+      "properties": {
+        "@id": "way/89625373",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 26 S",
+        "@timestamp": "2012-05-29T06:01:27Z",
+        "@version": "2",
+        "@changeset": "11734196",
+        "@user": "botika",
+        "@uid": "689780",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1100354,
+            4.5870897
+          ],
+          [
+            -74.1103907,
+            4.5876088
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89625526",
+      "properties": {
+        "@id": "way/89625526",
+        "highway": "tertiary",
+        "name": "Calle 28 Sur",
+        "@timestamp": "2010-12-14T23:08:21Z",
+        "@version": "1",
+        "@changeset": "6663148",
+        "@user": "dmartinh",
+        "@uid": "314700",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1114883,
+            4.5852449
+          ],
+          [
+            -74.1109275,
+            4.5842947
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89625531",
+      "properties": {
+        "@id": "way/89625531",
+        "highway": "residential",
+        "name": "Carrera 26",
+        "@timestamp": "2010-12-14T23:08:21Z",
+        "@version": "1",
+        "@changeset": "6663148",
+        "@user": "dmartinh",
+        "@uid": "314700",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1100354,
+            4.5870897
+          ],
+          [
+            -74.1109783,
+            4.586166
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89625565",
+      "properties": {
+        "@id": "way/89625565",
+        "highway": "tertiary",
+        "name": "Calle 28 Sur",
+        "@timestamp": "2010-12-14T23:08:25Z",
+        "@version": "1",
+        "@changeset": "6663148",
+        "@user": "dmartinh",
+        "@uid": "314700",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1115491,
+            4.5855747
+          ],
+          [
+            -74.1115255,
+            4.5853051
+          ],
+          [
+            -74.1114883,
+            4.5852449
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89625628",
+      "properties": {
+        "@id": "way/89625628",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 26 S",
+        "@timestamp": "2013-07-25T21:36:20Z",
+        "@version": "4",
+        "@changeset": "17094596",
+        "@user": "blackatze93",
+        "@uid": "1643690",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1105237,
+            4.5878447
+          ],
+          [
+            -74.1105579,
+            4.5879735
+          ],
+          [
+            -74.1106266,
+            4.5886449
+          ],
+          [
+            -74.1105576,
+            4.5888053
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89625629",
+      "properties": {
+        "@id": "way/89625629",
+        "highway": "residential",
+        "name": "Carrera 26",
+        "@timestamp": "2010-12-14T23:08:34Z",
+        "@version": "1",
+        "@changeset": "6663148",
+        "@user": "dmartinh",
+        "@uid": "314700",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1109783,
+            4.586166
+          ],
+          [
+            -74.1115491,
+            4.5855747
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89625654",
+      "properties": {
+        "@id": "way/89625654",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 26 S",
+        "@timestamp": "2012-05-29T06:01:26Z",
+        "@version": "2",
+        "@changeset": "11734196",
+        "@user": "botika",
+        "@uid": "689780",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1103907,
+            4.5876088
+          ],
+          [
+            -74.1105237,
+            4.5878447
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89625684",
+      "properties": {
+        "@id": "way/89625684",
+        "highway": "secondary_link",
+        "name": "Avenida Mariscal Sucre Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2015-10-14T19:31:03Z",
+        "@version": "6",
+        "@changeset": "34639217",
+        "@user": "enavarrete",
+        "@uid": "737455",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1131499,
+            4.583546
+          ],
+          [
+            -74.1133337,
+            4.5834856
+          ],
+          [
+            -74.1134997,
+            4.5834301
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89631513",
+      "properties": {
+        "@id": "way/89631513",
+        "highway": "secondary",
+        "name": "Avenida Mariscal Sucre Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2015-10-14T19:31:04Z",
+        "@version": "4",
+        "@changeset": "34639217",
+        "@user": "enavarrete",
+        "@uid": "737455",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1188356,
+            4.5815999
+          ],
+          [
+            -74.119426,
+            4.5814223
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89631561",
+      "properties": {
+        "@id": "way/89631561",
+        "highway": "secondary",
+        "name": "Avenida Mariscal Sucre Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2010-12-14T23:51:02Z",
+        "@version": "1",
+        "@changeset": "6663148",
+        "@user": "dmartinh",
+        "@uid": "314700",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1134997,
+            4.5834301
+          ],
+          [
+            -74.1140643,
+            4.5832369
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89631590",
+      "properties": {
+        "@id": "way/89631590",
+        "highway": "secondary",
+        "name": "Avenida Mariscal Sucre Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2010-12-14T23:51:11Z",
+        "@version": "1",
+        "@changeset": "6663148",
+        "@user": "dmartinh",
+        "@uid": "314700",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1140643,
+            4.5832369
+          ],
+          [
+            -74.1145282,
+            4.5830844
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89631613",
+      "properties": {
+        "@id": "way/89631613",
+        "highway": "secondary",
+        "name": "Avenida Mariscal Sucre Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2012-08-10T05:21:47Z",
+        "@version": "2",
+        "@changeset": "12675897",
+        "@user": "harrierco",
+        "@uid": "222199",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.115865,
+            4.5826169
+          ],
+          [
+            -74.1168882,
+            4.5822687
+          ],
+          [
+            -74.1179832,
+            4.5818829
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89631615",
+      "properties": {
+        "@id": "way/89631615",
+        "highway": "secondary",
+        "name": "Avenida Mariscal Sucre Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2013-07-18T14:12:23Z",
+        "@version": "2",
+        "@changeset": "17000444",
+        "@user": "blackatze93",
+        "@uid": "1643690",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1179832,
+            4.5818829
+          ],
+          [
+            -74.1187513,
+            4.5816395
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89631618",
+      "properties": {
+        "@id": "way/89631618",
+        "highway": "secondary",
+        "name": "Avenida Mariscal Sucre Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2012-08-10T05:21:47Z",
+        "@version": "2",
+        "@changeset": "12675897",
+        "@user": "harrierco",
+        "@uid": "222199",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.119426,
+            4.5814223
+          ],
+          [
+            -74.1202042,
+            4.5811333
+          ],
+          [
+            -74.1206634,
+            4.5809711
+          ],
+          [
+            -74.1211702,
+            4.5807991
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89631623",
+      "properties": {
+        "@id": "way/89631623",
+        "highway": "secondary",
+        "name": "Avenida Mariscal Sucre Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2010-12-15T14:24:25Z",
+        "@version": "2",
+        "@changeset": "6668132",
+        "@user": "dmartinh",
+        "@uid": "314700",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1211702,
+            4.5807991
+          ],
+          [
+            -74.1217201,
+            4.580604
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89631649",
+      "properties": {
+        "@id": "way/89631649",
+        "highway": "secondary",
+        "name": "Avenida Mariscal Sucre Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2010-12-14T23:51:28Z",
+        "@version": "1",
+        "@changeset": "6663148",
+        "@user": "dmartinh",
+        "@uid": "314700",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1145282,
+            4.5830844
+          ],
+          [
+            -74.115865,
+            4.5826169
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89682967",
+      "properties": {
+        "@id": "way/89682967",
+        "highway": "secondary",
+        "name": "Avenida Mariscal Sucre Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2010-12-15T14:24:08Z",
+        "@version": "1",
+        "@changeset": "6668132",
+        "@user": "dmartinh",
+        "@uid": "314700",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1227757,
+            4.5802447
+          ],
+          [
+            -74.1232925,
+            4.5800816
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89682976",
+      "properties": {
+        "@id": "way/89682976",
+        "highway": "secondary",
+        "name": "Avenida Mariscal Sucre Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2010-12-15T14:24:09Z",
+        "@version": "1",
+        "@changeset": "6668132",
+        "@user": "dmartinh",
+        "@uid": "314700",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1217201,
+            4.580604
+          ],
+          [
+            -74.1227757,
+            4.5802447
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89683006",
+      "properties": {
+        "@id": "way/89683006",
+        "highway": "secondary",
+        "name": "Avenida Mariscal Sucre Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2010-12-15T14:51:08Z",
+        "@version": "2",
+        "@changeset": "6668132",
+        "@user": "dmartinh",
+        "@uid": "314700",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1232925,
+            4.5800816
+          ],
+          [
+            -74.1238272,
+            4.5798757
+          ],
+          [
+            -74.1254483,
+            4.5794216
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89685141",
+      "properties": {
+        "@id": "way/89685141",
+        "highway": "secondary",
+        "name": "Avenida Mariscal Sucre Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2011-07-26T12:14:11Z",
+        "@version": "2",
+        "@changeset": "8835215",
+        "@user": "harrierco",
+        "@uid": "222199",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1255269,
+            4.5793983
+          ],
+          [
+            -74.1275251,
+            4.5788276
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89685224",
+      "properties": {
+        "@id": "way/89685224",
+        "highway": "secondary",
+        "name": "Avenida Mariscal Sucre Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2011-07-26T12:14:10Z",
+        "@version": "3",
+        "@changeset": "8835215",
+        "@user": "harrierco",
+        "@uid": "222199",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1254483,
+            4.5794216
+          ],
+          [
+            -74.1255269,
+            4.5793983
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89685357",
+      "properties": {
+        "@id": "way/89685357",
+        "highway": "secondary",
+        "name": "Avenida Mariscal Sucre Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2013-07-18T03:15:06Z",
+        "@version": "4",
+        "@changeset": "16994664",
+        "@user": "blackatze93",
+        "@uid": "1643690",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1275251,
+            4.5788276
+          ],
+          [
+            -74.1282142,
+            4.5786071
+          ],
+          [
+            -74.128527,
+            4.5785028
+          ],
+          [
+            -74.1286192,
+            4.5784673
+          ],
+          [
+            -74.1286947,
+            4.5784219
+          ],
+          [
+            -74.1288093,
+            4.5783338
+          ],
+          [
+            -74.1290752,
+            4.5780463
+          ],
+          [
+            -74.1292563,
+            4.577852
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89720240",
+      "properties": {
+        "@id": "way/89720240",
+        "highway": "secondary",
+        "name": "Avenida Mariscal Sucre Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2010-12-15T20:04:47Z",
+        "@version": "1",
+        "@changeset": "6670824",
+        "@user": "dmartinh",
+        "@uid": "314700",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1369471,
+            4.5742285
+          ],
+          [
+            -74.1383978,
+            4.5736615
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89720306",
+      "properties": {
+        "@id": "way/89720306",
+        "highway": "secondary",
+        "name": "Avenida Mariscal Sucre Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2015-10-14T19:31:07Z",
+        "@version": "5",
+        "@changeset": "34639217",
+        "@user": "enavarrete",
+        "@uid": "737455",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1306811,
+            4.5768025
+          ],
+          [
+            -74.1321319,
+            4.5762121
+          ],
+          [
+            -74.1322232,
+            4.5761722
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89720348",
+      "properties": {
+        "@id": "way/89720348",
+        "foot": "yes",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Avenida Boyacá Transversal 56A Sur",
+        "oneway": "yes",
+        "@timestamp": "2013-12-19T09:43:12Z",
+        "@version": "3",
+        "@changeset": "19528063",
+        "@user": "Moovit Team",
+        "@uid": "1190212",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1394327,
+            4.5720221
+          ],
+          [
+            -74.1393409,
+            4.5716257
+          ],
+          [
+            -74.1391273,
+            4.5707032
+          ],
+          [
+            -74.1389132,
+            4.5697784
+          ],
+          [
+            -74.1388716,
+            4.5695987
+          ],
+          [
+            -74.1388355,
+            4.5694428
+          ],
+          [
+            -74.1385716,
+            4.5683032
+          ],
+          [
+            -74.1383991,
+            4.5675582
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89720413",
+      "properties": {
+        "@id": "way/89720413",
+        "highway": "secondary",
+        "name": "Avenida Mariscal Sucre Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2010-12-15T20:04:59Z",
+        "@version": "1",
+        "@changeset": "6670824",
+        "@user": "dmartinh",
+        "@uid": "314700",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1322232,
+            4.5761722
+          ],
+          [
+            -74.1338346,
+            4.5755081
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89720452",
+      "properties": {
+        "@id": "way/89720452",
+        "highway": "secondary",
+        "name": "Avenida Mariscal Sucre Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2010-12-15T20:05:01Z",
+        "@version": "1",
+        "@changeset": "6670824",
+        "@user": "dmartinh",
+        "@uid": "314700",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1355547,
+            4.5748122
+          ],
+          [
+            -74.1369471,
+            4.5742285
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89720462",
+      "properties": {
+        "@id": "way/89720462",
+        "highway": "secondary",
+        "name": "Avenida Mariscal Sucre Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2013-06-09T13:30:05Z",
+        "@version": "2",
+        "@changeset": "16482038",
+        "@user": "Moovit Team",
+        "@uid": "1190212",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1383978,
+            4.5736615
+          ],
+          [
+            -74.1393488,
+            4.5732418
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89720641",
+      "properties": {
+        "@id": "way/89720641",
+        "highway": "secondary",
+        "name": "Avenida Mariscal Sucre Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2012-09-07T21:02:31Z",
+        "@version": "2",
+        "@changeset": "13027999",
+        "@user": "harrierco",
+        "@uid": "222199",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1338346,
+            4.5755081
+          ],
+          [
+            -74.1338986,
+            4.5754813
+          ],
+          [
+            -74.1355547,
+            4.5748122
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/91309552",
+      "properties": {
+        "@id": "way/91309552",
+        "highway": "trunk",
+        "lanes": "3",
+        "layer": "0",
+        "name": "Autopista al Llano Calle 71 Sur",
+        "oneway": "yes",
+        "@timestamp": "2010-12-23T20:35:26Z",
+        "@version": "1",
+        "@changeset": "6749494",
+        "@user": "dmartinh",
+        "@uid": "314700",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1200606,
+            4.510576
+          ],
+          [
+            -74.1188903,
+            4.5100995
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/91309695",
+      "properties": {
+        "@id": "way/91309695",
+        "highway": "trunk",
+        "lanes": "3",
+        "name": "Autopista al Llano Calle 71 Sur",
+        "oneway": "yes",
+        "@timestamp": "2015-06-23T18:42:12Z",
+        "@version": "3",
+        "@changeset": "32168219",
+        "@user": "dbusse",
+        "@uid": "149876",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1226028,
+            4.5201492
+          ],
+          [
+            -74.122569,
+            4.5200829
+          ],
+          [
+            -74.1224237,
+            4.5197668
+          ],
+          [
+            -74.1223441,
+            4.5195938
+          ],
+          [
+            -74.1221627,
+            4.518947
+          ],
+          [
+            -74.1221541,
+            4.5188816
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/91310091",
+      "properties": {
+        "@id": "way/91310091",
+        "highway": "trunk",
+        "lanes": "3",
+        "layer": "0",
+        "name": "Autopista al Llano Calle 71 Sur",
+        "oneway": "yes",
+        "@timestamp": "2010-12-23T20:36:46Z",
+        "@version": "1",
+        "@changeset": "6749494",
+        "@user": "dmartinh",
+        "@uid": "314700",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1188903,
+            4.5100995
+          ],
+          [
+            -74.1187957,
+            4.510061
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/91310118",
+      "properties": {
+        "@id": "way/91310118",
+        "highway": "trunk",
+        "lanes": "3",
+        "layer": "0",
+        "name": "Autopista al Llano Calle 71 Sur",
+        "oneway": "yes",
+        "@timestamp": "2016-06-17T02:00:56Z",
+        "@version": "2",
+        "@changeset": "40081208",
+        "@user": "Jorge Sanabria",
+        "@uid": "3636891",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1221541,
+            4.5188816
+          ],
+          [
+            -74.1220593,
+            4.5181606
+          ],
+          [
+            -74.1219711,
+            4.5174425
+          ],
+          [
+            -74.1218393,
+            4.5162967
+          ],
+          [
+            -74.1217368,
+            4.5154527
+          ],
+          [
+            -74.121721,
+            4.5149557
+          ],
+          [
+            -74.1217526,
+            4.514443
+          ],
+          [
+            -74.1220444,
+            4.5131967
+          ],
+          [
+            -74.1221233,
+            4.5126998
+          ],
+          [
+            -74.1220681,
+            4.5122502
+          ],
+          [
+            -74.1219103,
+            4.5118479
+          ],
+          [
+            -74.1216658,
+            4.5114535
+          ],
+          [
+            -74.1213818,
+            4.5111774
+          ],
+          [
+            -74.121015,
+            4.5109645
+          ],
+          [
+            -74.1200606,
+            4.510576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/91310239",
+      "properties": {
+        "@id": "way/91310239",
+        "highway": "trunk",
+        "lanes": "3",
+        "layer": "0",
+        "name": "Autopista al Llano Calle 71 Sur",
+        "oneway": "yes",
+        "@timestamp": "2015-02-13T00:08:43Z",
+        "@version": "2",
+        "@changeset": "28811176",
+        "@user": "Miller Castillo",
+        "@uid": "1738772",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1187957,
+            4.510061
+          ],
+          [
+            -74.1187091,
+            4.5100257
+          ],
+          [
+            -74.1170238,
+            4.5093396
+          ],
+          [
+            -74.1155251,
+            4.5087559
+          ],
+          [
+            -74.1150202,
+            4.5084877
+          ],
+          [
+            -74.1143003,
+            4.5078977
+          ],
+          [
+            -74.1140319,
+            4.5076484
+          ],
+          [
+            -74.1140074,
+            4.5076256
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/91310317",
+      "properties": {
+        "@id": "way/91310317",
+        "highway": "trunk",
+        "lanes": "3",
+        "layer": "0",
+        "name": "Autopista al Llano Calle 71 Sur",
+        "oneway": "yes",
+        "@timestamp": "2013-12-17T15:49:33Z",
+        "@version": "4",
+        "@changeset": "19500496",
+        "@user": "Moovit Team",
+        "@uid": "1190212",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1139601,
+            4.5075803
+          ],
+          [
+            -74.1135846,
+            4.5072651
+          ],
+          [
+            -74.1131666,
+            4.5069338
+          ],
+          [
+            -74.1128274,
+            4.5067405
+          ],
+          [
+            -74.1123462,
+            4.5065828
+          ],
+          [
+            -74.1122126,
+            4.5065845
+          ],
+          [
+            -74.1117231,
+            4.5065906
+          ],
+          [
+            -74.109113,
+            4.506561
+          ],
+          [
+            -74.1090581,
+            4.5065606
+          ],
+          [
+            -74.1078889,
+            4.5065475
+          ],
+          [
+            -74.1069571,
+            4.5065747
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/91331829",
+      "properties": {
+        "@id": "way/91331829",
+        "highway": "trunk",
+        "lanes": "3",
+        "name": "Avenida Boyacá Transversal 17",
+        "oneway": "yes",
+        "@timestamp": "2013-11-20T08:15:01Z",
+        "@version": "4",
+        "@changeset": "19008022",
+        "@user": "Moovit Team",
+        "@uid": "1190212",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.137865,
+            4.5551666
+          ],
+          [
+            -74.1378185,
+            4.5550158
+          ],
+          [
+            -74.1377672,
+            4.5548493
+          ],
+          [
+            -74.1376454,
+            4.5544892
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/91331832",
+      "properties": {
+        "@id": "way/91331832",
+        "highway": "trunk",
+        "lanes": "3",
+        "name": "Avenida Boyacá Transversal 17",
+        "oneway": "yes",
+        "@timestamp": "2010-12-23T22:51:19Z",
+        "@version": "1",
+        "@changeset": "6750372",
+        "@user": "dmartinh",
+        "@uid": "314700",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1371884,
+            4.5474755
+          ],
+          [
+            -74.1371057,
+            4.5469712
+          ],
+          [
+            -74.1369089,
+            4.5464026
+          ],
+          [
+            -74.1366248,
+            4.5458036
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/91331846",
+      "properties": {
+        "@id": "way/91331846",
+        "highway": "trunk",
+        "lanes": "3",
+        "name": "Avenida Boyacá Transversal 17",
+        "oneway": "yes",
+        "@timestamp": "2011-06-28T16:55:53Z",
+        "@version": "2",
+        "@changeset": "8573262",
+        "@user": "Penelope86",
+        "@uid": "319039",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1370078,
+            4.5526712
+          ],
+          [
+            -74.1369864,
+            4.5526134
+          ],
+          [
+            -74.136887,
+            4.5523454
+          ],
+          [
+            -74.1368431,
+            4.5522233
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/91331890",
+      "properties": {
+        "@id": "way/91331890",
+        "highway": "trunk",
+        "lanes": "3",
+        "name": "Avenida Boyacá Transversal 17",
+        "oneway": "yes",
+        "@timestamp": "2011-06-28T16:51:24Z",
+        "@version": "2",
+        "@changeset": "8573262",
+        "@user": "Penelope86",
+        "@uid": "319039",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1366026,
+            4.5512797
+          ],
+          [
+            -74.1365699,
+            4.5509239
+          ],
+          [
+            -74.1366725,
+            4.5502571
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/91331907",
+      "properties": {
+        "@id": "way/91331907",
+        "highway": "trunk",
+        "lanes": "3",
+        "name": "Avenida Boyacá Transversal 17",
+        "oneway": "yes",
+        "@timestamp": "2013-06-11T03:27:30Z",
+        "@version": "3",
+        "@changeset": "16504587",
+        "@user": "dbusse",
+        "@uid": "149876",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1366248,
+            4.5458036
+          ],
+          [
+            -74.136481,
+            4.545524
+          ],
+          [
+            -74.1362971,
+            4.5452456
+          ],
+          [
+            -74.1361328,
+            4.5449658
+          ],
+          [
+            -74.1358483,
+            4.5444235
+          ],
+          [
+            -74.1354164,
+            4.543587
+          ],
+          [
+            -74.1345862,
+            4.5419517
+          ],
+          [
+            -74.1343339,
+            4.5414548
+          ],
+          [
+            -74.1338528,
+            4.5405145
+          ],
+          [
+            -74.1336956,
+            4.5402918
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/91331926",
+      "properties": {
+        "@id": "way/91331926",
+        "highway": "trunk",
+        "lanes": "3",
+        "name": "Avenida Boyacá Transversal 17",
+        "oneway": "yes",
+        "@timestamp": "2010-12-23T22:51:28Z",
+        "@version": "1",
+        "@changeset": "6750372",
+        "@user": "dmartinh",
+        "@uid": "314700",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1369574,
+            4.5490834
+          ],
+          [
+            -74.1370292,
+            4.5487917
+          ],
+          [
+            -74.1371385,
+            4.5482614
+          ],
+          [
+            -74.1372151,
+            4.5476382
+          ],
+          [
+            -74.1371884,
+            4.5474755
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/119486829",
+      "properties": {
+        "@id": "way/119486829",
+        "highway": "trunk",
+        "lanes": "3",
+        "name": "Avenida Boyacá Transversal 17",
+        "oneway": "yes",
+        "@timestamp": "2011-06-28T16:51:22Z",
+        "@version": "1",
+        "@changeset": "8573262",
+        "@user": "Penelope86",
+        "@uid": "319039",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1366725,
+            4.5502571
+          ],
+          [
+            -74.1366793,
+            4.5502132
+          ],
+          [
+            -74.1368037,
+            4.5497078
+          ],
+          [
+            -74.1369574,
+            4.5490834
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/119487357",
+      "properties": {
+        "@id": "way/119487357",
+        "highway": "trunk",
+        "lanes": "3",
+        "name": "Avenida Boyacá Transversal 17",
+        "oneway": "yes",
+        "@timestamp": "2011-06-28T16:59:21Z",
+        "@version": "2",
+        "@changeset": "8573262",
+        "@user": "Penelope86",
+        "@uid": "319039",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1368431,
+            4.5522233
+          ],
+          [
+            -74.1367321,
+            4.5519153
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/119487540",
+      "properties": {
+        "@id": "way/119487540",
+        "highway": "trunk",
+        "lanes": "3",
+        "name": "Avenida Boyacá Transversal 17",
+        "oneway": "yes",
+        "@timestamp": "2011-06-28T16:59:19Z",
+        "@version": "1",
+        "@changeset": "8573262",
+        "@user": "Penelope86",
+        "@uid": "319039",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1367321,
+            4.5519153
+          ],
+          [
+            -74.1366355,
+            4.5516456
+          ],
+          [
+            -74.1366336,
+            4.5516246
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/119487541",
+      "properties": {
+        "@id": "way/119487541",
+        "highway": "trunk",
+        "lanes": "3",
+        "name": "Avenida Boyacá Transversal 17",
+        "oneway": "yes",
+        "@timestamp": "2011-06-28T16:59:19Z",
+        "@version": "1",
+        "@changeset": "8573262",
+        "@user": "Penelope86",
+        "@uid": "319039",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1366336,
+            4.5516246
+          ],
+          [
+            -74.1366026,
+            4.5512797
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/119613781",
+      "properties": {
+        "@id": "way/119613781",
+        "highway": "trunk",
+        "lanes": "3",
+        "name": "Avenida Boyacá Carrera 19",
+        "oneway": "yes",
+        "@timestamp": "2012-07-28T22:35:26Z",
+        "@version": "4",
+        "@changeset": "12529145",
+        "@user": "ikks",
+        "@uid": "37987",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.138933,
+            4.5631953
+          ],
+          [
+            -74.1389919,
+            4.5625717
+          ],
+          [
+            -74.139083,
+            4.5619598
+          ],
+          [
+            -74.139134,
+            4.5616177
+          ],
+          [
+            -74.1391488,
+            4.5615004
+          ],
+          [
+            -74.139262,
+            4.5609004
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/119784430",
+      "properties": {
+        "@id": "way/119784430",
+        "highway": "trunk",
+        "lanes": "3",
+        "name": "Avenida Boyacá Carrera 19",
+        "oneway": "yes",
+        "@timestamp": "2011-06-30T16:50:09Z",
+        "@version": "1",
+        "@changeset": "8590850",
+        "@user": "Penelope86",
+        "@uid": "319039",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.139262,
+            4.5609004
+          ],
+          [
+            -74.1393098,
+            4.5605749
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/119784431",
+      "properties": {
+        "@id": "way/119784431",
+        "highway": "trunk",
+        "lanes": "3",
+        "name": "Avenida Boyacá Carrera 19",
+        "oneway": "yes",
+        "@timestamp": "2011-06-30T16:50:09Z",
+        "@version": "1",
+        "@changeset": "8590850",
+        "@user": "Penelope86",
+        "@uid": "319039",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1393181,
+            4.5603323
+          ],
+          [
+            -74.1393181,
+            4.5601237
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/119784432",
+      "properties": {
+        "@id": "way/119784432",
+        "highway": "trunk",
+        "lanes": "3",
+        "name": "Avenida Boyacá Carrera 19",
+        "oneway": "yes",
+        "@timestamp": "2015-05-22T21:04:41Z",
+        "@version": "5",
+        "@changeset": "31383985",
+        "@user": "samely",
+        "@uid": "2512300",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1393097,
+            4.5599343
+          ],
+          [
+            -74.139316,
+            4.5597619
+          ],
+          [
+            -74.1392847,
+            4.5595663
+          ],
+          [
+            -74.1391778,
+            4.5591684
+          ],
+          [
+            -74.1388497,
+            4.5581734
+          ],
+          [
+            -74.1388083,
+            4.5580572
+          ],
+          [
+            -74.1387967,
+            4.5580233
+          ],
+          [
+            -74.138358,
+            4.5567667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/119784434",
+      "properties": {
+        "@id": "way/119784434",
+        "highway": "trunk",
+        "lanes": "3",
+        "name": "Avenida Boyacá Carrera 19",
+        "oneway": "yes",
+        "@timestamp": "2011-06-30T16:50:10Z",
+        "@version": "1",
+        "@changeset": "8590850",
+        "@user": "Penelope86",
+        "@uid": "319039",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1393098,
+            4.5605749
+          ],
+          [
+            -74.1393161,
+            4.5604768
+          ],
+          [
+            -74.1393181,
+            4.5603323
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/119784435",
+      "properties": {
+        "@id": "way/119784435",
+        "highway": "trunk",
+        "lanes": "3",
+        "name": "Avenida Boyacá Carrera 19",
+        "oneway": "yes",
+        "@timestamp": "2011-06-30T16:50:10Z",
+        "@version": "1",
+        "@changeset": "8590850",
+        "@user": "Penelope86",
+        "@uid": "319039",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1393181,
+            4.5601237
+          ],
+          [
+            -74.1393097,
+            4.5599343
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/119784458",
+      "properties": {
+        "@id": "way/119784458",
+        "highway": "trunk",
+        "lanes": "3",
+        "name": "Avenida Boyacá Transversal 17",
+        "oneway": "yes",
+        "@timestamp": "2011-06-30T16:52:28Z",
+        "@version": "1",
+        "@changeset": "8590850",
+        "@user": "Penelope86",
+        "@uid": "319039",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1381457,
+            4.5560778
+          ],
+          [
+            -74.1380227,
+            4.5556785
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/119784459",
+      "properties": {
+        "@id": "way/119784459",
+        "highway": "trunk",
+        "lanes": "3",
+        "name": "Avenida Boyacá Transversal 17",
+        "oneway": "yes",
+        "@timestamp": "2011-06-30T16:54:42Z",
+        "@version": "2",
+        "@changeset": "8590850",
+        "@user": "Penelope86",
+        "@uid": "319039",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1380227,
+            4.5556785
+          ],
+          [
+            -74.1378822,
+            4.5552224
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/119784460",
+      "properties": {
+        "@id": "way/119784460",
+        "highway": "trunk",
+        "lanes": "3",
+        "name": "Avenida Boyacá Transversal 17",
+        "oneway": "yes",
+        "@timestamp": "2011-06-30T16:52:29Z",
+        "@version": "1",
+        "@changeset": "8590850",
+        "@user": "Penelope86",
+        "@uid": "319039",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.138358,
+            4.5567667
+          ],
+          [
+            -74.1381457,
+            4.5560778
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/119788083",
+      "properties": {
+        "@id": "way/119788083",
+        "highway": "trunk",
+        "lanes": "3",
+        "name": "Avenida Boyacá Transversal 17",
+        "oneway": "yes",
+        "@timestamp": "2011-06-30T17:19:51Z",
+        "@version": "1",
+        "@changeset": "8590850",
+        "@user": "Penelope86",
+        "@uid": "319039",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1376454,
+            4.5544892
+          ],
+          [
+            -74.1374281,
+            4.5538467
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/119788084",
+      "properties": {
+        "@id": "way/119788084",
+        "highway": "trunk",
+        "lanes": "3",
+        "name": "Avenida Boyacá Transversal 17",
+        "oneway": "yes",
+        "@timestamp": "2011-06-30T17:19:51Z",
+        "@version": "1",
+        "@changeset": "8590850",
+        "@user": "Penelope86",
+        "@uid": "319039",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.13722,
+            4.5532429
+          ],
+          [
+            -74.1370078,
+            4.5526712
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/119788086",
+      "properties": {
+        "@id": "way/119788086",
+        "highway": "trunk",
+        "lanes": "3",
+        "name": "Avenida Boyacá Transversal 17",
+        "oneway": "yes",
+        "@timestamp": "2012-01-11T23:41:44Z",
+        "@version": "2",
+        "@changeset": "10365612",
+        "@user": "estailes",
+        "@uid": "78249",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1374281,
+            4.5538467
+          ],
+          [
+            -74.1373466,
+            4.5536057
+          ],
+          [
+            -74.1372643,
+            4.5533623
+          ],
+          [
+            -74.13722,
+            4.5532429
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/119789114",
+      "properties": {
+        "@id": "way/119789114",
+        "highway": "trunk",
+        "lanes": "3",
+        "name": "Avenida Boyacá Transversal 17",
+        "oneway": "yes",
+        "@timestamp": "2011-06-30T17:40:16Z",
+        "@version": "1",
+        "@changeset": "8590850",
+        "@user": "Penelope86",
+        "@uid": "319039",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1336956,
+            4.5402918
+          ],
+          [
+            -74.1336809,
+            4.540271
+          ],
+          [
+            -74.1335903,
+            4.5401427
+          ],
+          [
+            -74.133142,
+            4.5396507
+          ],
+          [
+            -74.1328198,
+            4.5393785
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/119789115",
+      "properties": {
+        "@id": "way/119789115",
+        "highway": "trunk",
+        "lanes": "3",
+        "name": "Avenida Boyacá Transversal 17",
+        "oneway": "yes",
+        "@timestamp": "2013-06-10T18:39:42Z",
+        "@version": "3",
+        "@changeset": "16500204",
+        "@user": "dbusse",
+        "@uid": "149876",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1328198,
+            4.5393785
+          ],
+          [
+            -74.1325078,
+            4.5391149
+          ],
+          [
+            -74.1298945,
+            4.5369936
+          ],
+          [
+            -74.1290854,
+            4.5363868
+          ],
+          [
+            -74.1285278,
+            4.5358182
+          ],
+          [
+            -74.1281451,
+            4.5352605
+          ],
+          [
+            -74.1278499,
+            4.5346794
+          ],
+          [
+            -74.1276921,
+            4.5341509
+          ],
+          [
+            -74.127558,
+            4.5334331
+          ],
+          [
+            -74.1273135,
+            4.5315953
+          ],
+          [
+            -74.1267377,
+            4.5273871
+          ],
+          [
+            -74.1266115,
+            4.526334
+          ],
+          [
+            -74.1265655,
+            4.5259641
+          ],
+          [
+            -74.1265211,
+            4.5256319
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/120714742",
+      "properties": {
+        "@id": "way/120714742",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Avenida Boyacá",
+        "oneway": "yes",
+        "@timestamp": "2016-02-07T15:57:42Z",
+        "@version": "4",
+        "@changeset": "37062154",
+        "@user": "SirWeigel",
+        "@uid": "1759764",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1070611,
+            4.487424
+          ],
+          [
+            -74.1068488,
+            4.4872829
+          ],
+          [
+            -74.1066117,
+            4.4871594
+          ],
+          [
+            -74.1061516,
+            4.4869371
+          ],
+          [
+            -74.1056632,
+            4.4867501
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/120721377",
+      "properties": {
+        "@id": "way/120721377",
+        "highway": "trunk",
+        "lanes": "3",
+        "layer": "0",
+        "name": "Avenida Boyacá",
+        "oneway": "yes",
+        "@timestamp": "2015-02-12T04:56:28Z",
+        "@version": "5",
+        "@changeset": "28788089",
+        "@user": "Miller Castillo",
+        "@uid": "1738772",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1049763,
+            4.5030359
+          ],
+          [
+            -74.104202,
+            4.5046579
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/120734997",
+      "properties": {
+        "@id": "way/120734997",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Autopista al Llano",
+        "oneway": "yes",
+        "@timestamp": "2016-03-14T20:25:53Z",
+        "@version": "6",
+        "@changeset": "37829307",
+        "@user": "Nodes&Roads",
+        "@uid": "3642735",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1083533,
+            4.493937
+          ],
+          [
+            -74.1090065,
+            4.4934889
+          ],
+          [
+            -74.109274,
+            4.493312
+          ],
+          [
+            -74.109602,
+            4.4930693
+          ],
+          [
+            -74.1099079,
+            4.4927644
+          ],
+          [
+            -74.1101174,
+            4.4923718
+          ],
+          [
+            -74.1102347,
+            4.4919499
+          ],
+          [
+            -74.110264,
+            4.4916491
+          ],
+          [
+            -74.1102138,
+            4.4912481
+          ],
+          [
+            -74.1101383,
+            4.4909808
+          ],
+          [
+            -74.1099582,
+            4.490609
+          ],
+          [
+            -74.1096502,
+            4.4902459
+          ],
+          [
+            -74.1082255,
+            4.4886886
+          ],
+          [
+            -74.1074469,
+            4.487798
+          ],
+          [
+            -74.1070611,
+            4.487424
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/120740278",
+      "properties": {
+        "@id": "way/120740278",
+        "highway": "trunk",
+        "lanes": "2",
+        "layer": "0",
+        "name": "Avenida Boyacá",
+        "oneway": "yes",
+        "@timestamp": "2015-03-19T03:08:11Z",
+        "@version": "10",
+        "@changeset": "29583729",
+        "@user": "Miller Castillo",
+        "@uid": "1738772",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1063563,
+            4.5005471
+          ],
+          [
+            -74.1073011,
+            4.4985309
+          ],
+          [
+            -74.1073907,
+            4.4983538
+          ],
+          [
+            -74.1074097,
+            4.4983152
+          ],
+          [
+            -74.107476,
+            4.4981856
+          ],
+          [
+            -74.1075463,
+            4.4980487
+          ],
+          [
+            -74.1076465,
+            4.4978429
+          ],
+          [
+            -74.1077073,
+            4.49765
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/120740279",
+      "properties": {
+        "@id": "way/120740279",
+        "highway": "trunk",
+        "lanes": "2",
+        "layer": "0",
+        "name": "Avenida Boyacá",
+        "oneway": "yes",
+        "@timestamp": "2015-02-12T04:52:50Z",
+        "@version": "2",
+        "@changeset": "28788078",
+        "@user": "Miller Castillo",
+        "@uid": "1738772",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1059618,
+            4.5013629
+          ],
+          [
+            -74.1060454,
+            4.501207
+          ],
+          [
+            -74.1063563,
+            4.5005471
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/120740281",
+      "properties": {
+        "@id": "way/120740281",
+        "highway": "trunk",
+        "lanes": "2",
+        "layer": "0",
+        "name": "Avenida Boyacá",
+        "oneway": "yes",
+        "@timestamp": "2015-02-12T04:56:28Z",
+        "@version": "3",
+        "@changeset": "28788089",
+        "@user": "Miller Castillo",
+        "@uid": "1738772",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1042746,
+            4.505173
+          ],
+          [
+            -74.1042601,
+            4.5051088
+          ],
+          [
+            -74.1042601,
+            4.5047665
+          ],
+          [
+            -74.1042945,
+            4.5046898
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/120740285",
+      "properties": {
+        "@id": "way/120740285",
+        "highway": "trunk",
+        "lanes": "2",
+        "layer": "0",
+        "name": "Avenida Boyacá",
+        "oneway": "yes",
+        "@timestamp": "2011-07-07T21:46:12Z",
+        "@version": "1",
+        "@changeset": "8660968",
+        "@user": "Penelope86",
+        "@uid": "319039",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1053328,
+            4.5025557
+          ],
+          [
+            -74.1054445,
+            4.5023279
+          ],
+          [
+            -74.1059618,
+            4.5013629
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/200532121",
+      "properties": {
+        "@id": "way/200532121",
+        "foot": "yes",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Avenida Boyacá Transversal 56A Sur",
+        "oneway": "yes",
+        "@timestamp": "2013-12-19T09:43:12Z",
+        "@version": "2",
+        "@changeset": "19528063",
+        "@user": "Moovit Team",
+        "@uid": "1190212",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1396666,
+            4.5730447
+          ],
+          [
+            -74.1396526,
+            4.5729722
+          ],
+          [
+            -74.1394728,
+            4.5721954
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/200760766",
+      "properties": {
+        "@id": "way/200760766",
+        "alt_name": "Avenida Ciudad de Lima",
+        "highway": "secondary",
+        "name": "Avenida Calle 19",
+        "oneway": "yes",
+        "@timestamp": "2015-12-06T01:35:28Z",
+        "@version": "3",
+        "@changeset": "35779161",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0705976,
+            4.6047493
+          ],
+          [
+            -74.0708381,
+            4.6049009
+          ],
+          [
+            -74.0715429,
+            4.6053487
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/224984420",
+      "properties": {
+        "@id": "way/224984420",
+        "foot": "no",
+        "highway": "secondary",
+        "name": "Avenida Mariscal Sucre Carrera 24",
+        "oneway": "yes",
+        "@timestamp": "2013-06-09T13:30:04Z",
+        "@version": "1",
+        "@changeset": "16482038",
+        "@user": "Moovit Team",
+        "@uid": "1190212",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1393488,
+            4.5732418
+          ],
+          [
+            -74.1394953,
+            4.5731733
+          ],
+          [
+            -74.1395889,
+            4.5731138
+          ],
+          [
+            -74.1396666,
+            4.5730447
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/225138567",
+      "properties": {
+        "@id": "way/225138567",
+        "bridge": "yes",
+        "highway": "trunk",
+        "lanes": "3",
+        "layer": "1",
+        "name": "Avenida Boyacá Transversal 17",
+        "oneway": "yes",
+        "@timestamp": "2013-06-10T18:39:41Z",
+        "@version": "1",
+        "@changeset": "16500204",
+        "@user": "dbusse",
+        "@uid": "149876",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1265211,
+            4.5256319
+          ],
+          [
+            -74.1264369,
+            4.5252661
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/225138571",
+      "properties": {
+        "@id": "way/225138571",
+        "highway": "trunk",
+        "lanes": "3",
+        "name": "Avenida Boyacá Transversal 17",
+        "oneway": "yes",
+        "@timestamp": "2015-03-27T03:59:37Z",
+        "@version": "2",
+        "@changeset": "29769349",
+        "@user": "johanud",
+        "@uid": "2784232",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1264369,
+            4.5252661
+          ],
+          [
+            -74.1262013,
+            4.5246855
+          ],
+          [
+            -74.1259253,
+            4.5241885
+          ],
+          [
+            -74.1256768,
+            4.5237981
+          ],
+          [
+            -74.125448,
+            4.5234904
+          ],
+          [
+            -74.1233197,
+            4.5211283
+          ],
+          [
+            -74.1232946,
+            4.5211004
+          ],
+          [
+            -74.1230186,
+            4.5207691
+          ],
+          [
+            -74.1228312,
+            4.5205515
+          ],
+          [
+            -74.122774,
+            4.5204852
+          ],
+          [
+            -74.1226028,
+            4.5201492
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/327710179",
+      "properties": {
+        "@id": "way/327710179",
+        "highway": "tertiary",
+        "lanes": "3",
+        "name": "Calle 91 S",
+        "surface": "concrete",
+        "@timestamp": "2015-03-19T03:08:13Z",
+        "@version": "2",
+        "@changeset": "29583729",
+        "@user": "Miller Castillo",
+        "@uid": "1738772",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1071343,
+            4.4980009
+          ],
+          [
+            -74.106955,
+            4.497713
+          ],
+          [
+            -74.106914,
+            4.497667
+          ],
+          [
+            -74.106868,
+            4.497625
+          ],
+          [
+            -74.106819,
+            4.497588
+          ],
+          [
+            -74.106766,
+            4.497555
+          ],
+          [
+            -74.10671,
+            4.497528
+          ],
+          [
+            -74.106652,
+            4.497506
+          ],
+          [
+            -74.10663,
+            4.4975001
+          ],
+          [
+            -74.106592,
+            4.49749
+          ],
+          [
+            -74.106531,
+            4.49748
+          ],
+          [
+            -74.106469,
+            4.497476
+          ],
+          [
+            -74.1061932,
+            4.4974256
+          ],
+          [
+            -74.1059513,
+            4.4973871
+          ],
+          [
+            -74.1056815,
+            4.4973414
+          ],
+          [
+            -74.1054131,
+            4.4972897
+          ],
+          [
+            -74.105113,
+            4.497256
+          ],
+          [
+            -74.104806,
+            4.497201
+          ],
+          [
+            -74.1045414,
+            4.4971532
+          ],
+          [
+            -74.1042696,
+            4.4971157
+          ],
+          [
+            -74.104012,
+            4.49707
+          ],
+          [
+            -74.10375,
+            4.497031
+          ],
+          [
+            -74.10344,
+            4.496979
+          ],
+          [
+            -74.103133,
+            4.496929
+          ],
+          [
+            -74.102872,
+            4.496885
+          ],
+          [
+            -74.102603,
+            4.496841
+          ],
+          [
+            -74.102334,
+            4.496799
+          ],
+          [
+            -74.102065,
+            4.496763
+          ],
+          [
+            -74.1017635,
+            4.4967119
+          ],
+          [
+            -74.101471,
+            4.496659
+          ],
+          [
+            -74.101198,
+            4.496619
+          ],
+          [
+            -74.100937,
+            4.496586
+          ],
+          [
+            -74.10067,
+            4.496528
+          ],
+          [
+            -74.1004267,
+            4.4965034
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/327710180",
+      "properties": {
+        "@id": "way/327710180",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Avenida Boyacá",
+        "oneway": "yes",
+        "@timestamp": "2015-05-11T20:32:15Z",
+        "@version": "5",
+        "@changeset": "31018140",
+        "@user": "NickConnolly",
+        "@uid": "1480053",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1077073,
+            4.49765
+          ],
+          [
+            -74.1077158,
+            4.4975757
+          ],
+          [
+            -74.1077317,
+            4.4974235
+          ],
+          [
+            -74.1076985,
+            4.4971537
+          ],
+          [
+            -74.1076246,
+            4.4964153
+          ],
+          [
+            -74.1075216,
+            4.4957308
+          ],
+          [
+            -74.1075322,
+            4.4952331
+          ],
+          [
+            -74.1076872,
+            4.4947402
+          ],
+          [
+            -74.1079302,
+            4.4943433
+          ],
+          [
+            -74.1082083,
+            4.4940365
+          ],
+          [
+            -74.1083533,
+            4.493937
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/327711300",
+      "properties": {
+        "@id": "way/327711300",
+        "highway": "trunk",
+        "lanes": "3",
+        "layer": "0",
+        "name": "Avenida Boyacá",
+        "oneway": "yes",
+        "@timestamp": "2015-02-12T04:56:27Z",
+        "@version": "1",
+        "@changeset": "28788089",
+        "@user": "Miller Castillo",
+        "@uid": "1738772",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.104202,
+            4.5046579
+          ],
+          [
+            -74.1041918,
+            4.5046793
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/327711301",
+      "properties": {
+        "@id": "way/327711301",
+        "highway": "trunk",
+        "lanes": "2",
+        "layer": "0",
+        "name": "Avenida Boyacá",
+        "oneway": "yes",
+        "@timestamp": "2015-02-12T04:56:27Z",
+        "@version": "1",
+        "@changeset": "28788089",
+        "@user": "Miller Castillo",
+        "@uid": "1738772",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1042945,
+            4.5046898
+          ],
+          [
+            -74.1046892,
+            4.5038681
+          ],
+          [
+            -74.1052685,
+            4.5026868
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/370130060",
+      "properties": {
+        "@id": "way/370130060",
+        "highway": "tertiary",
+        "mechanical": "yes",
+        "name": "Avenida General Santander;Avenida Carrera 27",
+        "oneway": "yes",
+        "@timestamp": "2015-09-11T04:16:15Z",
+        "@version": "1",
+        "@changeset": "33947254",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0978081,
+            4.6014616
+          ],
+          [
+            -74.097854,
+            4.6013864
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/370130061",
+      "properties": {
+        "@id": "way/370130061",
+        "highway": "tertiary",
+        "mechanical": "yes",
+        "name": "Avenida General Santander;Avenida Carrera 27",
+        "oneway": "yes",
+        "@timestamp": "2015-09-11T04:16:16Z",
+        "@version": "1",
+        "@changeset": "33947254",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0960785,
+            4.6036839
+          ],
+          [
+            -74.0965139,
+            4.6031712
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/370130063",
+      "properties": {
+        "@id": "way/370130063",
+        "alt_name": "Avenida General Santander",
+        "highway": "tertiary",
+        "mechanical": "yes",
+        "name": "Avenida Carrera 27",
+        "oneway": "yes",
+        "@timestamp": "2015-11-30T00:23:14Z",
+        "@version": "2",
+        "@changeset": "35657574",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2688881",
+            "reltags": {
+              "name": "Germania-El Uval",
+              "network": "SITP-urbano",
+              "ref": "652 El Uval",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0954873,
+            4.6043983
+          ],
+          [
+            -74.0957858,
+            4.6040286
+          ],
+          [
+            -74.0960785,
+            4.6036839
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/261044020",
+      "properties": {
+        "@id": "node/261044020",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-02-13T00:06:36Z",
+        "@version": "42",
+        "@changeset": "28811155",
+        "@user": "Miller Castillo",
+        "@uid": "1738772"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1140074,
+          4.5076256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/261629723",
+      "properties": {
+        "@id": "node/261629723",
+        "highway": "traffic_signals",
+        "@timestamp": "2013-07-25T21:36:25Z",
+        "@version": "31",
+        "@changeset": "17094596",
+        "@user": "blackatze93",
+        "@uid": "1643690"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1089911,
+          4.5893754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/261629786",
+      "properties": {
+        "@id": "node/261629786",
+        "highway": "traffic_signals",
+        "@timestamp": "2013-08-17T20:22:24Z",
+        "@version": "12",
+        "@changeset": "17388453",
+        "@user": "blackatze93",
+        "@uid": "1643690"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1090906,
+          4.5892699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/262567570",
+      "properties": {
+        "@id": "node/262567570",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-06T01:35:31Z",
+        "@version": "9",
+        "@changeset": "35779161",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0752701,
+          4.6080398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/264599351",
+      "properties": {
+        "@id": "node/264599351",
+        "highway": "traffic_signals",
+        "@timestamp": "2013-07-25T20:53:57Z",
+        "@version": "37",
+        "@changeset": "17094024",
+        "@user": "blackatze93",
+        "@uid": "1643690"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1109275,
+          4.5842947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/264599354",
+      "properties": {
+        "@id": "node/264599354",
+        "highway": "traffic_signals",
+        "@timestamp": "2013-07-18T03:37:22Z",
+        "@version": "35",
+        "@changeset": "16994725",
+        "@user": "blackatze93",
+        "@uid": "1643690"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1275251,
+          4.5788276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/264599361",
+      "properties": {
+        "@id": "node/264599361",
+        "highway": "traffic_signals",
+        "@timestamp": "2013-07-18T03:15:08Z",
+        "@version": "33",
+        "@changeset": "16994664",
+        "@user": "blackatze93",
+        "@uid": "1643690"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1306811,
+          4.5768025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/266042698",
+      "properties": {
+        "@id": "node/266042698",
+        "railway": "level_crossing",
+        "@timestamp": "2016-03-14T01:10:38Z",
+        "@version": "16",
+        "@changeset": "37810863",
+        "@user": "gatmood",
+        "@uid": "599974"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0807085,
+          4.612017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/266789605",
+      "properties": {
+        "@id": "node/266789605",
+        "highway": "traffic_signals",
+        "@timestamp": "2010-11-29T03:42:07Z",
+        "@version": "22",
+        "@changeset": "6483671",
+        "@user": "ikks",
+        "@uid": "37987"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0990718,
+          4.5998708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/266789607",
+      "properties": {
+        "@id": "node/266789607",
+        "highway": "traffic_signals",
+        "@timestamp": "2010-11-29T03:41:49Z",
+        "@version": "16",
+        "@changeset": "6483671",
+        "@user": "ikks",
+        "@uid": "37987"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.099158,
+          4.5997463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/307730410",
+      "properties": {
+        "@id": "node/307730410",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-02-12T04:56:28Z",
+        "@version": "11",
+        "@changeset": "28788089",
+        "@user": "Miller Castillo",
+        "@uid": "1738772"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1042601,
+          4.5047665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/310977793",
+      "properties": {
+        "@id": "node/310977793",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-05T23:51:46Z",
+        "@version": "23",
+        "@changeset": "35778309",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0978081,
+          4.6014616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/311255541",
+      "properties": {
+        "@id": "node/311255541",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-11-29T22:04:55Z",
+        "@version": "23",
+        "@changeset": "35656022",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.097854,
+          4.6013864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/312102626",
+      "properties": {
+        "@id": "node/312102626",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-03-27T03:40:06Z",
+        "@version": "15",
+        "@changeset": "29769187",
+        "@user": "johanud",
+        "@uid": "2784232"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1226028,
+          4.5201492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/314499149",
+      "properties": {
+        "@id": "node/314499149",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-02-12T04:52:49Z",
+        "@version": "13",
+        "@changeset": "28788078",
+        "@user": "Miller Castillo",
+        "@uid": "1738772"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1063563,
+          4.5005471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/319125354",
+      "properties": {
+        "@id": "node/319125354",
+        "highway": "traffic_signals",
+        "@timestamp": "2013-07-18T03:37:22Z",
+        "@version": "14",
+        "@changeset": "16994725",
+        "@user": "blackatze93",
+        "@uid": "1643690"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1322232,
+          4.5761722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/319192754",
+      "properties": {
+        "@id": "node/319192754",
+        "highway": "traffic_signals",
+        "@timestamp": "2013-07-18T14:12:28Z",
+        "@version": "4",
+        "@changeset": "17000444",
+        "@user": "blackatze93",
+        "@uid": "1643690"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1187513,
+          4.5816395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/367977227",
+      "properties": {
+        "@id": "node/367977227",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-02-13T00:06:10Z",
+        "@version": "5",
+        "@changeset": "28811147",
+        "@user": "Miller Castillo",
+        "@uid": "1738772"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1139601,
+          4.5075803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/729673475",
+      "properties": {
+        "@id": "node/729673475",
+        "highway": "traffic_signals",
+        "@timestamp": "2013-06-05T20:07:46Z",
+        "@version": "2",
+        "@changeset": "16436966",
+        "@user": "dbusse",
+        "@uid": "149876"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.114321,
+          4.506035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1039342716",
+      "properties": {
+        "@id": "node/1039342716",
+        "highway": "traffic_signals",
+        "@timestamp": "2013-07-18T17:30:25Z",
+        "@version": "6",
+        "@changeset": "17002505",
+        "@user": "blackatze93",
+        "@uid": "1643690"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1254483,
+          4.5794216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1039342748",
+      "properties": {
+        "@id": "node/1039342748",
+        "highway": "traffic_signals",
+        "@timestamp": "2013-07-18T17:30:25Z",
+        "@version": "5",
+        "@changeset": "17002505",
+        "@user": "blackatze93",
+        "@uid": "1643690"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1255269,
+          4.5793983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1039762558",
+      "properties": {
+        "@id": "node/1039762558",
+        "highway": "traffic_signals",
+        "@timestamp": "2013-07-18T03:15:07Z",
+        "@version": "3",
+        "@changeset": "16994664",
+        "@user": "blackatze93",
+        "@uid": "1643690"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1292563,
+          4.577852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1352595455",
+      "properties": {
+        "@id": "node/1352595455",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-02-12T23:48:13Z",
+        "@version": "2",
+        "@changeset": "28810946",
+        "@user": "Miller Castillo",
+        "@uid": "1738772"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.109113,
+          4.506561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1352841786",
+      "properties": {
+        "@id": "node/1352841786",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-02-12T04:56:28Z",
+        "@version": "2",
+        "@changeset": "28788089",
+        "@user": "Miller Castillo",
+        "@uid": "1738772"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1041918,
+          4.5046793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1642693967",
+      "properties": {
+        "@id": "node/1642693967",
+        "historic": "memorial",
+        "name": "Placa conmemorativa a Nicolas Neira",
+        "@timestamp": "2016-07-20T21:34:46Z",
+        "@version": "2",
+        "@changeset": "40906844",
+        "@user": "Isabella G",
+        "@uid": "4109208"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0719235,
+          4.6056045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1859711460",
+      "properties": {
+        "@id": "node/1859711460",
+        "highway": "traffic_signals",
+        "@timestamp": "2013-07-18T14:12:26Z",
+        "@version": "2",
+        "@changeset": "17000444",
+        "@user": "blackatze93",
+        "@uid": "1643690"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1188356,
+          4.5815999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2583835076",
+      "properties": {
+        "@id": "node/2583835076",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-02-12T04:56:28Z",
+        "@version": "2",
+        "@changeset": "28788089",
+        "@user": "Miller Castillo",
+        "@uid": "1738772"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.104202,
+          4.5046579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2583835077",
+      "properties": {
+        "@id": "node/2583835077",
+        "highway": "crossing",
+        "@timestamp": "2015-02-12T04:56:28Z",
+        "@version": "2",
+        "@changeset": "28788089",
+        "@user": "Miller Castillo",
+        "@uid": "1738772"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1042945,
+          4.5046898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3347014485",
+      "properties": {
+        "@id": "node/3347014485",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-02-13T00:11:50Z",
+        "@version": "2",
+        "@changeset": "28811208",
+        "@user": "Miller Castillo",
+        "@uid": "1738772"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1140319,
+          4.5076484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3879077994",
+      "properties": {
+        "@id": "node/3879077994",
+        "bus": "yes",
+        "name": "IED Ricaute",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "010A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-05T23:54:59Z",
+        "@version": "1",
+        "@changeset": "35778332",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0946433,
+          4.6054355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3879078787",
+      "properties": {
+        "@id": "node/3879078787",
+        "bus": "yes",
+        "name": "Veraguas",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "323A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-05T23:51:45Z",
+        "@version": "1",
+        "@changeset": "35778309",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0976155,
+          4.6017162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3879141389",
+      "properties": {
+        "@id": "node/3879141389",
+        "bus": "yes",
+        "name": "La Alameda",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "249A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-06T01:35:15Z",
+        "@version": "1",
+        "@changeset": "35779161",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0748852,
+          4.6077418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3879141392",
+      "properties": {
+        "@id": "node/3879141392",
+        "bus": "yes",
+        "name": "Las Nieves",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "245A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-06T01:35:15Z",
+        "@version": "1",
+        "@changeset": "35779161",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0708381,
+          4.6049009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3879141393",
+      "properties": {
+        "@id": "node/3879141393",
+        "bus": "yes",
+        "name": "Las Nieves",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "244A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-06T01:35:15Z",
+        "@version": "1",
+        "@changeset": "35779161",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0726917,
+          4.6061029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3879153901",
+      "properties": {
+        "@id": "node/3879153901",
+        "bus": "yes",
+        "name": "El Listón",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "007A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-26T18:26:31Z",
+        "@version": "2",
+        "@changeset": "36182120",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0818859,
+          4.6130056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3879153903",
+      "properties": {
+        "@id": "node/3879153903",
+        "bus": "yes",
+        "name": "La Favorita",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "254B00",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-06T01:57:07Z",
+        "@version": "1",
+        "@changeset": "35779316",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.079451,
+          4.6110183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3879153904",
+      "properties": {
+        "@id": "node/3879153904",
+        "bus": "yes",
+        "name": "La Favorita",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "254A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-06T01:57:07Z",
+        "@version": "1",
+        "@changeset": "35779316",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0799137,
+          4.6113577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3905876220",
+      "properties": {
+        "@id": "node/3905876220",
+        "bus": "yes",
+        "name": "Santa Isabel sur Calle 1B",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "048A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-23T04:30:09Z",
+        "@version": "1",
+        "@changeset": "36118168",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1018819,
+          4.5962842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3911100961",
+      "properties": {
+        "@id": "node/3911100961",
+        "bus": "yes",
+        "name": "Estación Ricaurte",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "321A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-26T18:26:22Z",
+        "@version": "1",
+        "@changeset": "36182120",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0890056,
+          4.6124699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3911100964",
+      "properties": {
+        "@id": "node/3911100964",
+        "bus": "yes",
+        "name": "Paloquemao",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "159A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-26T18:26:23Z",
+        "@version": "1",
+        "@changeset": "36182120",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0848236,
+          4.6129861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3911133123",
+      "properties": {
+        "@id": "node/3911133123",
+        "bus": "yes",
+        "name": "CAI Santa Isabel",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "011A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-26T18:45:28Z",
+        "@version": "1",
+        "@changeset": "36182392",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0995089,
+          4.5992975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3911133126",
+      "properties": {
+        "@id": "node/3911133126",
+        "bus": "yes",
+        "name": "Ricaurte",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "322A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-26T18:45:29Z",
+        "@version": "1",
+        "@changeset": "36182392",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0920865,
+          4.6086364
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,5306 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-10-01T20:17:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/239074774",
+      "properties": {
+        "@id": "way/239074774",
+        "amenity": "bus_station",
+        "building": "yes",
+        "name": "Portal El Dorado",
+        "operator": "Transmilenio",
+        "ref": "Portal ElDorado",
+        "@timestamp": "2015-06-21T13:32:04Z",
+        "@version": "11",
+        "@changeset": "32117150",
+        "@user": "dbusse",
+        "@uid": "149876",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4835678",
+            "reltags": {
+              "colour": "green",
+              "name": "16-10 Villemar",
+              "operator": "Transmilenio",
+              "ref": "16-10",
+              "route": "bus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": "4841863",
+            "reltags": {
+              "colour": "green",
+              "name": "16-1 Tierra Grata",
+              "operator": "Transmilenio",
+              "ref": "16-1",
+              "route": "bus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": "4841864",
+            "reltags": {
+              "colour": "green",
+              "name": "16-13 AV. Cali - Hayuelos",
+              "operator": "Transmilenio",
+              "ref": "16-13",
+              "route": "bus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": "4841865",
+            "reltags": {
+              "colour": "green",
+              "name": "16-14 Aeropuerto",
+              "operator": "Transmilenio",
+              "ref": "16-14",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.1221684,
+              4.6824833
+            ],
+            [
+              -74.1207861,
+              4.6806475
+            ],
+            [
+              -74.1206478,
+              4.6807509
+            ],
+            [
+              -74.1205736,
+              4.6808075
+            ],
+            [
+              -74.121974,
+              4.6826309
+            ],
+            [
+              -74.1219984,
+              4.6826123
+            ],
+            [
+              -74.1221021,
+              4.6825329
+            ],
+            [
+              -74.1221684,
+              4.6824833
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24061676",
+      "properties": {
+        "@id": "way/24061676",
+        "highway": "primary",
+        "mechanical": "yes",
+        "name": "Calle 26;Avenida El Dorado",
+        "oneway": "yes",
+        "@timestamp": "2015-05-15T16:37:16Z",
+        "@version": "29",
+        "@changeset": "31181551",
+        "@user": "carciofo",
+        "@uid": "2533093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4841865",
+            "reltags": {
+              "colour": "green",
+              "name": "16-14 Aeropuerto",
+              "operator": "Transmilenio",
+              "ref": "16-14",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1370977,
+            4.6936434
+          ],
+          [
+            -74.1366438,
+            4.6933582
+          ],
+          [
+            -74.1360358,
+            4.6929148
+          ],
+          [
+            -74.1355957,
+            4.6925789
+          ],
+          [
+            -74.1354949,
+            4.6925016
+          ],
+          [
+            -74.1346841,
+            4.691872
+          ],
+          [
+            -74.1337637,
+            4.6912092
+          ],
+          [
+            -74.1325622,
+            4.6902076
+          ],
+          [
+            -74.1319837,
+            4.6897769
+          ],
+          [
+            -74.1315834,
+            4.6894789
+          ],
+          [
+            -74.1314361,
+            4.6893693
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24156040",
+      "properties": {
+        "@id": "way/24156040",
+        "highway": "tertiary",
+        "name": "Diagonal 25G",
+        "oneway": "yes",
+        "@timestamp": "2013-08-13T15:28:11Z",
+        "@version": "6",
+        "@changeset": "17332663",
+        "@user": "elmaderaa",
+        "@uid": "150291",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4841865",
+            "reltags": {
+              "colour": "green",
+              "name": "16-14 Aeropuerto",
+              "operator": "Transmilenio",
+              "ref": "16-14",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1233023,
+            4.6830347
+          ],
+          [
+            -74.1232421,
+            4.6828741
+          ],
+          [
+            -74.1230838,
+            4.6824522
+          ],
+          [
+            -74.1223741,
+            4.6805595
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24156042",
+      "properties": {
+        "@id": "way/24156042",
+        "created_by": "JOSM",
+        "highway": "primary_link",
+        "oneway": "yes",
+        "@timestamp": "2008-05-02T22:14:59Z",
+        "@version": "1",
+        "@changeset": "311478",
+        "@user": "jldominguez",
+        "@uid": "24134",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4841865",
+            "reltags": {
+              "colour": "green",
+              "name": "16-14 Aeropuerto",
+              "operator": "Transmilenio",
+              "ref": "16-14",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1215445,
+            4.6783836
+          ],
+          [
+            -74.1214324,
+            4.6779159
+          ],
+          [
+            -74.1214245,
+            4.6774995
+          ],
+          [
+            -74.1215502,
+            4.676981
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24156043",
+      "properties": {
+        "@id": "way/24156043",
+        "highway": "primary_link",
+        "oneway": "yes",
+        "@timestamp": "2012-04-18T04:22:38Z",
+        "@version": "2",
+        "@changeset": "11339981",
+        "@user": "Manchito",
+        "@uid": "202868",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4841865",
+            "reltags": {
+              "colour": "green",
+              "name": "16-14 Aeropuerto",
+              "operator": "Transmilenio",
+              "ref": "16-14",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1235089,
+            4.6834139
+          ],
+          [
+            -74.1234521,
+            4.6832977
+          ],
+          [
+            -74.1233023,
+            4.6830347
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25839828",
+      "properties": {
+        "@id": "way/25839828",
+        "highway": "secondary",
+        "oneway": "yes",
+        "@timestamp": "2015-10-14T19:29:25Z",
+        "@version": "36",
+        "@changeset": "34639217",
+        "@user": "enavarrete",
+        "@uid": "737455",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4835678",
+            "reltags": {
+              "colour": "green",
+              "name": "16-10 Villemar",
+              "operator": "Transmilenio",
+              "ref": "16-10",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.13857,
+            4.6784651
+          ],
+          [
+            -74.1366628,
+            4.6794135
+          ],
+          [
+            -74.1363664,
+            4.6796208
+          ],
+          [
+            -74.1359653,
+            4.6799234
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29597517",
+      "properties": {
+        "@id": "way/29597517",
+        "highway": "tertiary",
+        "name": "Transversal 94",
+        "oneway": "yes",
+        "@timestamp": "2015-04-26T19:35:49Z",
+        "@version": "14",
+        "@changeset": "30515288",
+        "@user": "osukaru88",
+        "@uid": "1867330",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4835678",
+            "reltags": {
+              "colour": "green",
+              "name": "16-10 Villemar",
+              "operator": "Transmilenio",
+              "ref": "16-10",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1268486,
+            4.6748581
+          ],
+          [
+            -74.1273785,
+            4.6746047
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/47286096",
+      "properties": {
+        "@id": "way/47286096",
+        "highway": "tertiary",
+        "name": "Calle 21 Bis",
+        "oneway": "no",
+        "@timestamp": "2015-04-28T18:09:27Z",
+        "@version": "8",
+        "@changeset": "30590542",
+        "@user": "osukaru88",
+        "@uid": "1867330",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4835678",
+            "reltags": {
+              "colour": "green",
+              "name": "16-10 Villemar",
+              "operator": "Transmilenio",
+              "ref": "16-10",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1365303,
+            4.6720233
+          ],
+          [
+            -74.1368183,
+            4.6723166
+          ],
+          [
+            -74.1377397,
+            4.6732478
+          ],
+          [
+            -74.1387391,
+            4.6742284
+          ],
+          [
+            -74.139317,
+            4.6748182
+          ],
+          [
+            -74.1398178,
+            4.6753293
+          ],
+          [
+            -74.1401636,
+            4.6756419
+          ],
+          [
+            -74.1404245,
+            4.6758778
+          ],
+          [
+            -74.1405111,
+            4.675956
+          ],
+          [
+            -74.1406965,
+            4.6761236
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/71496534",
+      "properties": {
+        "@id": "way/71496534",
+        "highway": "tertiary",
+        "name": "Carrera 96C",
+        "oneway": "no",
+        "@timestamp": "2015-04-27T21:44:07Z",
+        "@version": "9",
+        "@changeset": "30561516",
+        "@user": "osukaru88",
+        "@uid": "1867330",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4835678",
+            "reltags": {
+              "colour": "green",
+              "name": "16-10 Villemar",
+              "operator": "Transmilenio",
+              "ref": "16-10",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1422234,
+            4.6680862
+          ],
+          [
+            -74.1415645,
+            4.6684823
+          ],
+          [
+            -74.1410282,
+            4.6688603
+          ],
+          [
+            -74.1405321,
+            4.6691952
+          ],
+          [
+            -74.1404579,
+            4.6692453
+          ],
+          [
+            -74.1399478,
+            4.6696049
+          ],
+          [
+            -74.1394051,
+            4.6699735
+          ],
+          [
+            -74.1388894,
+            4.6703323
+          ],
+          [
+            -74.1388365,
+            4.6703721
+          ],
+          [
+            -74.1383838,
+            4.670713
+          ],
+          [
+            -74.1379422,
+            4.6710391
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/85959113",
+      "properties": {
+        "@id": "way/85959113",
+        "highway": "unclassified",
+        "name": "Aeropuerto El Dorado",
+        "oneway": "yes",
+        "@timestamp": "2015-09-29T03:28:48Z",
+        "@version": "6",
+        "@changeset": "34316805",
+        "@user": "oscar d",
+        "@uid": "3081604",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": "4841865",
+            "reltags": {
+              "colour": "green",
+              "name": "16-14 Aeropuerto",
+              "operator": "Transmilenio",
+              "ref": "16-14",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1409528,
+            4.6954397
+          ],
+          [
+            -74.1408681,
+            4.6953979
+          ],
+          [
+            -74.1408047,
+            4.695362
+          ],
+          [
+            -74.1405734,
+            4.6952006
+          ],
+          [
+            -74.1403105,
+            4.694995
+          ],
+          [
+            -74.1396425,
+            4.6944762
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90882227",
+      "properties": {
+        "@id": "way/90882227",
+        "highway": "tertiary",
+        "name": "Diagonal 25G",
+        "@timestamp": "2013-08-13T15:28:12Z",
+        "@version": "2",
+        "@changeset": "17332663",
+        "@user": "elmaderaa",
+        "@uid": "150291",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4841865",
+            "reltags": {
+              "colour": "green",
+              "name": "16-14 Aeropuerto",
+              "operator": "Transmilenio",
+              "ref": "16-14",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1220441,
+            4.679657
+          ],
+          [
+            -74.1215445,
+            4.6783836
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90882233",
+      "properties": {
+        "@id": "way/90882233",
+        "highway": "tertiary",
+        "name": "Diagonal 25G",
+        "@timestamp": "2013-08-13T15:28:11Z",
+        "@version": "2",
+        "@changeset": "17332663",
+        "@user": "elmaderaa",
+        "@uid": "150291",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4841865",
+            "reltags": {
+              "colour": "green",
+              "name": "16-14 Aeropuerto",
+              "operator": "Transmilenio",
+              "ref": "16-14",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1223741,
+            4.6805595
+          ],
+          [
+            -74.1222416,
+            4.6802062
+          ],
+          [
+            -74.1220441,
+            4.679657
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90882238",
+      "properties": {
+        "@id": "way/90882238",
+        "highway": "primary",
+        "mechanical": "yes",
+        "name": "Calle 26 - Avenida El Dorado",
+        "oneway": "yes",
+        "@timestamp": "2012-05-29T06:05:32Z",
+        "@version": "2",
+        "@changeset": "11734274",
+        "@user": "botika",
+        "@uid": "689780",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4841865",
+            "reltags": {
+              "colour": "green",
+              "name": "16-14 Aeropuerto",
+              "operator": "Transmilenio",
+              "ref": "16-14",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1295239,
+            4.6879558
+          ],
+          [
+            -74.1292401,
+            4.6877378
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90882239",
+      "properties": {
+        "@id": "way/90882239",
+        "highway": "primary",
+        "lanes": "2",
+        "mechanical": "yes",
+        "name": "Calle 26 - Avenida El Dorado",
+        "oneway": "yes",
+        "surface": "concrete",
+        "@timestamp": "2016-03-21T20:58:16Z",
+        "@version": "5",
+        "@changeset": "37986442",
+        "@user": "Nodes&Roads",
+        "@uid": "3642735",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4835678",
+            "reltags": {
+              "colour": "green",
+              "name": "16-10 Villemar",
+              "operator": "Transmilenio",
+              "ref": "16-10",
+              "route": "bus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": "4841864",
+            "reltags": {
+              "colour": "green",
+              "name": "16-13 AV. Cali - Hayuelos",
+              "operator": "Transmilenio",
+              "ref": "16-13",
+              "route": "bus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": "4841865",
+            "reltags": {
+              "colour": "green",
+              "name": "16-14 Aeropuerto",
+              "operator": "Transmilenio",
+              "ref": "16-14",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1292401,
+            4.6877378
+          ],
+          [
+            -74.1287825,
+            4.6874071
+          ],
+          [
+            -74.1281969,
+            4.6869639
+          ],
+          [
+            -74.127215,
+            4.6862207
+          ],
+          [
+            -74.1261151,
+            4.6853957
+          ],
+          [
+            -74.1258912,
+            4.685232
+          ],
+          [
+            -74.1253717,
+            4.6848221
+          ],
+          [
+            -74.1249057,
+            4.6844552
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90882247",
+      "properties": {
+        "@id": "way/90882247",
+        "highway": "primary",
+        "mechanical": "yes",
+        "name": "Calle 26 - Avenida El Dorado",
+        "oneway": "yes",
+        "@timestamp": "2015-04-27T20:23:09Z",
+        "@version": "6",
+        "@changeset": "30558986",
+        "@user": "osukaru88",
+        "@uid": "1867330",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4835678",
+            "reltags": {
+              "colour": "green",
+              "name": "16-10 Villemar",
+              "operator": "Transmilenio",
+              "ref": "16-10",
+              "route": "bus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": "4841864",
+            "reltags": {
+              "colour": "green",
+              "name": "16-13 AV. Cali - Hayuelos",
+              "operator": "Transmilenio",
+              "ref": "16-13",
+              "route": "bus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": "4841865",
+            "reltags": {
+              "colour": "green",
+              "name": "16-14 Aeropuerto",
+              "operator": "Transmilenio",
+              "ref": "16-14",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1249057,
+            4.6844552
+          ],
+          [
+            -74.1246549,
+            4.6842654
+          ],
+          [
+            -74.1246027,
+            4.6842242
+          ],
+          [
+            -74.1244828,
+            4.6841415
+          ],
+          [
+            -74.1241669,
+            4.6839237
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90883295",
+      "properties": {
+        "@id": "way/90883295",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Carrera 100",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "@timestamp": "2016-01-20T23:51:22Z",
+        "@version": "3",
+        "@changeset": "36711843",
+        "@user": "Lore_trujillo",
+        "@uid": "1335396",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4835678",
+            "reltags": {
+              "colour": "green",
+              "name": "16-10 Villemar",
+              "operator": "Transmilenio",
+              "ref": "16-10",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.134047,
+            4.6813805
+          ],
+          [
+            -74.1339467,
+            4.6814553
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90883309",
+      "properties": {
+        "@id": "way/90883309",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Carrera 100",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "@timestamp": "2015-04-27T20:23:09Z",
+        "@version": "4",
+        "@changeset": "30558986",
+        "@user": "osukaru88",
+        "@uid": "1867330",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4835678",
+            "reltags": {
+              "colour": "green",
+              "name": "16-10 Villemar",
+              "operator": "Transmilenio",
+              "ref": "16-10",
+              "route": "bus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": "4841864",
+            "reltags": {
+              "colour": "green",
+              "name": "16-13 AV. Cali - Hayuelos",
+              "operator": "Transmilenio",
+              "ref": "16-13",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1330939,
+            4.6822233
+          ],
+          [
+            -74.1327075,
+            4.6826592
+          ],
+          [
+            -74.1324823,
+            4.682974
+          ],
+          [
+            -74.1322669,
+            4.6833109
+          ],
+          [
+            -74.1320267,
+            4.6836644
+          ],
+          [
+            -74.1317626,
+            4.6840712
+          ],
+          [
+            -74.1313649,
+            4.6846758
+          ],
+          [
+            -74.1310999,
+            4.6850631
+          ],
+          [
+            -74.1308661,
+            4.6854106
+          ],
+          [
+            -74.1306446,
+            4.6857625
+          ],
+          [
+            -74.1304218,
+            4.6861099
+          ],
+          [
+            -74.130183,
+            4.6864433
+          ],
+          [
+            -74.1299634,
+            4.6867986
+          ],
+          [
+            -74.1296272,
+            4.6873424
+          ],
+          [
+            -74.1294728,
+            4.6875922
+          ],
+          [
+            -74.1293923,
+            4.6876993
+          ],
+          [
+            -74.1292401,
+            4.6877378
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90883315",
+      "properties": {
+        "@id": "way/90883315",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Carrera 100",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "@timestamp": "2015-04-27T20:55:54Z",
+        "@version": "3",
+        "@changeset": "30560104",
+        "@user": "osukaru88",
+        "@uid": "1867330",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4835678",
+            "reltags": {
+              "colour": "green",
+              "name": "16-10 Villemar",
+              "operator": "Transmilenio",
+              "ref": "16-10",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1359653,
+            4.6799234
+          ],
+          [
+            -74.1354031,
+            4.6803508
+          ],
+          [
+            -74.1350844,
+            4.6805908
+          ],
+          [
+            -74.1342769,
+            4.6812055
+          ],
+          [
+            -74.134047,
+            4.6813805
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90890561",
+      "properties": {
+        "@id": "way/90890561",
+        "highway": "secondary",
+        "name": "Carrera 100",
+        "oneway": "yes",
+        "@timestamp": "2012-08-06T04:15:17Z",
+        "@version": "2",
+        "@changeset": "12628465",
+        "@user": "Vidal de la Blache",
+        "@uid": "779340",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4835678",
+            "reltags": {
+              "colour": "green",
+              "name": "16-10 Villemar",
+              "operator": "Transmilenio",
+              "ref": "16-10",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1336098,
+            4.681877
+          ],
+          [
+            -74.1340179,
+            4.6815144
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90890575",
+      "properties": {
+        "@id": "way/90890575",
+        "highway": "tertiary",
+        "lanes": "2",
+        "name": "Diagonal 24C",
+        "oneway": "yes",
+        "@timestamp": "2015-04-26T19:35:48Z",
+        "@version": "6",
+        "@changeset": "30515288",
+        "@user": "osukaru88",
+        "@uid": "1867330",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4835678",
+            "reltags": {
+              "colour": "green",
+              "name": "16-10 Villemar",
+              "operator": "Transmilenio",
+              "ref": "16-10",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1330939,
+            4.6822233
+          ],
+          [
+            -74.1331967,
+            4.6822477
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90890586",
+      "properties": {
+        "@id": "way/90890586",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida Calle 24;Avenida de la esperanza",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "@timestamp": "2015-04-27T21:10:02Z",
+        "@version": "4",
+        "@changeset": "30560529",
+        "@user": "osukaru88",
+        "@uid": "1867330",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4835678",
+            "reltags": {
+              "colour": "green",
+              "name": "16-10 Villemar",
+              "operator": "Transmilenio",
+              "ref": "16-10",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1273785,
+            4.6746047
+          ],
+          [
+            -74.1284614,
+            4.6757286
+          ],
+          [
+            -74.1287446,
+            4.6761563
+          ],
+          [
+            -74.1289943,
+            4.676419
+          ],
+          [
+            -74.1295171,
+            4.676969
+          ],
+          [
+            -74.129972,
+            4.6774651
+          ],
+          [
+            -74.1304409,
+            4.6779472
+          ],
+          [
+            -74.1307874,
+            4.6783035
+          ],
+          [
+            -74.1311994,
+            4.6787569
+          ],
+          [
+            -74.1314226,
+            4.6788424
+          ],
+          [
+            -74.1321538,
+            4.6796025
+          ],
+          [
+            -74.1325457,
+            4.6800229
+          ],
+          [
+            -74.1326294,
+            4.6801039
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90890593",
+      "properties": {
+        "@id": "way/90890593",
+        "highway": "secondary",
+        "name": "Carrera 100",
+        "oneway": "yes",
+        "@timestamp": "2015-10-14T19:31:12Z",
+        "@version": "4",
+        "@changeset": "34639217",
+        "@user": "enavarrete",
+        "@uid": "737455",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4835678",
+            "reltags": {
+              "colour": "green",
+              "name": "16-10 Villemar",
+              "operator": "Transmilenio",
+              "ref": "16-10",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1341037,
+            4.6814374
+          ],
+          [
+            -74.1343479,
+            4.6812517
+          ],
+          [
+            -74.1354582,
+            4.6804073
+          ],
+          [
+            -74.1355633,
+            4.6803273
+          ],
+          [
+            -74.1360237,
+            4.6799769
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90910662",
+      "properties": {
+        "@id": "way/90910662",
+        "highway": "tertiary",
+        "name": "Transversal 94",
+        "oneway": "no",
+        "@timestamp": "2015-04-27T21:10:03Z",
+        "@version": "4",
+        "@changeset": "30560529",
+        "@user": "osukaru88",
+        "@uid": "1867330",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4835678",
+            "reltags": {
+              "colour": "green",
+              "name": "16-10 Villemar",
+              "operator": "Transmilenio",
+              "ref": "16-10",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1268486,
+            4.6748581
+          ],
+          [
+            -74.1256186,
+            4.6754463
+          ],
+          [
+            -74.1247902,
+            4.6758313
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90910686",
+      "properties": {
+        "@id": "way/90910686",
+        "highway": "tertiary",
+        "name": "Transversal 94",
+        "oneway": "yes",
+        "@timestamp": "2015-04-26T19:35:49Z",
+        "@version": "6",
+        "@changeset": "30515288",
+        "@user": "osukaru88",
+        "@uid": "1867330",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4835678",
+            "reltags": {
+              "colour": "green",
+              "name": "16-10 Villemar",
+              "operator": "Transmilenio",
+              "ref": "16-10",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.123622,
+            4.676374
+          ],
+          [
+            -74.1241154,
+            4.6761712
+          ],
+          [
+            -74.1247902,
+            4.6758313
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90910692",
+      "properties": {
+        "@id": "way/90910692",
+        "highway": "secondary",
+        "name": "Carrera 100",
+        "oneway": "yes",
+        "@timestamp": "2012-08-06T04:15:19Z",
+        "@version": "2",
+        "@changeset": "12628465",
+        "@user": "Vidal de la Blache",
+        "@uid": "779340",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4835678",
+            "reltags": {
+              "colour": "green",
+              "name": "16-10 Villemar",
+              "operator": "Transmilenio",
+              "ref": "16-10",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1360237,
+            4.6799769
+          ],
+          [
+            -74.1367097,
+            4.6795017
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90910928",
+      "properties": {
+        "@id": "way/90910928",
+        "highway": "primary",
+        "name": "Avenida Ciudad de Cali",
+        "official_name": "AK 86",
+        "oneway": "yes",
+        "@timestamp": "2015-04-27T23:24:44Z",
+        "@version": "4",
+        "@changeset": "30563578",
+        "@user": "osukaru88",
+        "@uid": "1867330",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4841864",
+            "reltags": {
+              "colour": "green",
+              "name": "16-13 AV. Cali - Hayuelos",
+              "operator": "Transmilenio",
+              "ref": "16-13",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1235349,
+            4.6745363
+          ],
+          [
+            -74.1235596,
+            4.6745011
+          ],
+          [
+            -74.1236408,
+            4.6743702
+          ],
+          [
+            -74.1237344,
+            4.6741643
+          ],
+          [
+            -74.123868,
+            4.6739207
+          ],
+          [
+            -74.1240333,
+            4.6737297
+          ],
+          [
+            -74.1241377,
+            4.6736113
+          ],
+          [
+            -74.1243777,
+            4.6733481
+          ],
+          [
+            -74.1249719,
+            4.6726047
+          ],
+          [
+            -74.1250357,
+            4.6725333
+          ],
+          [
+            -74.1251491,
+            4.6723998
+          ],
+          [
+            -74.1252009,
+            4.6723389
+          ],
+          [
+            -74.1253372,
+            4.6721961
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90910952",
+      "properties": {
+        "@id": "way/90910952",
+        "highway": "secondary",
+        "name": "Carrera 100",
+        "oneway": "yes",
+        "@timestamp": "2015-10-14T19:44:37Z",
+        "@version": "4",
+        "@changeset": "34639217",
+        "@user": "enavarrete",
+        "@uid": "737455",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4835678",
+            "reltags": {
+              "colour": "green",
+              "name": "16-10 Villemar",
+              "operator": "Transmilenio",
+              "ref": "16-10",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.138617,
+            4.6785273
+          ],
+          [
+            -74.1391247,
+            4.6782591
+          ],
+          [
+            -74.139383,
+            4.6781026
+          ],
+          [
+            -74.1396091,
+            4.6779657
+          ],
+          [
+            -74.1399293,
+            4.6777553
+          ],
+          [
+            -74.1402928,
+            4.6774357
+          ],
+          [
+            -74.1407152,
+            4.6770017
+          ],
+          [
+            -74.1408791,
+            4.6768302
+          ],
+          [
+            -74.1409705,
+            4.6767442
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90913085",
+      "properties": {
+        "@id": "way/90913085",
+        "highway": "secondary",
+        "name": "Carrera 100",
+        "oneway": "yes",
+        "@timestamp": "2015-04-27T20:55:54Z",
+        "@version": "5",
+        "@changeset": "30560104",
+        "@user": "osukaru88",
+        "@uid": "1867330",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4835678",
+            "reltags": {
+              "colour": "green",
+              "name": "16-10 Villemar",
+              "operator": "Transmilenio",
+              "ref": "16-10",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1410952,
+            4.6766356
+          ],
+          [
+            -74.1415326,
+            4.6762926
+          ],
+          [
+            -74.1416485,
+            4.6762017
+          ],
+          [
+            -74.1422166,
+            4.6757952
+          ],
+          [
+            -74.1431382,
+            4.6752355
+          ],
+          [
+            -74.1439135,
+            4.6746333
+          ],
+          [
+            -74.1446679,
+            4.6740185
+          ],
+          [
+            -74.1446919,
+            4.6740013
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/91078277",
+      "properties": {
+        "@id": "way/91078277",
+        "highway": "secondary",
+        "name": "Calle 17",
+        "@timestamp": "2010-12-22T20:10:30Z",
+        "@version": "1",
+        "@changeset": "6739332",
+        "@user": "dmartinh",
+        "@uid": "314700",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4835678",
+            "reltags": {
+              "colour": "green",
+              "name": "16-10 Villemar",
+              "operator": "Transmilenio",
+              "ref": "16-10",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1452106,
+            4.6722229
+          ],
+          [
+            -74.1455539,
+            4.6725913
+          ],
+          [
+            -74.1459688,
+            4.6729631
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/91078287",
+      "properties": {
+        "@id": "way/91078287",
+        "highway": "secondary",
+        "name": "Calle 17",
+        "@timestamp": "2015-04-27T21:44:07Z",
+        "@version": "4",
+        "@changeset": "30561516",
+        "@user": "osukaru88",
+        "@uid": "1867330",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4835678",
+            "reltags": {
+              "colour": "green",
+              "name": "16-10 Villemar",
+              "operator": "Transmilenio",
+              "ref": "16-10",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1422234,
+            4.6680862
+          ],
+          [
+            -74.1428321,
+            4.6689041
+          ],
+          [
+            -74.1429318,
+            4.6690499
+          ],
+          [
+            -74.1435028,
+            4.6698702
+          ],
+          [
+            -74.1435598,
+            4.6699519
+          ],
+          [
+            -74.1440593,
+            4.6706671
+          ],
+          [
+            -74.1445989,
+            4.6714204
+          ],
+          [
+            -74.1446173,
+            4.6714461
+          ],
+          [
+            -74.1452106,
+            4.6722229
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/91334597",
+      "properties": {
+        "@id": "way/91334597",
+        "highway": "primary",
+        "mechanical": "yes",
+        "name": "Calle 26 - Avenida El Dorado",
+        "oneway": "yes",
+        "@timestamp": "2013-12-18T15:17:08Z",
+        "@version": "3",
+        "@changeset": "19516842",
+        "@user": "Moovit Team",
+        "@uid": "1190212",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4841863",
+            "reltags": {
+              "colour": "green",
+              "name": "16-1 Tierra Grata",
+              "operator": "Transmilenio",
+              "ref": "16-1",
+              "route": "bus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": "4841865",
+            "reltags": {
+              "colour": "green",
+              "name": "16-14 Aeropuerto",
+              "operator": "Transmilenio",
+              "ref": "16-14",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1230105,
+            4.68396
+          ],
+          [
+            -74.1236799,
+            4.6844578
+          ],
+          [
+            -74.1237566,
+            4.6845148
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/91335039",
+      "properties": {
+        "@id": "way/91335039",
+        "highway": "primary",
+        "mechanical": "yes",
+        "name": "Calle 26 - Avenida El Dorado",
+        "oneway": "yes",
+        "@timestamp": "2013-08-09T14:22:05Z",
+        "@version": "3",
+        "@changeset": "17279861",
+        "@user": "elmaderaa",
+        "@uid": "150291",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4841865",
+            "reltags": {
+              "colour": "green",
+              "name": "16-14 Aeropuerto",
+              "operator": "Transmilenio",
+              "ref": "16-14",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.124469,
+            4.6850475
+          ],
+          [
+            -74.1245358,
+            4.6850972
+          ],
+          [
+            -74.125294,
+            4.6856511
+          ],
+          [
+            -74.1254246,
+            4.6857515
+          ],
+          [
+            -74.1257767,
+            4.686022
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/91335160",
+      "properties": {
+        "@id": "way/91335160",
+        "highway": "primary",
+        "mechanical": "yes",
+        "name": "Calle 26 - Avenida El Dorado",
+        "oneway": "yes",
+        "@timestamp": "2015-06-14T16:25:55Z",
+        "@version": "3",
+        "@changeset": "31965882",
+        "@user": "osukaru88",
+        "@uid": "1867330",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4841865",
+            "reltags": {
+              "colour": "green",
+              "name": "16-14 Aeropuerto",
+              "operator": "Transmilenio",
+              "ref": "16-14",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1300662,
+            4.6892762
+          ],
+          [
+            -74.1303719,
+            4.6895051
+          ],
+          [
+            -74.1309698,
+            4.6899535
+          ],
+          [
+            -74.1311056,
+            4.6900553
+          ],
+          [
+            -74.1313394,
+            4.6902307
+          ],
+          [
+            -74.1313832,
+            4.6902637
+          ],
+          [
+            -74.1324715,
+            4.6910839
+          ],
+          [
+            -74.1335511,
+            4.6919048
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/91335167",
+      "properties": {
+        "@id": "way/91335167",
+        "highway": "primary",
+        "oneway": "yes",
+        "@timestamp": "2015-05-13T12:52:03Z",
+        "@version": "5",
+        "@changeset": "31103061",
+        "@user": "carciofo",
+        "@uid": "2533093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4841865",
+            "reltags": {
+              "colour": "green",
+              "name": "16-14 Aeropuerto",
+              "operator": "Transmilenio",
+              "ref": "16-14",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1376459,
+            4.6952817
+          ],
+          [
+            -74.1378703,
+            4.6954359
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/91335202",
+      "properties": {
+        "@id": "way/91335202",
+        "highway": "primary",
+        "name": "Calle 26;Avenida El Dorado",
+        "oneway": "yes",
+        "@timestamp": "2015-11-01T16:21:37Z",
+        "@version": "6",
+        "@changeset": "35015607",
+        "@user": "carciofo",
+        "@uid": "2533093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4841865",
+            "reltags": {
+              "colour": "green",
+              "name": "16-14 Aeropuerto",
+              "operator": "Transmilenio",
+              "ref": "16-14",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1335511,
+            4.6919048
+          ],
+          [
+            -74.1338824,
+            4.6921657
+          ],
+          [
+            -74.1339901,
+            4.6922488
+          ],
+          [
+            -74.1355285,
+            4.6934355
+          ],
+          [
+            -74.1356779,
+            4.6935908
+          ],
+          [
+            -74.1357813,
+            4.6937112
+          ],
+          [
+            -74.1358847,
+            4.6938695
+          ],
+          [
+            -74.1360305,
+            4.6941509
+          ],
+          [
+            -74.136066,
+            4.6942014
+          ],
+          [
+            -74.13624,
+            4.6944033
+          ],
+          [
+            -74.1363772,
+            4.6945152
+          ],
+          [
+            -74.1365313,
+            4.6946017
+          ],
+          [
+            -74.1367277,
+            4.694701
+          ],
+          [
+            -74.1371478,
+            4.6950049
+          ],
+          [
+            -74.1376459,
+            4.6952817
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/91335497",
+      "properties": {
+        "@id": "way/91335497",
+        "highway": "primary",
+        "mechanical": "yes",
+        "name": "Calle 26 - Avenida El Dorado",
+        "oneway": "yes",
+        "@timestamp": "2013-06-06T11:29:26Z",
+        "@version": "5",
+        "@changeset": "16443728",
+        "@user": "Moovit Team",
+        "@uid": "1190212",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4841865",
+            "reltags": {
+              "colour": "green",
+              "name": "16-14 Aeropuerto",
+              "operator": "Transmilenio",
+              "ref": "16-14",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1237566,
+            4.6845148
+          ],
+          [
+            -74.1240989,
+            4.6847707
+          ],
+          [
+            -74.124469,
+            4.6850475
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/91939104",
+      "properties": {
+        "@id": "way/91939104",
+        "highway": "primary",
+        "name": "Calle 26;Avenida El Dorado",
+        "oneway": "yes",
+        "@timestamp": "2015-11-01T16:21:37Z",
+        "@version": "5",
+        "@changeset": "35015607",
+        "@user": "carciofo",
+        "@uid": "2533093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4841865",
+            "reltags": {
+              "colour": "green",
+              "name": "16-14 Aeropuerto",
+              "operator": "Transmilenio",
+              "ref": "16-14",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1382963,
+            4.6940673
+          ],
+          [
+            -74.1376449,
+            4.6938198
+          ],
+          [
+            -74.1370977,
+            4.6936434
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/91939116",
+      "properties": {
+        "@id": "way/91939116",
+        "highway": "primary",
+        "mechanical": "yes",
+        "name": "Calle 26 - Avenida El Dorado",
+        "oneway": "yes",
+        "@timestamp": "2012-05-29T06:05:50Z",
+        "@version": "2",
+        "@changeset": "11734278",
+        "@user": "botika",
+        "@uid": "689780",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4841865",
+            "reltags": {
+              "colour": "green",
+              "name": "16-14 Aeropuerto",
+              "operator": "Transmilenio",
+              "ref": "16-14",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1304629,
+            4.688676
+          ],
+          [
+            -74.1298512,
+            4.6882151
+          ],
+          [
+            -74.1295239,
+            4.6879558
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/91939119",
+      "properties": {
+        "@id": "way/91939119",
+        "highway": "tertiary",
+        "name": "Aeropuerto El Dorado",
+        "oneway": "yes",
+        "@timestamp": "2015-09-21T16:45:45Z",
+        "@version": "3",
+        "@changeset": "34166415",
+        "@user": "oscar d",
+        "@uid": "3081604",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4841865",
+            "reltags": {
+              "colour": "green",
+              "name": "16-14 Aeropuerto",
+              "operator": "Transmilenio",
+              "ref": "16-14",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.140451,
+            4.6956867
+          ],
+          [
+            -74.1400927,
+            4.6954172
+          ],
+          [
+            -74.1390871,
+            4.6946427
+          ],
+          [
+            -74.1387734,
+            4.6943716
+          ],
+          [
+            -74.1385484,
+            4.6942017
+          ],
+          [
+            -74.1384433,
+            4.694139
+          ],
+          [
+            -74.1382963,
+            4.6940673
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/91939122",
+      "properties": {
+        "@id": "way/91939122",
+        "highway": "primary",
+        "mechanical": "yes",
+        "name": "Calle 26 - Avenida El Dorado",
+        "oneway": "yes",
+        "@timestamp": "2012-07-20T21:42:19Z",
+        "@version": "4",
+        "@changeset": "12390575",
+        "@user": "harrierco",
+        "@uid": "222199",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4841865",
+            "reltags": {
+              "colour": "green",
+              "name": "16-14 Aeropuerto",
+              "operator": "Transmilenio",
+              "ref": "16-14",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1314361,
+            4.6893693
+          ],
+          [
+            -74.1313729,
+            4.6893248
+          ],
+          [
+            -74.1311181,
+            4.6891585
+          ],
+          [
+            -74.1308053,
+            4.688934
+          ],
+          [
+            -74.1304629,
+            4.688676
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/174387176",
+      "properties": {
+        "@id": "way/174387176",
+        "highway": "tertiary",
+        "oneway": "no",
+        "@timestamp": "2015-04-27T20:51:03Z",
+        "@version": "4",
+        "@changeset": "30559926",
+        "@user": "osukaru88",
+        "@uid": "1867330",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4835678",
+            "reltags": {
+              "colour": "green",
+              "name": "16-10 Villemar",
+              "operator": "Transmilenio",
+              "ref": "16-10",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1326294,
+            4.6801039
+          ],
+          [
+            -74.1316501,
+            4.6808198
+          ],
+          [
+            -74.1316442,
+            4.6808241
+          ],
+          [
+            -74.1310305,
+            4.6816758
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/174714048",
+      "properties": {
+        "@id": "way/174714048",
+        "highway": "tertiary",
+        "name": "Calle 21 Bis",
+        "oneway": "yes",
+        "@timestamp": "2012-08-06T04:15:14Z",
+        "@version": "1",
+        "@changeset": "12628465",
+        "@user": "Vidal de la Blache",
+        "@uid": "779340",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4835678",
+            "reltags": {
+              "colour": "green",
+              "name": "16-10 Villemar",
+              "operator": "Transmilenio",
+              "ref": "16-10",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1406965,
+            4.6761236
+          ],
+          [
+            -74.1410952,
+            4.6766356
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/187738093",
+      "properties": {
+        "@id": "way/187738093",
+        "highway": "tertiary",
+        "lanes": "2",
+        "oneway": "yes",
+        "@timestamp": "2015-06-14T16:25:55Z",
+        "@version": "8",
+        "@changeset": "31965882",
+        "@user": "osukaru88",
+        "@uid": "1867330",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4841865",
+            "reltags": {
+              "colour": "green",
+              "name": "16-14 Aeropuerto",
+              "operator": "Transmilenio",
+              "ref": "16-14",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1393164,
+            4.6965132
+          ],
+          [
+            -74.1396287,
+            4.6966808
+          ],
+          [
+            -74.1402603,
+            4.6971716
+          ],
+          [
+            -74.1403081,
+            4.697188
+          ],
+          [
+            -74.1403544,
+            4.6971761
+          ],
+          [
+            -74.1403947,
+            4.6971552
+          ],
+          [
+            -74.1404215,
+            4.6971253
+          ],
+          [
+            -74.1405216,
+            4.6969924
+          ],
+          [
+            -74.1406009,
+            4.6968859
+          ],
+          [
+            -74.1406395,
+            4.6968342
+          ],
+          [
+            -74.1406926,
+            4.696765
+          ],
+          [
+            -74.1407919,
+            4.6966357
+          ],
+          [
+            -74.1408343,
+            4.6965657
+          ],
+          [
+            -74.1408575,
+            4.6964971
+          ],
+          [
+            -74.1408702,
+            4.6964253
+          ],
+          [
+            -74.1408691,
+            4.6963472
+          ],
+          [
+            -74.1408512,
+            4.6962733
+          ],
+          [
+            -74.1408079,
+            4.6961794
+          ],
+          [
+            -74.1406873,
+            4.6960131
+          ],
+          [
+            -74.140451,
+            4.6956867
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/200694812",
+      "properties": {
+        "@id": "way/200694812",
+        "highway": "tertiary",
+        "lanes": "5",
+        "oneway": "yes",
+        "@timestamp": "2015-05-15T16:13:34Z",
+        "@version": "7",
+        "@changeset": "31180987",
+        "@user": "carciofo",
+        "@uid": "2533093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4841865",
+            "reltags": {
+              "colour": "green",
+              "name": "16-14 Aeropuerto",
+              "operator": "Transmilenio",
+              "ref": "16-14",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1378703,
+            4.6954359
+          ],
+          [
+            -74.1382096,
+            4.6956626
+          ],
+          [
+            -74.1393164,
+            4.6965132
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/226443580",
+      "properties": {
+        "@id": "way/226443580",
+        "access": "no",
+        "bus": "yes",
+        "highway": "service",
+        "oneway": "yes",
+        "psv": "yes",
+        "@timestamp": "2016-03-05T18:53:14Z",
+        "@version": "7",
+        "@changeset": "37632937",
+        "@user": "carciofo",
+        "@uid": "2533093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4841865",
+            "reltags": {
+              "colour": "green",
+              "name": "16-14 Aeropuerto",
+              "operator": "Transmilenio",
+              "ref": "16-14",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1225944,
+            4.6755331
+          ],
+          [
+            -74.1227942,
+            4.6754194
+          ],
+          [
+            -74.1229069,
+            4.6753846
+          ],
+          [
+            -74.1230173,
+            4.6753962
+          ],
+          [
+            -74.1231429,
+            4.6754835
+          ],
+          [
+            -74.1231939,
+            4.6756038
+          ],
+          [
+            -74.1231053,
+            4.6761492
+          ],
+          [
+            -74.1230463,
+            4.6762935
+          ],
+          [
+            -74.122931,
+            4.6763684
+          ],
+          [
+            -74.1227728,
+            4.6763871
+          ],
+          [
+            -74.1225955,
+            4.6763572
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/226443585",
+      "properties": {
+        "@id": "way/226443585",
+        "access": "no",
+        "bus": "yes",
+        "highway": "service",
+        "oneway": "yes",
+        "psv": "yes",
+        "@timestamp": "2016-03-05T18:53:15Z",
+        "@version": "6",
+        "@changeset": "37632937",
+        "@user": "carciofo",
+        "@uid": "2533093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4841865",
+            "reltags": {
+              "colour": "green",
+              "name": "16-14 Aeropuerto",
+              "operator": "Transmilenio",
+              "ref": "16-14",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1223391,
+            4.6765007
+          ],
+          [
+            -74.1222658,
+            4.6766384
+          ],
+          [
+            -74.1217347,
+            4.6770554
+          ],
+          [
+            -74.1216033,
+            4.6772212
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/226443586",
+      "properties": {
+        "@id": "way/226443586",
+        "access": "no",
+        "bus": "yes",
+        "highway": "service",
+        "oneway": "yes",
+        "psv": "yes",
+        "@timestamp": "2016-03-05T18:53:15Z",
+        "@version": "6",
+        "@changeset": "37632937",
+        "@user": "carciofo",
+        "@uid": "2533093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4835678",
+            "reltags": {
+              "colour": "green",
+              "name": "16-10 Villemar",
+              "operator": "Transmilenio",
+              "ref": "16-10",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1226733,
+            4.6766921
+          ],
+          [
+            -74.1228881,
+            4.6764967
+          ],
+          [
+            -74.1232153,
+            4.6764192
+          ],
+          [
+            -74.123622,
+            4.676374
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/234902297",
+      "properties": {
+        "@id": "way/234902297",
+        "access": "no",
+        "highway": "service",
+        "oneway": "yes",
+        "psv": "yes",
+        "tunnel": "yes",
+        "@timestamp": "2016-03-05T18:53:16Z",
+        "@version": "5",
+        "@changeset": "37632937",
+        "@user": "carciofo",
+        "@uid": "2533093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4841865",
+            "reltags": {
+              "colour": "green",
+              "name": "16-14 Aeropuerto",
+              "operator": "Transmilenio",
+              "ref": "16-14",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1202865,
+            4.6788585
+          ],
+          [
+            -74.1201059,
+            4.6790112
+          ],
+          [
+            -74.1198457,
+            4.6792464
+          ],
+          [
+            -74.1196848,
+            4.6795565
+          ],
+          [
+            -74.119843,
+            4.6799575
+          ],
+          [
+            -74.1202434,
+            4.6805017
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/234902298",
+      "properties": {
+        "@id": "way/234902298",
+        "access": "no",
+        "highway": "service",
+        "oneway": "yes",
+        "@timestamp": "2013-08-24T19:59:22Z",
+        "@version": "2",
+        "@changeset": "17489805",
+        "@user": "JeanPaulPG",
+        "@uid": "220028",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4841863",
+            "reltags": {
+              "colour": "green",
+              "name": "16-1 Tierra Grata",
+              "operator": "Transmilenio",
+              "ref": "16-1",
+              "route": "bus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": "4841865",
+            "reltags": {
+              "colour": "green",
+              "name": "16-14 Aeropuerto",
+              "operator": "Transmilenio",
+              "ref": "16-14",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1202434,
+            4.6805017
+          ],
+          [
+            -74.1204952,
+            4.6808635
+          ],
+          [
+            -74.1218671,
+            4.682696
+          ],
+          [
+            -74.1223471,
+            4.6833457
+          ],
+          [
+            -74.1230105,
+            4.68396
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/234902300",
+      "properties": {
+        "@id": "way/234902300",
+        "access": "no",
+        "highway": "service",
+        "oneway": "yes",
+        "psv": "yes",
+        "@timestamp": "2016-03-05T18:53:16Z",
+        "@version": "4",
+        "@changeset": "37632937",
+        "@user": "carciofo",
+        "@uid": "2533093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4835678",
+            "reltags": {
+              "colour": "green",
+              "name": "16-10 Villemar",
+              "operator": "Transmilenio",
+              "ref": "16-10",
+              "route": "bus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": "4841864",
+            "reltags": {
+              "colour": "green",
+              "name": "16-13 AV. Cali - Hayuelos",
+              "operator": "Transmilenio",
+              "ref": "16-13",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1241669,
+            4.6839237
+          ],
+          [
+            -74.1234422,
+            4.6835527
+          ],
+          [
+            -74.122838,
+            4.6830473
+          ],
+          [
+            -74.1222413,
+            4.6824059
+          ],
+          [
+            -74.1208841,
+            4.6805828
+          ],
+          [
+            -74.1206345,
+            4.6800904
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/234902301",
+      "properties": {
+        "@id": "way/234902301",
+        "access": "no",
+        "bus": "yes",
+        "highway": "service",
+        "oneway": "yes",
+        "psv": "yes",
+        "tunnel": "yes",
+        "@timestamp": "2016-03-05T18:53:15Z",
+        "@version": "4",
+        "@changeset": "37632937",
+        "@user": "carciofo",
+        "@uid": "2533093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4835678",
+            "reltags": {
+              "colour": "green",
+              "name": "16-10 Villemar",
+              "operator": "Transmilenio",
+              "ref": "16-10",
+              "route": "bus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": "4841864",
+            "reltags": {
+              "colour": "green",
+              "name": "16-13 AV. Cali - Hayuelos",
+              "operator": "Transmilenio",
+              "ref": "16-13",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1206345,
+            4.6800904
+          ],
+          [
+            -74.1203486,
+            4.6795555
+          ],
+          [
+            -74.1201381,
+            4.6790647
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/234920304",
+      "properties": {
+        "@id": "way/234920304",
+        "access": "no",
+        "bus": "yes",
+        "highway": "service",
+        "layer": "-1",
+        "oneway": "no",
+        "psv": "yes",
+        "tunnel": "yes",
+        "@timestamp": "2016-03-05T18:53:15Z",
+        "@version": "4",
+        "@changeset": "37632937",
+        "@user": "carciofo",
+        "@uid": "2533093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4835678",
+            "reltags": {
+              "colour": "green",
+              "name": "16-10 Villemar",
+              "operator": "Transmilenio",
+              "ref": "16-10",
+              "route": "bus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": "4841864",
+            "reltags": {
+              "colour": "green",
+              "name": "16-13 AV. Cali - Hayuelos",
+              "operator": "Transmilenio",
+              "ref": "16-13",
+              "route": "bus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": "4841865",
+            "reltags": {
+              "colour": "green",
+              "name": "16-14 Aeropuerto",
+              "operator": "Transmilenio",
+              "ref": "16-14",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1202865,
+            4.6788585
+          ],
+          [
+            -74.1216033,
+            4.6772212
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/248950210",
+      "properties": {
+        "@id": "way/248950210",
+        "highway": "primary",
+        "mechanical": "yes",
+        "name": "Calle 26 - Avenida El Dorado",
+        "oneway": "yes",
+        "@timestamp": "2015-06-14T16:25:55Z",
+        "@version": "3",
+        "@changeset": "31965882",
+        "@user": "osukaru88",
+        "@uid": "1867330",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4841865",
+            "reltags": {
+              "colour": "green",
+              "name": "16-14 Aeropuerto",
+              "operator": "Transmilenio",
+              "ref": "16-14",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1257767,
+            4.686022
+          ],
+          [
+            -74.1261426,
+            4.6863032
+          ],
+          [
+            -74.1265067,
+            4.6865829
+          ],
+          [
+            -74.1266847,
+            4.6867196
+          ],
+          [
+            -74.128148,
+            4.6878254
+          ],
+          [
+            -74.1287123,
+            4.6882564
+          ],
+          [
+            -74.1291155,
+            4.6885644
+          ],
+          [
+            -74.1292219,
+            4.6886441
+          ],
+          [
+            -74.1294878,
+            4.6888432
+          ],
+          [
+            -74.1300662,
+            4.6892762
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/255537575",
+      "properties": {
+        "@id": "way/255537575",
+        "access": "no",
+        "bus": "yes",
+        "highway": "service",
+        "oneway": "yes",
+        "psv": "yes",
+        "@timestamp": "2016-03-05T18:53:15Z",
+        "@version": "4",
+        "@changeset": "37632937",
+        "@user": "carciofo",
+        "@uid": "2533093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4841864",
+            "reltags": {
+              "colour": "green",
+              "name": "16-13 AV. Cali - Hayuelos",
+              "operator": "Transmilenio",
+              "ref": "16-13",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1225274,
+            4.6763478
+          ],
+          [
+            -74.1224294,
+            4.6763069
+          ],
+          [
+            -74.122357,
+            4.6762187
+          ],
+          [
+            -74.1223195,
+            4.6760556
+          ],
+          [
+            -74.1223463,
+            4.6758551
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340713812",
+      "properties": {
+        "@id": "way/340713812",
+        "access": "no",
+        "bus": "yes",
+        "highway": "service",
+        "layer": "-1",
+        "oneway": "yes",
+        "psv": "yes",
+        "tunnel": "yes",
+        "@timestamp": "2016-03-05T18:53:15Z",
+        "@version": "3",
+        "@changeset": "37632937",
+        "@user": "carciofo",
+        "@uid": "2533093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4835678",
+            "reltags": {
+              "colour": "green",
+              "name": "16-10 Villemar",
+              "operator": "Transmilenio",
+              "ref": "16-10",
+              "route": "bus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": "4841864",
+            "reltags": {
+              "colour": "green",
+              "name": "16-13 AV. Cali - Hayuelos",
+              "operator": "Transmilenio",
+              "ref": "16-13",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1201381,
+            4.6790647
+          ],
+          [
+            -74.1202865,
+            4.6788585
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340713813",
+      "properties": {
+        "@id": "way/340713813",
+        "access": "no",
+        "bus": "yes",
+        "highway": "service",
+        "oneway": "yes",
+        "psv": "yes",
+        "@timestamp": "2016-03-05T18:53:15Z",
+        "@version": "4",
+        "@changeset": "37632937",
+        "@user": "carciofo",
+        "@uid": "2533093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4835678",
+            "reltags": {
+              "colour": "green",
+              "name": "16-10 Villemar",
+              "operator": "Transmilenio",
+              "ref": "16-10",
+              "route": "bus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": "4841864",
+            "reltags": {
+              "colour": "green",
+              "name": "16-13 AV. Cali - Hayuelos",
+              "operator": "Transmilenio",
+              "ref": "16-13",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1216033,
+            4.6772212
+          ],
+          [
+            -74.1217696,
+            4.6770848
+          ],
+          [
+            -74.122019,
+            4.6769057
+          ],
+          [
+            -74.1223168,
+            4.6767587
+          ],
+          [
+            -74.1224912,
+            4.6767432
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340713819",
+      "properties": {
+        "@id": "way/340713819",
+        "highway": "tertiary",
+        "lanes": "2",
+        "name": "Diagonal 24C",
+        "oneway": "no",
+        "@timestamp": "2015-04-27T20:23:11Z",
+        "@version": "2",
+        "@changeset": "30558986",
+        "@user": "osukaru88",
+        "@uid": "1867330",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4835678",
+            "reltags": {
+              "colour": "green",
+              "name": "16-10 Villemar",
+              "operator": "Transmilenio",
+              "ref": "16-10",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1330939,
+            4.6822233
+          ],
+          [
+            -74.1324277,
+            4.6820465
+          ],
+          [
+            -74.1322852,
+            4.6820087
+          ],
+          [
+            -74.1321633,
+            4.6819764
+          ],
+          [
+            -74.1310305,
+            4.6816758
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340713820",
+      "properties": {
+        "@id": "way/340713820",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Carrera 100",
+        "oneway": "yes",
+        "@timestamp": "2015-04-27T21:44:07Z",
+        "@version": "2",
+        "@changeset": "30561516",
+        "@user": "osukaru88",
+        "@uid": "1867330",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4835678",
+            "reltags": {
+              "colour": "green",
+              "name": "16-10 Villemar",
+              "operator": "Transmilenio",
+              "ref": "16-10",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1331967,
+            4.6822477
+          ],
+          [
+            -74.133305,
+            4.6821463
+          ],
+          [
+            -74.1336098,
+            4.681877
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340713821",
+      "properties": {
+        "@id": "way/340713821",
+        "highway": "secondary",
+        "name": "Carrera 100",
+        "oneway": "yes",
+        "@timestamp": "2015-04-26T19:35:46Z",
+        "@version": "1",
+        "@changeset": "30515288",
+        "@user": "osukaru88",
+        "@uid": "1867330",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4835678",
+            "reltags": {
+              "colour": "green",
+              "name": "16-10 Villemar",
+              "operator": "Transmilenio",
+              "ref": "16-10",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1409705,
+            4.6767442
+          ],
+          [
+            -74.1410107,
+            4.6767104
+          ],
+          [
+            -74.1410952,
+            4.6766356
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340713827",
+      "properties": {
+        "@id": "way/340713827",
+        "highway": "secondary",
+        "name": "Carrera 100",
+        "oneway": "yes",
+        "@timestamp": "2015-04-26T19:35:47Z",
+        "@version": "1",
+        "@changeset": "30515288",
+        "@user": "osukaru88",
+        "@uid": "1867330",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4835678",
+            "reltags": {
+              "colour": "green",
+              "name": "16-10 Villemar",
+              "operator": "Transmilenio",
+              "ref": "16-10",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.145418,
+            4.6734296
+          ],
+          [
+            -74.1454539,
+            4.6733992
+          ],
+          [
+            -74.1459688,
+            4.6729631
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341029397",
+      "properties": {
+        "@id": "way/341029397",
+        "highway": "primary",
+        "name": "Avenida Ciudad de Cali",
+        "official_name": "AK 86",
+        "oneway": "yes",
+        "@timestamp": "2015-04-27T23:24:43Z",
+        "@version": "2",
+        "@changeset": "30563578",
+        "@user": "osukaru88",
+        "@uid": "1867330",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4841864",
+            "reltags": {
+              "colour": "green",
+              "name": "16-13 AV. Cali - Hayuelos",
+              "operator": "Transmilenio",
+              "ref": "16-13",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1225944,
+            4.6755331
+          ],
+          [
+            -74.122988,
+            4.6750521
+          ],
+          [
+            -74.1232552,
+            4.6748478
+          ],
+          [
+            -74.1234516,
+            4.6746514
+          ],
+          [
+            -74.1235349,
+            4.6745363
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341029398",
+      "properties": {
+        "@id": "way/341029398",
+        "highway": "primary",
+        "name": "Avenida Ciudad de Cali",
+        "official_name": "AK 86",
+        "oneway": "yes",
+        "@timestamp": "2015-04-27T21:10:03Z",
+        "@version": "2",
+        "@changeset": "30560529",
+        "@user": "osukaru88",
+        "@uid": "1867330",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4841865",
+            "reltags": {
+              "colour": "green",
+              "name": "16-14 Aeropuerto",
+              "operator": "Transmilenio",
+              "ref": "16-14",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1215502,
+            4.676981
+          ],
+          [
+            -74.1218134,
+            4.6765606
+          ],
+          [
+            -74.1223463,
+            4.6758551
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341029407",
+      "properties": {
+        "@id": "way/341029407",
+        "highway": "primary",
+        "mechanical": "yes",
+        "name": "Calle 26 - Avenida El Dorado",
+        "oneway": "yes",
+        "@timestamp": "2015-04-27T20:22:59Z",
+        "@version": "1",
+        "@changeset": "30558986",
+        "@user": "osukaru88",
+        "@uid": "1867330",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4841865",
+            "reltags": {
+              "colour": "green",
+              "name": "16-14 Aeropuerto",
+              "operator": "Transmilenio",
+              "ref": "16-14",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1241669,
+            4.6839237
+          ],
+          [
+            -74.1235089,
+            4.6834139
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341042241",
+      "properties": {
+        "@id": "way/341042241",
+        "highway": "primary",
+        "name": "Avenida Ciudad de Cali",
+        "official_name": "AK 86",
+        "oneway": "yes",
+        "@timestamp": "2015-04-27T21:10:02Z",
+        "@version": "1",
+        "@changeset": "30560529",
+        "@user": "osukaru88",
+        "@uid": "1867330",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4841864",
+            "reltags": {
+              "colour": "green",
+              "name": "16-13 AV. Cali - Hayuelos",
+              "operator": "Transmilenio",
+              "ref": "16-13",
+              "route": "bus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": "4841865",
+            "reltags": {
+              "colour": "green",
+              "name": "16-14 Aeropuerto",
+              "operator": "Transmilenio",
+              "ref": "16-14",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1223463,
+            4.6758551
+          ],
+          [
+            -74.122493,
+            4.6756571
+          ],
+          [
+            -74.1225944,
+            4.6755331
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341050521",
+      "properties": {
+        "@id": "way/341050521",
+        "highway": "tertiary",
+        "name": "Calle 20D",
+        "@timestamp": "2015-04-27T21:44:06Z",
+        "@version": "1",
+        "@changeset": "30561516",
+        "@user": "osukaru88",
+        "@uid": "1867330",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4835678",
+            "reltags": {
+              "colour": "green",
+              "name": "16-10 Villemar",
+              "operator": "Transmilenio",
+              "ref": "16-10",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1379422,
+            4.6710391
+          ],
+          [
+            -74.1375982,
+            4.6705288
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341050523",
+      "properties": {
+        "@id": "way/341050523",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Transversal 96B",
+        "oneway": "yes",
+        "@timestamp": "2015-04-27T21:44:06Z",
+        "@version": "1",
+        "@changeset": "30561516",
+        "@user": "osukaru88",
+        "@uid": "1867330",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4835678",
+            "reltags": {
+              "colour": "green",
+              "name": "16-10 Villemar",
+              "operator": "Transmilenio",
+              "ref": "16-10",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1375982,
+            4.6705288
+          ],
+          [
+            -74.1373032,
+            4.6709848
+          ],
+          [
+            -74.1369817,
+            4.6714818
+          ],
+          [
+            -74.1367078,
+            4.6719052
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341050524",
+      "properties": {
+        "@id": "way/341050524",
+        "highway": "tertiary",
+        "name": "Carrera 96C",
+        "oneway": "no",
+        "@timestamp": "2015-04-27T21:44:06Z",
+        "@version": "1",
+        "@changeset": "30561516",
+        "@user": "osukaru88",
+        "@uid": "1867330",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4835678",
+            "reltags": {
+              "colour": "green",
+              "name": "16-10 Villemar",
+              "operator": "Transmilenio",
+              "ref": "16-10",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1367078,
+            4.6719052
+          ],
+          [
+            -74.1366039,
+            4.6719783
+          ],
+          [
+            -74.1365303,
+            4.6720233
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/344733308",
+      "properties": {
+        "@id": "way/344733308",
+        "highway": "unclassified",
+        "name": "Aeropuerto El Dorado",
+        "oneway": "yes",
+        "@timestamp": "2015-09-29T03:28:48Z",
+        "@version": "4",
+        "@changeset": "34316805",
+        "@user": "oscar d",
+        "@uid": "3081604",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": "4841865",
+            "reltags": {
+              "colour": "green",
+              "name": "16-14 Aeropuerto",
+              "operator": "Transmilenio",
+              "ref": "16-14",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.13952,
+            4.6943859
+          ],
+          [
+            -74.1392307,
+            4.6941741
+          ],
+          [
+            -74.1389894,
+            4.6940378
+          ],
+          [
+            -74.1385906,
+            4.6939116
+          ],
+          [
+            -74.1383235,
+            4.693842
+          ],
+          [
+            -74.1379268,
+            4.6937617
+          ],
+          [
+            -74.1366438,
+            4.6933582
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/392530063",
+      "properties": {
+        "@id": "way/392530063",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Carrera 100",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "@timestamp": "2016-01-20T23:51:08Z",
+        "@version": "1",
+        "@changeset": "36711843",
+        "@user": "Lore_trujillo",
+        "@uid": "1335396",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4835678",
+            "reltags": {
+              "colour": "green",
+              "name": "16-10 Villemar",
+              "operator": "Transmilenio",
+              "ref": "16-10",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1339467,
+            4.6814553
+          ],
+          [
+            -74.1338601,
+            4.6815199
+          ],
+          [
+            -74.1330939,
+            4.6822233
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/261664149",
+      "properties": {
+        "@id": "node/261664149",
+        "highway": "traffic_signals",
+        "@timestamp": "2009-02-16T01:38:35Z",
+        "@version": "13",
+        "@changeset": "490234",
+        "@user": "ikks",
+        "@uid": "37987"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1253372,
+          4.6721961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/262178549",
+      "properties": {
+        "@id": "node/262178549",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-02-02T01:46:21Z",
+        "@version": "6",
+        "@changeset": "36949289",
+        "@user": "Vidal de la Blache",
+        "@uid": "779340"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1452106,
+          4.6722229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/262178551",
+      "properties": {
+        "@id": "node/262178551",
+        "highway": "traffic_signals",
+        "@timestamp": "2010-08-25T01:46:25Z",
+        "@version": "11",
+        "@changeset": "5585433",
+        "@user": "rcastib",
+        "@uid": "133835"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1459688,
+          4.6729631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/281840401",
+      "properties": {
+        "@id": "node/281840401",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-04-26T20:47:38Z",
+        "@version": "8",
+        "@changeset": "30517551",
+        "@user": "osukaru88",
+        "@uid": "1867330"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1330939,
+          4.6822233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/281840919",
+      "properties": {
+        "@id": "node/281840919",
+        "highway": "traffic_signals",
+        "@timestamp": "2012-08-10T00:26:05Z",
+        "@version": "8",
+        "@changeset": "12675039",
+        "@user": "Vidal de la Blache",
+        "@uid": "779340"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1431382,
+          4.6752355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/281841908",
+      "properties": {
+        "@id": "node/281841908",
+        "highway": "traffic_signals",
+        "@timestamp": "2009-07-19T12:14:48Z",
+        "@version": "8",
+        "@changeset": "1871962",
+        "@user": "harriercoold",
+        "@uid": "73889"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1339467,
+          4.6814553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/281841916",
+      "properties": {
+        "@id": "node/281841916",
+        "highway": "traffic_signals",
+        "@timestamp": "2009-07-19T12:14:56Z",
+        "@version": "13",
+        "@changeset": "1871962",
+        "@user": "harriercoold",
+        "@uid": "73889"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.134047,
+          4.6813805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/325952148",
+      "properties": {
+        "@id": "node/325952148",
+        "highway": "traffic_signals",
+        "@timestamp": "2010-08-25T01:46:26Z",
+        "@version": "12",
+        "@changeset": "5585433",
+        "@user": "rcastib",
+        "@uid": "133835"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1359653,
+          4.6799234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/325955118",
+      "properties": {
+        "@id": "node/325955118",
+        "highway": "traffic_signals",
+        "@timestamp": "2010-08-25T01:46:33Z",
+        "@version": "4",
+        "@changeset": "5585433",
+        "@user": "rcastib",
+        "@uid": "133835"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.13857,
+          4.6784651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443672058",
+      "properties": {
+        "@id": "node/443672058",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-04-26T20:47:38Z",
+        "@version": "3",
+        "@changeset": "30517551",
+        "@user": "osukaru88",
+        "@uid": "1867330"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1340179,
+          4.6815144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443672059",
+      "properties": {
+        "@id": "node/443672059",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-04-26T20:47:38Z",
+        "@version": "3",
+        "@changeset": "30517551",
+        "@user": "osukaru88",
+        "@uid": "1867330"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1341037,
+          4.6814374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443672061",
+      "properties": {
+        "@id": "node/443672061",
+        "highway": "traffic_signals",
+        "@timestamp": "2010-08-30T04:52:25Z",
+        "@version": "3",
+        "@changeset": "5632705",
+        "@user": "ikks",
+        "@uid": "37987"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1360237,
+          4.6799769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/646059155",
+      "properties": {
+        "@id": "node/646059155",
+        "highway": "traffic_signals",
+        "@timestamp": "2010-02-19T02:52:05Z",
+        "@version": "2",
+        "@changeset": "3913493",
+        "@user": "bogotanomap",
+        "@uid": "233402"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1367097,
+          4.6795017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/646059157",
+      "properties": {
+        "@id": "node/646059157",
+        "highway": "traffic_signals",
+        "@timestamp": "2010-08-25T01:46:37Z",
+        "@version": "2",
+        "@changeset": "5585433",
+        "@user": "rcastib",
+        "@uid": "133835"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1366628,
+          4.6794135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/878205761",
+      "properties": {
+        "@id": "node/878205761",
+        "highway": "traffic_signals",
+        "@timestamp": "2012-08-06T04:15:15Z",
+        "@version": "2",
+        "@changeset": "12628465",
+        "@user": "Vidal de la Blache",
+        "@uid": "779340"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.138617,
+          4.6785273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/878205771",
+      "properties": {
+        "@id": "node/878205771",
+        "railway": "level_crossing",
+        "@timestamp": "2012-08-06T04:15:15Z",
+        "@version": "2",
+        "@changeset": "12628465",
+        "@user": "Vidal de la Blache",
+        "@uid": "779340"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1410107,
+          4.6767104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/898476391",
+      "properties": {
+        "@id": "node/898476391",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-03-21T20:58:24Z",
+        "@version": "3",
+        "@changeset": "37986442",
+        "@user": "Nodes&Roads",
+        "@uid": "3642735"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1422234,
+          4.6680862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/968389246",
+      "properties": {
+        "@id": "node/968389246",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-03-21T20:58:24Z",
+        "@version": "3",
+        "@changeset": "37986442",
+        "@user": "Nodes&Roads",
+        "@uid": "3642735"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1325457,
+          4.6800229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/997742232",
+      "properties": {
+        "@id": "node/997742232",
+        "highway": "bus_stop",
+        "name": "El Dorado",
+        "@timestamp": "2015-05-13T12:52:04Z",
+        "@version": "4",
+        "@changeset": "31103061",
+        "@user": "carciofo",
+        "@uid": "2533093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4841865",
+            "reltags": {
+              "colour": "green",
+              "name": "16-14 Aeropuerto",
+              "operator": "Transmilenio",
+              "ref": "16-14",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1405216,
+          4.6969924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1847631076",
+      "properties": {
+        "@id": "node/1847631076",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-04-27T20:23:07Z",
+        "@version": "2",
+        "@changeset": "30558986",
+        "@user": "osukaru88",
+        "@uid": "1867330"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1310305,
+          4.6816758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1850826141",
+      "properties": {
+        "@id": "node/1850826141",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-04-27T20:23:07Z",
+        "@version": "2",
+        "@changeset": "30558986",
+        "@user": "osukaru88",
+        "@uid": "1867330"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1326294,
+          4.6801039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1853810143",
+      "properties": {
+        "@id": "node/1853810143",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-04-26T20:47:38Z",
+        "@version": "2",
+        "@changeset": "30517551",
+        "@user": "osukaru88",
+        "@uid": "1867330"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1331967,
+          4.6822477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2035760399",
+      "properties": {
+        "@id": "node/2035760399",
+        "highway": "bus_stop",
+        "name": "CEA",
+        "operator": "SITP",
+        "@timestamp": "2015-04-27T20:23:05Z",
+        "@version": "2",
+        "@changeset": "30558986",
+        "@user": "osukaru88",
+        "@uid": "1867330",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4841865",
+            "reltags": {
+              "colour": "green",
+              "name": "16-14 Aeropuerto",
+              "operator": "Transmilenio",
+              "ref": "16-14",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1313832,
+          4.6902637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2035760405",
+      "properties": {
+        "@id": "node/2035760405",
+        "@timestamp": "2015-05-15T10:09:07Z",
+        "@version": "3",
+        "@changeset": "31167490",
+        "@user": "carciofo",
+        "@uid": "2533093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4841865",
+            "reltags": {
+              "colour": "green",
+              "name": "16-14 Aeropuerto",
+              "operator": "Transmilenio",
+              "ref": "16-14",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1337637,
+          4.6912092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2035760410",
+      "properties": {
+        "@id": "node/2035760410",
+        "highway": "bus_stop",
+        "name": "CEA",
+        "operator": "SITP",
+        "@timestamp": "2015-04-27T20:23:06Z",
+        "@version": "2",
+        "@changeset": "30558986",
+        "@user": "osukaru88",
+        "@uid": "1867330",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4841865",
+            "reltags": {
+              "colour": "green",
+              "name": "16-14 Aeropuerto",
+              "operator": "Transmilenio",
+              "ref": "16-14",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1319837,
+          4.6897769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2109044724",
+      "properties": {
+        "@id": "node/2109044724",
+        "highway": "bus_stop",
+        "@timestamp": "2015-04-27T21:10:02Z",
+        "@version": "2",
+        "@changeset": "30560529",
+        "@user": "osukaru88",
+        "@uid": "1867330",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4835678",
+            "reltags": {
+              "colour": "green",
+              "name": "16-10 Villemar",
+              "operator": "Transmilenio",
+              "ref": "16-10",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1404245,
+          4.6758778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2109044726",
+      "properties": {
+        "@id": "node/2109044726",
+        "highway": "bus_stop",
+        "name": "SubCentral Fontibón",
+        "@timestamp": "2015-04-28T18:09:25Z",
+        "@version": "2",
+        "@changeset": "30590542",
+        "@user": "osukaru88",
+        "@uid": "1867330"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1368183,
+          4.6723166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2352402390",
+      "properties": {
+        "@id": "node/2352402390",
+        "covered": "yes",
+        "direction": "W",
+        "highway": "bus_stop",
+        "name": "Humedal de Capellanía",
+        "operator": "SITP",
+        "shelter": "yes",
+        "@timestamp": "2015-04-27T20:23:06Z",
+        "@version": "4",
+        "@changeset": "30558986",
+        "@user": "osukaru88",
+        "@uid": "1867330",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4835678",
+            "reltags": {
+              "colour": "green",
+              "name": "16-10 Villemar",
+              "operator": "Transmilenio",
+              "ref": "16-10",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1289943,
+          4.676419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2390112324",
+      "properties": {
+        "@id": "node/2390112324",
+        "highway": "bus_stop",
+        "@timestamp": "2015-04-27T20:23:06Z",
+        "@version": "3",
+        "@changeset": "30558986",
+        "@user": "osukaru88",
+        "@uid": "1867330"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1244828,
+          4.6841415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2408429827",
+      "properties": {
+        "@id": "node/2408429827",
+        "amenity": "bus_station",
+        "local_ref": "K",
+        "name": "Portal ElDorado",
+        "@timestamp": "2015-01-09T15:20:01Z",
+        "@version": "4",
+        "@changeset": "28021251",
+        "@user": "JeanPaulPG",
+        "@uid": "220028"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1206478,
+          4.6807509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2475285644",
+      "properties": {
+        "@id": "node/2475285644",
+        "amenity": "bus_station",
+        "local_ref": "K",
+        "name": "Portal ElDorado",
+        "@timestamp": "2015-01-09T15:20:01Z",
+        "@version": "3",
+        "@changeset": "28021251",
+        "@user": "JeanPaulPG",
+        "@uid": "220028"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1221021,
+          4.6825329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2550692845",
+      "properties": {
+        "@id": "node/2550692845",
+        "highway": "bus_stop",
+        "name": "Villas del Pinar",
+        "operator": "SITP",
+        "@timestamp": "2014-06-06T13:59:29Z",
+        "@version": "3",
+        "@changeset": "22775851",
+        "@user": "JeanPaulPG",
+        "@uid": "220028"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1251491,
+          4.6723998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2768796723",
+      "properties": {
+        "@id": "node/2768796723",
+        "Dirección": "Carrera 100 - Av. Esperanza",
+        "Notas": "-Rutas Anunciadas Operando: 505, C4, P56  -Rutas Anunciadas No Operando: 34  -Estado Señal: Buena",
+        "highway": "bus_stop",
+        "name": "San José de Fontibón",
+        "operator": "SITP",
+        "@timestamp": "2015-04-27T20:23:07Z",
+        "@version": "10",
+        "@changeset": "30558986",
+        "@user": "osukaru88",
+        "@uid": "1867330",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4835678",
+            "reltags": {
+              "colour": "green",
+              "name": "16-10 Villemar",
+              "operator": "Transmilenio",
+              "ref": "16-10",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1342769,
+          4.6812055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2768806585",
+      "properties": {
+        "@id": "node/2768806585",
+        "covered": "no",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "@timestamp": "2015-04-27T20:23:06Z",
+        "@version": "3",
+        "@changeset": "30558986",
+        "@user": "osukaru88",
+        "@uid": "1867330"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1296272,
+          4.6873424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3479637859",
+      "properties": {
+        "@id": "node/3479637859",
+        "covered": "no",
+        "highway": "bus_stop",
+        "name": "La Cabaña",
+        "operator": "SITP",
+        "@timestamp": "2015-04-27T20:23:07Z",
+        "@version": "2",
+        "@changeset": "30558986",
+        "@user": "osukaru88",
+        "@uid": "1867330",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4835678",
+            "reltags": {
+              "colour": "green",
+              "name": "16-10 Villemar",
+              "operator": "Transmilenio",
+              "ref": "16-10",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.139383,
+          4.6781026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3479637861",
+      "properties": {
+        "@id": "node/3479637861",
+        "highway": "bus_stop",
+        "name": "Br. La Isla",
+        "operator": "SITP",
+        "@timestamp": "2015-04-28T17:43:31Z",
+        "@version": "3",
+        "@changeset": "30589475",
+        "@user": "osukaru88",
+        "@uid": "1867330",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4835678",
+            "reltags": {
+              "colour": "green",
+              "name": "16-10 Villemar",
+              "operator": "Transmilenio",
+              "ref": "16-10",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1355633,
+          4.6803273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3479788915",
+      "properties": {
+        "@id": "node/3479788915",
+        "covered": "no",
+        "highway": "bus_stop",
+        "name": "Urb. La Cofradia",
+        "operator": "SITP",
+        "@timestamp": "2015-04-28T17:23:50Z",
+        "@version": "3",
+        "@changeset": "30588781",
+        "@user": "osukaru88",
+        "@uid": "1867330",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4835678",
+            "reltags": {
+              "colour": "green",
+              "name": "16-10 Villemar",
+              "operator": "Transmilenio",
+              "ref": "16-10",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1321538,
+          4.6796025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3479797501",
+      "properties": {
+        "@id": "node/3479797501",
+        "highway": "bus_stop",
+        "@timestamp": "2015-04-27T20:23:07Z",
+        "@version": "2",
+        "@changeset": "30558986",
+        "@user": "osukaru88",
+        "@uid": "1867330",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4835678",
+            "reltags": {
+              "colour": "green",
+              "name": "16-10 Villemar",
+              "operator": "Transmilenio",
+              "ref": "16-10",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1324277,
+          4.6820465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3482526397",
+      "properties": {
+        "@id": "node/3482526397",
+        "covered": "no",
+        "highway": "bus_stop",
+        "operator": "SITP",
+        "@timestamp": "2015-04-27T20:22:56Z",
+        "@version": "1",
+        "@changeset": "30558986",
+        "@user": "osukaru88",
+        "@uid": "1867330",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4841865",
+            "reltags": {
+              "colour": "green",
+              "name": "16-14 Aeropuerto",
+              "operator": "Transmilenio",
+              "ref": "16-14",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1294878,
+          4.6888432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3482526398",
+      "properties": {
+        "@id": "node/3482526398",
+        "highway": "bus_stop",
+        "operator": "SITP",
+        "@timestamp": "2015-04-27T20:22:56Z",
+        "@version": "1",
+        "@changeset": "30558986",
+        "@user": "osukaru88",
+        "@uid": "1867330",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4841865",
+            "reltags": {
+              "colour": "green",
+              "name": "16-14 Aeropuerto",
+              "operator": "Transmilenio",
+              "ref": "16-14",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1339901,
+          4.6922488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3482625930",
+      "properties": {
+        "@id": "node/3482625930",
+        "highway": "bus_stop",
+        "operator": "SITP",
+        "@timestamp": "2015-04-27T20:51:02Z",
+        "@version": "1",
+        "@changeset": "30559926",
+        "@user": "osukaru88",
+        "@uid": "1867330",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4835678",
+            "reltags": {
+              "colour": "green",
+              "name": "16-10 Villemar",
+              "operator": "Transmilenio",
+              "ref": "16-10",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1316501,
+          4.6808198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3482776198",
+      "properties": {
+        "@id": "node/3482776198",
+        "highway": "bus_stop",
+        "operator": "SITP",
+        "@timestamp": "2015-04-27T21:44:06Z",
+        "@version": "1",
+        "@changeset": "30561516",
+        "@user": "osukaru88",
+        "@uid": "1867330",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4835678",
+            "reltags": {
+              "colour": "green",
+              "name": "16-10 Villemar",
+              "operator": "Transmilenio",
+              "ref": "16-10",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1435598,
+          4.6699519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3482776199",
+      "properties": {
+        "@id": "node/3482776199",
+        "highway": "bus_stop",
+        "name": "Villemar",
+        "operator": "SITP",
+        "@timestamp": "2015-04-27T21:44:06Z",
+        "@version": "1",
+        "@changeset": "30561516",
+        "@user": "osukaru88",
+        "@uid": "1867330",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4835678",
+            "reltags": {
+              "colour": "green",
+              "name": "16-10 Villemar",
+              "operator": "Transmilenio",
+              "ref": "16-10",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1405321,
+          4.6691952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3482776200",
+      "properties": {
+        "@id": "node/3482776200",
+        "covered": "no",
+        "highway": "bus_stop",
+        "name": "SENA Fontibon",
+        "operator": "SITP",
+        "@timestamp": "2015-04-27T21:44:06Z",
+        "@version": "1",
+        "@changeset": "30561516",
+        "@user": "osukaru88",
+        "@uid": "1867330",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4835678",
+            "reltags": {
+              "colour": "green",
+              "name": "16-10 Villemar",
+              "operator": "Transmilenio",
+              "ref": "16-10",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1388365,
+          4.6703721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3482776201",
+      "properties": {
+        "@id": "node/3482776201",
+        "highway": "bus_stop",
+        "operator": "SITP",
+        "@timestamp": "2015-04-27T21:44:06Z",
+        "@version": "1",
+        "@changeset": "30561516",
+        "@user": "osukaru88",
+        "@uid": "1867330",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "4835678",
+            "reltags": {
+              "colour": "green",
+              "name": "16-10 Villemar",
+              "operator": "Transmilenio",
+              "ref": "16-10",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1373032,
+          4.6709848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3594748343",
+      "properties": {
+        "@id": "node/3594748343",
+        "highway": "bus_stop",
+        "@timestamp": "2015-06-14T16:25:46Z",
+        "@version": "1",
+        "@changeset": "31965882",
+        "@user": "osukaru88",
+        "@uid": "1867330"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1343479,
+          4.6812517
+        ]
+      }
+    }
+  ]
+}

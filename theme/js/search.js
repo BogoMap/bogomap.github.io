@@ -47,7 +47,7 @@ $(document).ready(function (){
 
     // Search callback logic
     var inp = document.getElementById("search-string");
-    $.getJSON('http://nominatim.openstreetmap.org/search?format=json&limit=5&q=' + inp.value + ", Managua, Nicaragua", function(data) {
+    $.getJSON('http://nominatim.openstreetmap.org/search?format=json&limit=5&q=' + inp.value + ", Bogota, Colombia", function(data) {
       var items = [];
       $.each(data, function(key, val) {
         bb = val.boundingbox;

@@ -1,0 +1,579 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-10-01T20:15:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/24084325",
+      "properties": {
+        "@id": "way/24084325",
+        "bridge": "yes",
+        "highway": "secondary",
+        "layer": "1",
+        "name": "Avenida Calle 68",
+        "oneway": "yes",
+        "@timestamp": "2012-07-19T21:11:10Z",
+        "@version": "9",
+        "@changeset": "12347513",
+        "@user": "OSMF Redaction Account",
+        "@uid": "722137",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2709277",
+            "reltags": {
+              "name": "Paloquemao- Villa Gladys",
+              "public_transport:version": "2",
+              "ref": "128 V Gladys",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0856328,
+            4.6771806
+          ],
+          [
+            -74.0861649,
+            4.6779657
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24671258",
+      "properties": {
+        "@id": "way/24671258",
+        "alt_name": "Avenida Chile",
+        "bridge": "yes",
+        "highway": "secondary",
+        "layer": "1",
+        "name": "Calle 72",
+        "oneway": "yes",
+        "@timestamp": "2015-12-05T23:23:49Z",
+        "@version": "11",
+        "@changeset": "35778028",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2709277",
+            "reltags": {
+              "name": "Paloquemao- Villa Gladys",
+              "public_transport:version": "2",
+              "ref": "128 V Gladys",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0726135,
+            4.6671876
+          ],
+          [
+            -74.0732048,
+            4.6676624
+          ],
+          [
+            -74.0741148,
+            4.6683412
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29118091",
+      "properties": {
+        "@id": "way/29118091",
+        "highway": "residential",
+        "name": "Carrera 65B",
+        "@timestamp": "2012-07-22T00:21:55Z",
+        "@version": "3",
+        "@changeset": "12423177",
+        "@user": "ikks",
+        "@uid": "37987",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2709277",
+            "reltags": {
+              "name": "Paloquemao- Villa Gladys",
+              "public_transport:version": "2",
+              "ref": "128 V Gladys",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0843037,
+            4.6752951
+          ],
+          [
+            -74.0839078,
+            4.6757631
+          ],
+          [
+            -74.0838534,
+            4.6758446
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90691314",
+      "properties": {
+        "@id": "way/90691314",
+        "highway": "secondary",
+        "name": "Avenida Calle 68",
+        "oneway": "yes",
+        "@timestamp": "2012-07-22T00:21:45Z",
+        "@version": "2",
+        "@changeset": "12423177",
+        "@user": "ikks",
+        "@uid": "37987",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2709277",
+            "reltags": {
+              "name": "Paloquemao- Villa Gladys",
+              "public_transport:version": "2",
+              "ref": "128 V Gladys",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0843037,
+            4.6752951
+          ],
+          [
+            -74.0852823,
+            4.6766811
+          ],
+          [
+            -74.0853717,
+            4.6767976
+          ],
+          [
+            -74.0856328,
+            4.6771806
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90893812",
+      "properties": {
+        "@id": "way/90893812",
+        "highway": "secondary",
+        "name": "Avenida Chile; Calle 72",
+        "oneway": "yes",
+        "@timestamp": "2016-01-21T02:48:16Z",
+        "@version": "6",
+        "@changeset": "36712864",
+        "@user": "Lore_trujillo",
+        "@uid": "1335396",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2709277",
+            "reltags": {
+              "name": "Paloquemao- Villa Gladys",
+              "public_transport:version": "2",
+              "ref": "128 V Gladys",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0914238,
+            4.6839245
+          ],
+          [
+            -74.0915527,
+            4.6840747
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/172463319",
+      "properties": {
+        "@id": "way/172463319",
+        "highway": "secondary",
+        "oneway": "yes",
+        "@timestamp": "2015-10-14T19:30:19Z",
+        "@version": "4",
+        "@changeset": "34639217",
+        "@user": "enavarrete",
+        "@uid": "737455",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2709277",
+            "reltags": {
+              "name": "Paloquemao- Villa Gladys",
+              "public_transport:version": "2",
+              "ref": "128 V Gladys",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0825013,
+            4.6748131
+          ],
+          [
+            -74.0831772,
+            4.6753216
+          ],
+          [
+            -74.0838534,
+            4.6758446
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/172463350",
+      "properties": {
+        "@id": "way/172463350",
+        "highway": "secondary",
+        "name": "Calle 72",
+        "oneway": "yes",
+        "@timestamp": "2016-03-20T20:31:30Z",
+        "@version": "6",
+        "@changeset": "37963497",
+        "@user": "SirWeigel",
+        "@uid": "1759764",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2709277",
+            "reltags": {
+              "name": "Paloquemao- Villa Gladys",
+              "public_transport:version": "2",
+              "ref": "128 V Gladys",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0790638,
+            4.6722002
+          ],
+          [
+            -74.0797678,
+            4.6727355
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/200746941",
+      "properties": {
+        "@id": "way/200746941",
+        "alt_name": "Avenida Chile",
+        "highway": "secondary",
+        "name": "Calle 72",
+        "oneway": "yes",
+        "@timestamp": "2015-12-05T23:23:49Z",
+        "@version": "5",
+        "@changeset": "35778028",
+        "@user": "AngocA",
+        "@uid": "89128",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2709277",
+            "reltags": {
+              "name": "Paloquemao- Villa Gladys",
+              "public_transport:version": "2",
+              "ref": "128 V Gladys",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0705152,
+            4.6656458
+          ],
+          [
+            -74.0709542,
+            4.6659782
+          ],
+          [
+            -74.0714087,
+            4.6662976
+          ],
+          [
+            -74.0715626,
+            4.6664126
+          ],
+          [
+            -74.0719246,
+            4.6666784
+          ],
+          [
+            -74.0723221,
+            4.6669509
+          ],
+          [
+            -74.0723808,
+            4.6669958
+          ],
+          [
+            -74.0726135,
+            4.6671876
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/392536681",
+      "properties": {
+        "@id": "way/392536681",
+        "highway": "secondary",
+        "name": "Avenida Chile; Calle 72",
+        "oneway": "yes",
+        "@timestamp": "2016-01-21T02:48:12Z",
+        "@version": "1",
+        "@changeset": "36712864",
+        "@user": "Lore_trujillo",
+        "@uid": "1335396",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "2709277",
+            "reltags": {
+              "name": "Paloquemao- Villa Gladys",
+              "public_transport:version": "2",
+              "ref": "128 V Gladys",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0915527,
+            4.6840747
+          ],
+          [
+            -74.0918571,
+            4.6843535
+          ],
+          [
+            -74.092615,
+            4.6850865
+          ],
+          [
+            -74.09276,
+            4.6852268
+          ],
+          [
+            -74.09292,
+            4.6853868
+          ],
+          [
+            -74.0934489,
+            4.6859157
+          ],
+          [
+            -74.0940686,
+            4.6864697
+          ],
+          [
+            -74.0944171,
+            4.6867869
+          ],
+          [
+            -74.0944809,
+            4.6868384
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/262177762",
+      "properties": {
+        "@id": "node/262177762",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-07-24T14:36:44Z",
+        "@version": "19",
+        "@changeset": "32851243",
+        "@user": "GUILLOMOLANO",
+        "@uid": "3090006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0915527,
+          4.6840747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/266893831",
+      "properties": {
+        "@id": "node/266893831",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-03-20T20:31:28Z",
+        "@version": "28",
+        "@changeset": "37963497",
+        "@user": "SirWeigel",
+        "@uid": "1759764"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0831772,
+          4.6753216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/301299349",
+      "properties": {
+        "@id": "node/301299349",
+        "highway": "traffic_signals",
+        "@timestamp": "2012-07-22T00:22:02Z",
+        "@version": "26",
+        "@changeset": "12423177",
+        "@user": "ikks",
+        "@uid": "37987"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0825013,
+          4.6748131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/312662083",
+      "properties": {
+        "@id": "node/312662083",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-12-05T23:23:51Z",
+        "@version": "16",
+        "@changeset": "35778028",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0709542,
+          4.6659782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/316854746",
+      "properties": {
+        "@id": "node/316854746",
+        "highway": "traffic_signals",
+        "@timestamp": "2009-05-16T04:50:09Z",
+        "@version": "53",
+        "@changeset": "1205737",
+        "@user": "Amaeth",
+        "@uid": "125172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0914238,
+          4.6839245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3879067295",
+      "properties": {
+        "@id": "node/3879067295",
+        "bus": "yes",
+        "name": "Sede Comunal 11 de Noviembre",
+        "network": "co:dc:sitp",
+        "operator": "SITP",
+        "public_transport": "stop_position",
+        "ref:sitp": "095A00",
+        "source": "BogoMap",
+        "@timestamp": "2015-12-05T23:23:46Z",
+        "@version": "1",
+        "@changeset": "35778028",
+        "@user": "AngocA",
+        "@uid": "89128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0715626,
+          4.6664126
+        ]
+      }
+    }
+  ]
+}
