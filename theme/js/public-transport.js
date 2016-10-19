@@ -53,8 +53,8 @@ function load_map(url_params) {
 
   // Initialize map
   map = new L.map('map', {
-    center: [4.65,-74.07],
-    zoom: 13,
+    center: [5.829,-73.029],
+    zoom: 14,
     attributionControl: false,
     layers: baseLayers[url_params.layers] || new_transport
   });
